@@ -1,0 +1,3283 @@
+Sales Person,Country,Product,Date,Amount,Boxes Shipped
+Jehu Rudeforth,UK,Mint Chip Choco,2022-01-04,5320,180
+Van Tuxwell,India,85% Dark Bars,2022-08-01,7896,94
+Gigi Bohling,India,Peanut Butter Cubes,2022-07-07,4501,91
+Jan Morforth,Australia,Peanut Butter Cubes,2022-04-27,12726,342
+Jehu Rudeforth,UK,Peanut Butter Cubes,2022-02-24,13685,184
+Van Tuxwell,India,Smooth Sliky Salty,2022-06-06,5376,38
+Oby Sorrel,UK,99% Dark & Pure,2022-01-25,13685,176
+Gunar Cockshoot,Australia,After Nines,2022-03-24,3080,73
+Jehu Rudeforth,New Zealand,50% Dark Bites,2022-04-20,3990,59
+Brien Boise,Australia,99% Dark & Pure,2022-07-04,2835,102
+Rafaelita Blaksland,UK,Smooth Sliky Salty,2022-01-13,4704,62
+Barr Faughny,USA,Orange Choco,2022-03-10,3703,11
+Mallorie Waber,Canada,Eclairs,2022-01-13,1442,286
+Karlen McCaffrey,New Zealand,Drinking Coco,2022-07-28,168,156
+Marney O'Breen,New Zealand,Peanut Butter Cubes,2022-08-03,8379,173
+Beverie Moffet,Australia,Organic Choco Syrup,2022-01-26,6790,356
+Van Tuxwell,Canada,Organic Choco Syrup,2022-02-14,4067,42
+Roddy Speechley,USA,Smooth Sliky Salty,2022-04-05,3017,140
+Beverie Moffet,Canada,Milk Bars,2022-02-16,8799,250
+Curtice Advani,UK,85% Dark Bars,2022-06-08,1085,172
+Brien Boise,Australia,Eclairs,2022-06-27,6888,88
+Gunar Cockshoot,USA,Spicy Special Slims,2022-02-17,1267,157
+Marney O'Breen,USA,After Nines,2022-05-30,4753,163
+Husein Augar,UK,Drinking Coco,2022-03-14,3003,113
+Kaine Padly,Australia,Eclairs,2022-02-28,7672,115
+Karlen McCaffrey,India,Fruit & Nut Bars,2022-01-26,168,321
+Roddy Speechley,Canada,Spicy Special Slims,2022-02-09,1652,186
+Husein Augar,USA,Eclairs,2022-07-07,4025,112
+Dennison Crosswaite,New Zealand,White Choc,2022-07-05,9492,151
+Dennison Crosswaite,New Zealand,Manuka Honey Choco,2022-06-15,5061,301
+Van Tuxwell,New Zealand,85% Dark Bars,2022-05-24,1722,121
+Rafaelita Blaksland,UK,99% Dark & Pure,2022-06-29,12446,150
+Wilone O'Kielt,Australia,Manuka Honey Choco,2022-05-11,4284,94
+Karlen McCaffrey,UK,Almond Choco,2022-06-30,6839,133
+Andria Kimpton,Canada,After Nines,2022-05-11,2163,70
+Roddy Speechley,USA,Manuka Honey Choco,2022-07-22,9583,315
+Andria Kimpton,UK,50% Dark Bites,2022-08-24,2653,314
+Kelci Walkden,New Zealand,After Nines,2022-07-07,147,72
+Camilla Castle,Australia,85% Dark Bars,2022-05-19,3654,14
+Karlen McCaffrey,India,Manuka Honey Choco,2022-07-04,2443,581
+Kelci Walkden,USA,After Nines,2022-06-02,938,16
+Karlen McCaffrey,USA,Raspberry Choco,2022-04-15,14749,354
+Mallorie Waber,Canada,Choco Coated Almonds,2022-07-11,4781,241
+Andria Kimpton,India,Spicy Special Slims,2022-02-23,6307,142
+Madelene Upcott,Canada,Almond Choco,2022-08-22,7602,102
+Kaine Padly,USA,Peanut Butter Cubes,2022-02-16,6790,188
+Van Tuxwell,USA,50% Dark Bites,2022-01-13,9737,160
+Curtice Advani,Australia,Milk Bars,2022-02-14,6979,18
+Roddy Speechley,India,Eclairs,2022-06-10,4382,303
+Curtice Advani,India,Fruit & Nut Bars,2022-07-07,5243,176
+Curtice Advani,Canada,Almond Choco,2022-03-24,4865,70
+Brien Boise,Australia,Fruit & Nut Bars,2022-06-06,8575,23
+Dotty Strutley,Australia,Drinking Coco,2022-07-19,91,135
+Beverie Moffet,USA,Raspberry Choco,2022-04-19,14798,83
+Marney O'Breen,India,85% Dark Bars,2022-07-19,2205,179
+Jehu Rudeforth,Canada,Drinking Coco,2022-07-15,441,24
+Ches Bonnell,New Zealand,Spicy Special Slims,2022-02-14,3556,18
+Brien Boise,Canada,99% Dark & Pure,2022-05-18,16793,416
+Barr Faughny,Australia,Fruit & Nut Bars,2022-06-30,15421,55
+Andria Kimpton,Australia,50% Dark Bites,2022-06-02,4438,227
+Andria Kimpton,Australia,Drinking Coco,2022-06-28,1603,48
+Marney O'Breen,Australia,Organic Choco Syrup,2022-05-16,273,174
+Kelci Walkden,Canada,Baker's Choco Chips,2022-05-26,3073,302
+Karlen McCaffrey,India,Almond Choco,2022-07-06,6090,149
+Oby Sorrel,India,99% Dark & Pure,2022-05-27,10255,11
+Wilone O'Kielt,Australia,Caramel Stuffed Bars,2022-04-14,2030,11
+Van Tuxwell,Australia,Organic Choco Syrup,2022-08-10,19453,14
+Camilla Castle,India,50% Dark Bites,2022-07-04,9275,411
+Oby Sorrel,India,Organic Choco Syrup,2022-07-08,6181,56
+Jan Morforth,USA,Peanut Butter Cubes,2022-07-22,9037,102
+Gigi Bohling,USA,Choco Coated Almonds,2022-03-02,12313,103
+Gigi Bohling,UK,Almond Choco,2022-01-10,5642,9
+Jehu Rudeforth,New Zealand,White Choc,2022-03-11,2800,241
+Andria Kimpton,New Zealand,Peanut Butter Cubes,2022-06-20,959,265
+Van Tuxwell,UK,Organic Choco Syrup,2022-08-26,2002,214
+Roddy Speechley,Canada,Milk Bars,2022-07-13,609,32
+Camilla Castle,USA,Spicy Special Slims,2022-02-11,1274,244
+Marney O'Breen,USA,Orange Choco,2022-01-27,7595,181
+Van Tuxwell,UK,99% Dark & Pure,2022-01-31,4725,137
+Camilla Castle,USA,White Choc,2022-08-18,9681,24
+Andria Kimpton,USA,Raspberry Choco,2022-06-30,14504,21
+Dotty Strutley,Australia,Fruit & Nut Bars,2022-08-23,280,311
+Brien Boise,New Zealand,Mint Chip Choco,2022-08-01,63,181
+Roddy Speechley,New Zealand,After Nines,2022-05-25,8001,10
+Roddy Speechley,Canada,Organic Choco Syrup,2022-01-10,4032,82
+Dennison Crosswaite,Australia,70% Dark Bites,2022-02-07,5859,108
+Karlen McCaffrey,USA,Orange Choco,2022-05-12,11095,401
+Madelene Upcott,Australia,Spicy Special Slims,2022-03-07,7182,408
+Dennison Crosswaite,Australia,85% Dark Bars,2022-04-05,6881,420
+Andria Kimpton,Canada,Caramel Stuffed Bars,2022-01-03,7154,348
+Dennison Crosswaite,UK,Eclairs,2022-03-24,6188,270
+Madelene Upcott,India,Raspberry Choco,2022-07-07,4221,9
+Van Tuxwell,USA,After Nines,2022-07-26,630,264
+Wilone O'Kielt,Australia,Organic Choco Syrup,2022-07-07,1743,111
+Karlen McCaffrey,Canada,50% Dark Bites,2022-07-15,2919,65
+Roddy Speechley,New Zealand,Orange Choco,2022-04-01,49,97
+Beverie Moffet,Australia,Eclairs,2022-06-20,1827,6
+Kelci Walkden,UK,Fruit & Nut Bars,2022-06-29,13006,482
+Marney O'Breen,USA,50% Dark Bites,2022-06-15,1064,106
+Husein Augar,USA,After Nines,2022-04-08,11571,180
+Dennison Crosswaite,Australia,Raspberry Choco,2022-03-14,5740,31
+Andria Kimpton,USA,Fruit & Nut Bars,2022-07-15,1456,359
+Kelci Walkden,India,Eclairs,2022-04-19,5334,80
+Marney O'Breen,USA,99% Dark & Pure,2022-03-28,4151,296
+Brien Boise,Canada,Spicy Special Slims,2022-03-04,8106,101
+Karlen McCaffrey,New Zealand,70% Dark Bites,2022-08-02,126,40
+Husein Augar,UK,Spicy Special Slims,2022-08-25,4697,42
+Marney O'Breen,USA,Almond Choco,2022-02-25,7798,167
+Kelci Walkden,India,Orange Choco,2022-06-07,9408,138
+Jan Morforth,India,Spicy Special Slims,2022-04-12,1939,520
+Ches Bonnell,India,Spicy Special Slims,2022-07-06,10906,94
+Kelci Walkden,UK,Smooth Sliky Salty,2022-01-19,5929,175
+Madelene Upcott,Australia,Fruit & Nut Bars,2022-01-05,5579,92
+Madelene Upcott,Canada,70% Dark Bites,2022-01-24,10927,141
+Wilone O'Kielt,Australia,Drinking Coco,2022-04-06,623,283
+Gunar Cockshoot,Australia,Fruit & Nut Bars,2022-06-15,6013,21
+Gigi Bohling,Canada,Baker's Choco Chips,2022-01-28,1505,47
+Kelci Walkden,India,Caramel Stuffed Bars,2022-03-16,476,125
+Rafaelita Blaksland,Australia,Drinking Coco,2022-02-21,11550,396
+Kelci Walkden,USA,Manuka Honey Choco,2022-02-16,17318,87
+Jehu Rudeforth,Canada,Spicy Special Slims,2022-01-13,1848,27
+Kelci Walkden,Australia,Eclairs,2022-03-23,7273,547
+Curtice Advani,Canada,Spicy Special Slims,2022-06-16,854,118
+Oby Sorrel,India,Raspberry Choco,2022-04-14,6832,46
+Kelci Walkden,UK,Eclairs,2022-01-25,4606,57
+Jan Morforth,India,Almond Choco,2022-03-11,4466,22
+Dotty Strutley,UK,Almond Choco,2022-07-28,16114,96
+Marney O'Breen,New Zealand,After Nines,2022-03-09,1561,44
+Husein Augar,Australia,Orange Choco,2022-06-28,8897,188
+Marney O'Breen,Australia,Milk Bars,2022-07-28,2464,387
+Kelci Walkden,Canada,99% Dark & Pure,2022-08-15,4830,50
+Kaine Padly,Australia,Manuka Honey Choco,2022-01-12,2765,264
+Beverie Moffet,New Zealand,White Choc,2022-03-24,7126,7
+Van Tuxwell,UK,Milk Bars,2022-07-25,4263,90
+Oby Sorrel,Canada,99% Dark & Pure,2022-08-01,3605,403
+Van Tuxwell,India,Organic Choco Syrup,2022-05-16,19929,174
+Roddy Speechley,India,Smooth Sliky Salty,2022-08-10,5103,140
+Jan Morforth,India,Eclairs,2022-01-05,2541,27
+Ches Bonnell,UK,Smooth Sliky Salty,2022-07-11,5663,110
+Wilone O'Kielt,USA,After Nines,2022-04-25,392,30
+Gigi Bohling,New Zealand,Fruit & Nut Bars,2022-04-04,10976,121
+Barr Faughny,USA,Raspberry Choco,2022-04-12,9282,101
+Wilone O'Kielt,New Zealand,85% Dark Bars,2022-08-02,1827,117
+Gigi Bohling,New Zealand,Manuka Honey Choco,2022-06-28,8267,272
+Ches Bonnell,Australia,Eclairs,2022-07-05,4116,128
+Rafaelita Blaksland,New Zealand,Choco Coated Almonds,2022-06-07,2093,45
+Brien Boise,New Zealand,Smooth Sliky Salty,2022-01-18,1015,27
+Brien Boise,Australia,Baker's Choco Chips,2022-01-04,12516,212
+Dennison Crosswaite,Australia,99% Dark & Pure,2022-01-31,2758,18
+Kelci Walkden,India,Almond Choco,2022-03-14,3297,149
+Camilla Castle,Australia,70% Dark Bites,2022-04-29,6048,477
+Oby Sorrel,India,Smooth Sliky Salty,2022-02-07,10101,108
+Kaine Padly,UK,Organic Choco Syrup,2022-03-31,2282,178
+Marney O'Breen,India,Caramel Stuffed Bars,2022-03-16,4361,81
+Karlen McCaffrey,UK,Eclairs,2022-01-25,7798,196
+Van Tuxwell,India,Baker's Choco Chips,2022-06-20,3052,447
+Gigi Bohling,UK,After Nines,2022-03-29,8029,175
+Curtice Advani,Australia,Orange Choco,2022-07-12,854,136
+Jehu Rudeforth,Canada,Smooth Sliky Salty,2022-07-11,5460,138
+Karlen McCaffrey,Canada,Smooth Sliky Salty,2022-01-19,3017,184
+Andria Kimpton,USA,85% Dark Bars,2022-04-05,8911,82
+Jehu Rudeforth,Canada,Milk Bars,2022-02-21,7203,12
+Rafaelita Blaksland,New Zealand,Caramel Stuffed Bars,2022-05-20,13083,14
+Mallorie Waber,Australia,Milk Bars,2022-07-29,2779,104
+Barr Faughny,USA,Fruit & Nut Bars,2022-01-28,9058,46
+Marney O'Breen,UK,Caramel Stuffed Bars,2022-07-19,3549,112
+Mallorie Waber,New Zealand,Manuka Honey Choco,2022-04-13,9436,11
+Roddy Speechley,India,Peanut Butter Cubes,2022-02-11,10283,21
+Roddy Speechley,New Zealand,Milk Bars,2022-03-02,5446,116
+Ches Bonnell,Australia,White Choc,2022-03-02,1043,202
+Van Tuxwell,USA,99% Dark & Pure,2022-07-28,12586,6
+Kelci Walkden,India,After Nines,2022-01-07,1687,520
+Brien Boise,UK,White Choc,2022-04-12,5299,167
+Van Tuxwell,Canada,Almond Choco,2022-06-27,3213,72
+Jehu Rudeforth,Australia,50% Dark Bites,2022-01-14,5194,418
+Karlen McCaffrey,UK,Baker's Choco Chips,2022-02-07,4753,389
+Jehu Rudeforth,Australia,Orange Choco,2022-03-23,13706,26
+Marney O'Breen,India,Peanut Butter Cubes,2022-01-10,6489,146
+Oby Sorrel,UK,Choco Coated Almonds,2022-03-17,9324,41
+Gigi Bohling,USA,Spicy Special Slims,2022-01-21,10829,54
+Barr Faughny,Australia,White Choc,2022-07-04,8113,370
+Kaine Padly,Canada,Peanut Butter Cubes,2022-07-04,3269,176
+Dotty Strutley,USA,Manuka Honey Choco,2022-08-10,273,210
+Dennison Crosswaite,Australia,50% Dark Bites,2022-04-01,7287,12
+Gigi Bohling,India,Raspberry Choco,2022-02-22,2583,159
+Camilla Castle,UK,White Choc,2022-01-03,9982,187
+Karlen McCaffrey,India,Drinking Coco,2022-05-31,4795,233
+Dotty Strutley,UK,99% Dark & Pure,2022-01-03,9310,282
+Husein Augar,New Zealand,Caramel Stuffed Bars,2022-01-27,497,475
+Barr Faughny,UK,50% Dark Bites,2022-01-28,581,65
+Curtice Advani,Australia,Organic Choco Syrup,2022-06-28,3472,311
+Husein Augar,UK,Choco Coated Almonds,2022-03-02,4333,43
+Wilone O'Kielt,Australia,After Nines,2022-05-27,3325,26
+Dennison Crosswaite,USA,Almond Choco,2022-06-30,11718,84
+Barr Faughny,Canada,Peanut Butter Cubes,2022-06-07,2100,78
+Kaine Padly,USA,70% Dark Bites,2022-05-12,4018,100
+Barr Faughny,New Zealand,Raspberry Choco,2022-07-29,6468,66
+Dennison Crosswaite,UK,White Choc,2022-08-03,7238,265
+Barr Faughny,India,Baker's Choco Chips,2022-08-18,6454,141
+Van Tuxwell,New Zealand,Smooth Sliky Salty,2022-06-14,3115,42
+Beverie Moffet,UK,White Choc,2022-06-30,6475,76
+Camilla Castle,New Zealand,Mint Chip Choco,2022-06-13,1162,190
+Ches Bonnell,UK,Orange Choco,2022-04-27,14238,54
+Jan Morforth,Australia,White Choc,2022-07-27,3472,32
+Mallorie Waber,Canada,85% Dark Bars,2022-04-20,1428,424
+Rafaelita Blaksland,India,Spicy Special Slims,2022-01-04,8064,134
+Ches Bonnell,Australia,Mint Chip Choco,2022-02-21,9660,92
+Karlen McCaffrey,Australia,White Choc,2022-01-05,7357,48
+Beverie Moffet,India,Drinking Coco,2022-07-15,6055,46
+Brien Boise,Australia,Choco Coated Almonds,2022-05-25,5124,62
+Karlen McCaffrey,Canada,Eclairs,2022-04-20,3479,358
+Gigi Bohling,USA,99% Dark & Pure,2022-06-02,784,249
+Marney O'Breen,UK,Smooth Sliky Salty,2022-05-13,18991,88
+Beverie Moffet,New Zealand,Baker's Choco Chips,2022-08-03,1372,144
+Beverie Moffet,Australia,Milk Bars,2022-05-25,735,390
+Van Tuxwell,UK,Raspberry Choco,2022-03-16,6538,79
+Jan Morforth,Australia,Orange Choco,2022-07-04,3199,122
+Jehu Rudeforth,India,50% Dark Bites,2022-07-05,3472,135
+Madelene Upcott,USA,After Nines,2022-03-15,4571,430
+Barr Faughny,UK,Raspberry Choco,2022-08-22,5481,69
+Ches Bonnell,Australia,70% Dark Bites,2022-01-12,3136,125
+Marney O'Breen,UK,Baker's Choco Chips,2022-06-10,252,154
+Kaine Padly,Australia,Peanut Butter Cubes,2022-03-25,5460,286
+Rafaelita Blaksland,India,Almond Choco,2022-07-27,3395,99
+Husein Augar,UK,Caramel Stuffed Bars,2022-04-15,14938,433
+Roddy Speechley,India,Orange Choco,2022-06-27,4053,19
+Jehu Rudeforth,UK,70% Dark Bites,2022-04-14,5565,258
+Husein Augar,Australia,Manuka Honey Choco,2022-03-15,7161,92
+Madelene Upcott,USA,Eclairs,2022-03-18,8883,200
+Brien Boise,India,Eclairs,2022-04-29,1351,61
+Mallorie Waber,New Zealand,White Choc,2022-02-25,3171,246
+Husein Augar,USA,Milk Bars,2022-03-02,854,56
+Van Tuxwell,Australia,Milk Bars,2022-06-20,7910,87
+Beverie Moffet,Canada,White Choc,2022-07-15,9275,173
+Dotty Strutley,Australia,50% Dark Bites,2022-05-12,3108,252
+Mallorie Waber,New Zealand,Organic Choco Syrup,2022-07-01,5075,256
+Husein Augar,USA,85% Dark Bars,2022-08-08,378,54
+Madelene Upcott,Australia,50% Dark Bites,2022-07-25,7350,6
+Wilone O'Kielt,UK,Drinking Coco,2022-05-18,3388,55
+Camilla Castle,India,Peanut Butter Cubes,2022-07-15,11837,277
+Curtice Advani,India,70% Dark Bites,2022-07-05,2282,44
+Mallorie Waber,USA,Manuka Honey Choco,2022-07-04,5425,96
+Dotty Strutley,UK,70% Dark Bites,2022-06-20,1267,216
+Gunar Cockshoot,Australia,Almond Choco,2022-01-25,3752,424
+Kaine Padly,New Zealand,Spicy Special Slims,2022-07-01,7728,37
+Gigi Bohling,USA,50% Dark Bites,2022-04-13,2296,59
+Beverie Moffet,UK,Smooth Sliky Salty,2022-05-04,4403,76
+Beverie Moffet,Australia,Baker's Choco Chips,2022-08-04,3192,109
+Beverie Moffet,India,70% Dark Bites,2022-06-01,448,146
+Jehu Rudeforth,UK,Choco Coated Almonds,2022-04-22,4270,185
+Kaine Padly,USA,50% Dark Bites,2022-08-03,70,27
+Ches Bonnell,USA,Orange Choco,2022-06-10,1743,69
+Gunar Cockshoot,UK,Manuka Honey Choco,2022-06-27,6762,46
+Marney O'Breen,Australia,Smooth Sliky Salty,2022-01-03,3745,170
+Marney O'Breen,India,After Nines,2022-07-11,2639,179
+Ches Bonnell,New Zealand,Milk Bars,2022-08-17,4389,126
+Rafaelita Blaksland,USA,Fruit & Nut Bars,2022-01-18,2604,65
+Ches Bonnell,India,Organic Choco Syrup,2022-03-08,16569,99
+Mallorie Waber,Australia,Orange Choco,2022-03-07,14658,275
+Husein Augar,India,70% Dark Bites,2022-05-09,6454,157
+Barr Faughny,New Zealand,85% Dark Bars,2022-05-23,2100,157
+Madelene Upcott,UK,Caramel Stuffed Bars,2022-04-15,161,145
+Gigi Bohling,Australia,Drinking Coco,2022-07-27,2807,139
+Marney O'Breen,Canada,Choco Coated Almonds,2022-08-22,2639,406
+Ches Bonnell,USA,70% Dark Bites,2022-05-11,4571,122
+Madelene Upcott,India,Organic Choco Syrup,2022-01-26,4781,38
+Barr Faughny,USA,50% Dark Bites,2022-04-14,13034,117
+Dennison Crosswaite,New Zealand,Mint Chip Choco,2022-04-05,6454,417
+Marney O'Breen,New Zealand,Smooth Sliky Salty,2022-06-14,8484,57
+Brien Boise,Canada,Almond Choco,2022-04-13,4781,125
+Beverie Moffet,Australia,White Choc,2022-06-27,2240,166
+Dotty Strutley,Australia,Eclairs,2022-01-26,6979,3
+Barr Faughny,UK,White Choc,2022-07-05,1652,72
+Beverie Moffet,Canada,Baker's Choco Chips,2022-01-11,13447,95
+Kelci Walkden,USA,White Choc,2022-03-07,9422,22
+Kaine Padly,Canada,50% Dark Bites,2022-03-04,8687,100
+Karlen McCaffrey,Canada,Organic Choco Syrup,2022-07-15,2415,312
+Kaine Padly,UK,Peanut Butter Cubes,2022-05-11,6272,86
+Karlen McCaffrey,USA,Milk Bars,2022-01-27,4389,7
+Karlen McCaffrey,India,Orange Choco,2022-06-27,3122,149
+Ches Bonnell,India,Smooth Sliky Salty,2022-08-03,8043,18
+Wilone O'Kielt,New Zealand,Mint Chip Choco,2022-08-19,11662,242
+Wilone O'Kielt,Australia,Fruit & Nut Bars,2022-06-15,392,102
+Dennison Crosswaite,UK,Peanut Butter Cubes,2022-02-07,8925,158
+Karlen McCaffrey,Australia,Almond Choco,2022-07-08,7294,128
+Dennison Crosswaite,India,Milk Bars,2022-04-21,1526,96
+Ches Bonnell,UK,Mint Chip Choco,2022-04-08,2688,209
+Husein Augar,Australia,50% Dark Bites,2022-08-19,14889,52
+Jan Morforth,India,Fruit & Nut Bars,2022-05-04,2912,55
+Mallorie Waber,USA,85% Dark Bars,2022-05-11,2632,108
+Mallorie Waber,USA,Eclairs,2022-03-22,6328,51
+Dennison Crosswaite,Canada,Spicy Special Slims,2022-08-10,2527,216
+Dennison Crosswaite,USA,Fruit & Nut Bars,2022-05-04,1414,318
+Kelci Walkden,USA,99% Dark & Pure,2022-08-18,7714,238
+Dotty Strutley,Canada,Raspberry Choco,2022-08-03,4347,238
+Marney O'Breen,New Zealand,Milk Bars,2022-01-14,7490,315
+Madelene Upcott,Australia,Choco Coated Almonds,2022-04-08,2058,72
+Kelci Walkden,UK,Orange Choco,2022-08-01,3640,3
+Dennison Crosswaite,Canada,Eclairs,2022-03-15,455,45
+Karlen McCaffrey,India,Mint Chip Choco,2022-07-15,10990,184
+Barr Faughny,New Zealand,Almond Choco,2022-01-13,5558,127
+Mallorie Waber,Australia,85% Dark Bars,2022-08-26,2541,53
+Ches Bonnell,Canada,Eclairs,2022-01-10,1876,172
+Gigi Bohling,Australia,White Choc,2022-05-11,5523,87
+Beverie Moffet,New Zealand,85% Dark Bars,2022-08-30,11200,22
+Kaine Padly,USA,Caramel Stuffed Bars,2022-07-21,5593,122
+Mallorie Waber,Australia,Almond Choco,2022-08-01,7882,125
+Brien Boise,Canada,85% Dark Bars,2022-02-17,10241,259
+Brien Boise,Australia,Drinking Coco,2022-07-27,6832,156
+Dotty Strutley,USA,Orange Choco,2022-02-23,1379,107
+Rafaelita Blaksland,Australia,50% Dark Bites,2022-03-22,3010,40
+Dennison Crosswaite,India,99% Dark & Pure,2022-06-23,6888,311
+Curtice Advani,UK,White Choc,2022-02-01,1540,73
+Kelci Walkden,Australia,After Nines,2022-03-02,6916,288
+Gigi Bohling,UK,Fruit & Nut Bars,2022-04-06,1232,86
+Gunar Cockshoot,Australia,Raspberry Choco,2022-03-17,602,72
+Curtice Advani,UK,Fruit & Nut Bars,2022-06-24,10927,136
+Barr Faughny,Canada,50% Dark Bites,2022-07-19,10185,303
+Curtice Advani,USA,Spicy Special Slims,2022-07-11,1603,264
+Brien Boise,India,Almond Choco,2022-01-13,2170,218
+Oby Sorrel,New Zealand,Smooth Sliky Salty,2022-07-07,8673,60
+Jan Morforth,India,85% Dark Bars,2022-05-25,4760,418
+Marney O'Breen,India,Fruit & Nut Bars,2022-04-13,4753,151
+Andria Kimpton,New Zealand,50% Dark Bites,2022-03-02,3374,202
+Gunar Cockshoot,Canada,Raspberry Choco,2022-06-23,2058,126
+Kelci Walkden,USA,Drinking Coco,2022-07-26,6454,160
+Van Tuxwell,Canada,White Choc,2022-03-22,420,3
+Rafaelita Blaksland,USA,Baker's Choco Chips,2022-06-09,2863,58
+Van Tuxwell,Australia,Caramel Stuffed Bars,2022-05-17,5936,59
+Ches Bonnell,New Zealand,Peanut Butter Cubes,2022-03-04,889,273
+Kelci Walkden,Canada,Milk Bars,2022-07-07,16016,28
+Dennison Crosswaite,Canada,Choco Coated Almonds,2022-01-13,10479,118
+Curtice Advani,Australia,Almond Choco,2022-07-13,2912,75
+Madelene Upcott,Australia,85% Dark Bars,2022-06-16,1575,329
+Gigi Bohling,UK,50% Dark Bites,2022-07-18,8197,69
+Ches Bonnell,UK,Manuka Honey Choco,2022-05-30,4221,395
+Gigi Bohling,UK,70% Dark Bites,2022-06-21,840,81
+Jehu Rudeforth,Australia,Peanut Butter Cubes,2022-06-24,5691,38
+Marney O'Breen,India,Eclairs,2022-01-13,3472,96
+Curtice Advani,Canada,Fruit & Nut Bars,2022-04-04,4193,195
+Kaine Padly,UK,Smooth Sliky Salty,2022-06-08,9016,554
+Karlen McCaffrey,Canada,Spicy Special Slims,2022-08-02,6328,47
+Kelci Walkden,USA,Organic Choco Syrup,2022-07-21,9870,152
+Curtice Advani,India,Spicy Special Slims,2022-06-20,161,134
+Roddy Speechley,India,After Nines,2022-06-22,2576,112
+Camilla Castle,Australia,Caramel Stuffed Bars,2022-05-02,3178,16
+Curtice Advani,Australia,99% Dark & Pure,2022-01-07,4676,84
+Mallorie Waber,UK,50% Dark Bites,2022-02-21,5502,99
+Ches Bonnell,Canada,Baker's Choco Chips,2022-03-21,7462,371
+Van Tuxwell,UK,Drinking Coco,2022-04-04,5803,136
+Gunar Cockshoot,Canada,Fruit & Nut Bars,2022-03-24,13888,203
+Gunar Cockshoot,New Zealand,Spicy Special Slims,2022-06-28,6867,183
+Gunar Cockshoot,Australia,Drinking Coco,2022-01-14,2317,195
+Karlen McCaffrey,New Zealand,Fruit & Nut Bars,2022-02-07,1218,135
+Dennison Crosswaite,New Zealand,Drinking Coco,2022-01-11,4109,197
+Jehu Rudeforth,India,99% Dark & Pure,2022-02-25,1953,242
+Dotty Strutley,Australia,Mint Chip Choco,2022-08-01,6790,25
+Roddy Speechley,Australia,Mint Chip Choco,2022-05-05,6797,252
+Madelene Upcott,New Zealand,Raspberry Choco,2022-05-18,9226,415
+Dotty Strutley,New Zealand,Choco Coated Almonds,2022-01-04,5733,348
+Roddy Speechley,New Zealand,50% Dark Bites,2022-05-09,4312,211
+Rafaelita Blaksland,India,Smooth Sliky Salty,2022-05-06,1638,81
+Husein Augar,UK,White Choc,2022-01-13,10815,145
+Roddy Speechley,Australia,Almond Choco,2022-06-24,4466,74
+Van Tuxwell,USA,Caramel Stuffed Bars,2022-02-14,987,21
+Camilla Castle,Australia,99% Dark & Pure,2022-01-18,4669,101
+Kaine Padly,India,Milk Bars,2022-05-02,2905,91
+Ches Bonnell,Australia,Smooth Sliky Salty,2022-05-16,7490,54
+Mallorie Waber,USA,Almond Choco,2022-01-28,6986,368
+Kaine Padly,Canada,99% Dark & Pure,2022-06-24,1288,409
+Oby Sorrel,UK,After Nines,2022-07-18,2345,104
+Gunar Cockshoot,UK,Eclairs,2022-04-13,3619,164
+Dotty Strutley,USA,Caramel Stuffed Bars,2022-04-15,16982,76
+Jan Morforth,India,Peanut Butter Cubes,2022-01-04,8092,178
+Husein Augar,Australia,Eclairs,2022-07-04,6993,31
+Beverie Moffet,USA,Smooth Sliky Salty,2022-03-24,2317,352
+Camilla Castle,Australia,Manuka Honey Choco,2022-03-17,637,169
+Oby Sorrel,Australia,Almond Choco,2022-02-15,6034,223
+Jan Morforth,USA,Orange Choco,2022-06-29,980,146
+Gigi Bohling,USA,Fruit & Nut Bars,2022-05-24,2821,112
+Mallorie Waber,UK,Milk Bars,2022-01-10,3563,284
+Curtice Advani,USA,Raspberry Choco,2022-03-15,2996,139
+Marney O'Breen,Canada,Milk Bars,2022-02-08,2436,309
+Brien Boise,India,Caramel Stuffed Bars,2022-02-25,1540,100
+Gunar Cockshoot,USA,Eclairs,2022-05-03,6916,42
+Roddy Speechley,USA,Fruit & Nut Bars,2022-06-14,5509,24
+Gunar Cockshoot,India,50% Dark Bites,2022-08-09,12992,83
+Wilone O'Kielt,New Zealand,Manuka Honey Choco,2022-07-11,3724,234
+Kaine Padly,UK,Manuka Honey Choco,2022-01-14,7133,118
+Van Tuxwell,Canada,Manuka Honey Choco,2022-02-24,8617,46
+Wilone O'Kielt,New Zealand,Almond Choco,2022-03-15,9198,144
+Oby Sorrel,New Zealand,Baker's Choco Chips,2022-04-25,11823,47
+Dennison Crosswaite,Australia,Organic Choco Syrup,2022-05-10,5775,41
+Marney O'Breen,Australia,Spicy Special Slims,2022-06-23,13125,275
+Beverie Moffet,Canada,Smooth Sliky Salty,2022-02-28,14287,370
+Brien Boise,USA,Organic Choco Syrup,2022-05-25,16233,138
+Roddy Speechley,New Zealand,Baker's Choco Chips,2022-02-22,5313,215
+Van Tuxwell,UK,85% Dark Bars,2022-07-11,3577,134
+Marney O'Breen,Canada,Spicy Special Slims,2022-01-03,3528,336
+Rafaelita Blaksland,New Zealand,70% Dark Bites,2022-08-24,679,280
+Beverie Moffet,USA,50% Dark Bites,2022-07-28,2450,352
+Brien Boise,USA,Mint Chip Choco,2022-05-25,10577,150
+Karlen McCaffrey,New Zealand,Eclairs,2022-05-06,2597,177
+Barr Faughny,India,Drinking Coco,2022-01-28,2219,142
+Marney O'Breen,UK,Orange Choco,2022-06-06,11319,12
+Brien Boise,New Zealand,Baker's Choco Chips,2022-07-12,5978,24
+Ches Bonnell,Canada,Spicy Special Slims,2022-08-05,5327,183
+Brien Boise,USA,Orange Choco,2022-01-28,6020,147
+Kaine Padly,India,Spicy Special Slims,2022-08-31,5614,137
+Mallorie Waber,USA,50% Dark Bites,2022-04-19,1736,13
+Mallorie Waber,UK,Mint Chip Choco,2022-06-29,6384,2
+Beverie Moffet,India,Choco Coated Almonds,2022-02-24,3577,261
+Madelene Upcott,UK,Smooth Sliky Salty,2022-03-04,14539,84
+Gigi Bohling,India,Eclairs,2022-06-21,3493,68
+Rafaelita Blaksland,Australia,Organic Choco Syrup,2022-01-26,994,105
+Oby Sorrel,New Zealand,White Choc,2022-06-10,4361,40
+Andria Kimpton,UK,Drinking Coco,2022-05-23,1554,65
+Kelci Walkden,India,Milk Bars,2022-04-15,966,107
+Karlen McCaffrey,New Zealand,Caramel Stuffed Bars,2022-01-31,5334,227
+Andria Kimpton,New Zealand,Organic Choco Syrup,2022-03-04,4935,39
+Barr Faughny,New Zealand,After Nines,2022-04-19,10024,84
+Beverie Moffet,UK,Almond Choco,2022-05-16,2506,100
+Oby Sorrel,Australia,Raspberry Choco,2022-02-17,1043,120
+Dennison Crosswaite,USA,Raspberry Choco,2022-01-18,6524,257
+Roddy Speechley,Canada,Orange Choco,2022-02-09,8148,85
+Mallorie Waber,Canada,Orange Choco,2022-03-23,3577,178
+Madelene Upcott,New Zealand,Caramel Stuffed Bars,2022-02-01,3374,151
+Mallorie Waber,India,Drinking Coco,2022-03-07,3948,142
+Ches Bonnell,UK,White Choc,2022-01-03,3269,226
+Ches Bonnell,USA,White Choc,2022-02-11,5271,341
+Dennison Crosswaite,New Zealand,Orange Choco,2022-03-16,4571,140
+Dotty Strutley,India,White Choc,2022-08-15,12327,330
+Gigi Bohling,India,Manuka Honey Choco,2022-05-12,4935,73
+Van Tuxwell,India,Spicy Special Slims,2022-04-11,6167,4
+Jan Morforth,New Zealand,Mint Chip Choco,2022-06-30,18340,285
+Dotty Strutley,New Zealand,White Choc,2022-06-15,7014,60
+Rafaelita Blaksland,Canada,Caramel Stuffed Bars,2022-08-01,7119,101
+Kaine Padly,USA,Milk Bars,2022-06-15,15491,58
+Brien Boise,India,After Nines,2022-06-16,5747,45
+Oby Sorrel,New Zealand,Raspberry Choco,2022-05-13,4550,281
+Dennison Crosswaite,USA,Drinking Coco,2022-05-10,2191,138
+Oby Sorrel,India,Eclairs,2022-08-25,5663,322
+Ches Bonnell,New Zealand,Organic Choco Syrup,2022-07-15,7623,85
+Gigi Bohling,UK,Baker's Choco Chips,2022-05-16,9023,409
+Jan Morforth,Australia,50% Dark Bites,2022-06-14,3402,182
+Beverie Moffet,Australia,Smooth Sliky Salty,2022-01-25,10507,467
+Ches Bonnell,USA,Organic Choco Syrup,2022-07-28,7721,14
+Brien Boise,Canada,Mint Chip Choco,2022-01-28,5033,178
+Kaine Padly,UK,Orange Choco,2022-06-29,1960,191
+Karlen McCaffrey,Australia,70% Dark Bites,2022-06-24,238,317
+Gunar Cockshoot,Canada,Mint Chip Choco,2022-07-01,7756,410
+Roddy Speechley,USA,Peanut Butter Cubes,2022-02-25,1736,137
+Curtice Advani,Canada,Smooth Sliky Salty,2022-08-01,2660,12
+Oby Sorrel,Australia,Milk Bars,2022-06-21,7672,254
+Camilla Castle,New Zealand,Spicy Special Slims,2022-01-25,11564,24
+Gigi Bohling,UK,Milk Bars,2022-05-17,1365,232
+Andria Kimpton,Australia,85% Dark Bars,2022-08-23,4186,233
+Camilla Castle,Australia,Smooth Sliky Salty,2022-03-03,7406,118
+Roddy Speechley,India,Caramel Stuffed Bars,2022-05-30,8911,543
+Karlen McCaffrey,USA,Drinking Coco,2022-06-29,112,223
+Andria Kimpton,Canada,Organic Choco Syrup,2022-01-04,8204,204
+Jehu Rudeforth,Australia,Drinking Coco,2022-01-14,2611,65
+Karlen McCaffrey,USA,Mint Chip Choco,2022-02-15,15652,53
+Curtice Advani,New Zealand,Spicy Special Slims,2022-01-10,4074,469
+Madelene Upcott,USA,White Choc,2022-05-04,12250,213
+Andria Kimpton,USA,Spicy Special Slims,2022-05-23,2366,5
+Barr Faughny,New Zealand,Fruit & Nut Bars,2022-04-26,1687,147
+Oby Sorrel,Canada,Organic Choco Syrup,2022-07-05,1232,74
+Madelene Upcott,UK,Organic Choco Syrup,2022-07-21,6965,163
+Dotty Strutley,USA,Mint Chip Choco,2022-02-21,5292,248
+Kelci Walkden,USA,Orange Choco,2022-02-03,1379,138
+Gigi Bohling,Australia,Caramel Stuffed Bars,2022-07-08,8001,151
+Mallorie Waber,India,50% Dark Bites,2022-05-31,588,139
+Van Tuxwell,New Zealand,Mint Chip Choco,2022-06-27,4046,103
+Van Tuxwell,India,50% Dark Bites,2022-05-13,5103,129
+Van Tuxwell,USA,Manuka Honey Choco,2022-05-31,2317,102
+Wilone O'Kielt,USA,Orange Choco,2022-02-28,7042,37
+Barr Faughny,New Zealand,Eclairs,2022-03-28,6713,31
+Gigi Bohling,USA,After Nines,2022-01-14,1848,227
+Barr Faughny,New Zealand,Mint Chip Choco,2022-02-21,6440,145
+Dennison Crosswaite,Canada,85% Dark Bars,2022-08-01,10885,90
+Beverie Moffet,New Zealand,Smooth Sliky Salty,2022-05-19,2387,59
+Husein Augar,USA,White Choc,2022-07-13,2030,60
+Andria Kimpton,Australia,Peanut Butter Cubes,2022-04-20,6678,148
+Dennison Crosswaite,India,85% Dark Bars,2022-06-30,4515,22
+Curtice Advani,UK,50% Dark Bites,2022-03-08,3374,142
+Gunar Cockshoot,USA,Fruit & Nut Bars,2022-03-09,5852,93
+Oby Sorrel,Canada,Raspberry Choco,2022-06-16,1750,208
+Gigi Bohling,UK,Drinking Coco,2022-06-30,5782,42
+Kelci Walkden,India,Mint Chip Choco,2022-07-28,2870,120
+Karlen McCaffrey,Canada,Peanut Butter Cubes,2022-08-12,3094,159
+Barr Faughny,UK,Mint Chip Choco,2022-07-07,3724,316
+Barr Faughny,USA,85% Dark Bars,2022-08-25,12761,47
+Husein Augar,Canada,Eclairs,2022-01-17,3696,233
+Jan Morforth,Australia,70% Dark Bites,2022-03-04,5222,384
+Marney O'Breen,New Zealand,Fruit & Nut Bars,2022-08-25,8939,4
+Ches Bonnell,UK,Peanut Butter Cubes,2022-04-15,2156,260
+Kaine Padly,USA,Organic Choco Syrup,2022-03-11,2380,22
+Camilla Castle,USA,Raspberry Choco,2022-05-20,3339,18
+Brien Boise,New Zealand,Manuka Honey Choco,2022-06-14,14980,42
+Jehu Rudeforth,New Zealand,After Nines,2022-04-14,1512,73
+Jehu Rudeforth,USA,Smooth Sliky Salty,2022-07-07,6657,154
+Madelene Upcott,India,Mint Chip Choco,2022-08-24,3836,71
+Jehu Rudeforth,India,Eclairs,2022-02-24,8771,127
+Karlen McCaffrey,Canada,Raspberry Choco,2022-05-09,651,224
+Kaine Padly,Australia,70% Dark Bites,2022-02-08,6706,223
+Roddy Speechley,UK,70% Dark Bites,2022-03-24,1421,284
+Rafaelita Blaksland,USA,Drinking Coco,2022-06-20,8526,73
+Mallorie Waber,Canada,Manuka Honey Choco,2022-03-07,1435,112
+Kaine Padly,Australia,Fruit & Nut Bars,2022-06-20,7434,85
+Oby Sorrel,New Zealand,Organic Choco Syrup,2022-02-17,15316,270
+Madelene Upcott,UK,99% Dark & Pure,2022-01-26,10479,45
+Madelene Upcott,Australia,Mint Chip Choco,2022-05-02,2751,153
+Curtice Advani,Canada,99% Dark & Pure,2022-07-07,12586,7
+Rafaelita Blaksland,Australia,Baker's Choco Chips,2022-08-22,2786,51
+Karlen McCaffrey,Australia,After Nines,2022-08-11,2303,67
+Marney O'Breen,UK,99% Dark & Pure,2022-01-13,8113,194
+Gunar Cockshoot,Australia,50% Dark Bites,2022-03-02,12271,116
+Marney O'Breen,Australia,Choco Coated Almonds,2022-07-27,11298,41
+Kelci Walkden,New Zealand,Drinking Coco,2022-03-10,15855,111
+Beverie Moffet,USA,85% Dark Bars,2022-08-23,12404,334
+Roddy Speechley,USA,Eclairs,2022-04-25,3990,155
+Dennison Crosswaite,UK,Milk Bars,2022-03-07,10808,407
+Wilone O'Kielt,UK,Organic Choco Syrup,2022-07-12,4858,52
+Madelene Upcott,USA,Orange Choco,2022-05-16,7742,138
+Gunar Cockshoot,India,Smooth Sliky Salty,2022-03-02,3752,70
+Marney O'Breen,New Zealand,85% Dark Bars,2022-05-30,1218,149
+Marney O'Breen,UK,Manuka Honey Choco,2022-06-10,10983,179
+Brien Boise,USA,99% Dark & Pure,2022-07-25,6769,353
+Beverie Moffet,New Zealand,Mint Chip Choco,2022-06-09,4361,97
+Dennison Crosswaite,USA,Milk Bars,2022-05-12,777,60
+Gunar Cockshoot,USA,Drinking Coco,2022-05-09,3843,5
+Brien Boise,Canada,Manuka Honey Choco,2022-08-09,6930,182
+Van Tuxwell,India,Choco Coated Almonds,2022-04-13,5733,114
+Andria Kimpton,USA,Caramel Stuffed Bars,2022-05-02,8393,46
+Dotty Strutley,USA,99% Dark & Pure,2022-08-09,3822,320
+Camilla Castle,Australia,Raspberry Choco,2022-08-23,6342,178
+Gunar Cockshoot,India,Spicy Special Slims,2022-05-13,6510,170
+Karlen McCaffrey,USA,Manuka Honey Choco,2022-02-01,10171,67
+Camilla Castle,USA,50% Dark Bites,2022-06-23,5908,301
+Madelene Upcott,UK,Choco Coated Almonds,2022-05-24,10164,134
+Jan Morforth,Canada,Mint Chip Choco,2022-04-01,1064,211
+Camilla Castle,Canada,70% Dark Bites,2022-07-27,9716,151
+Ches Bonnell,India,Peanut Butter Cubes,2022-01-27,22050,208
+Jan Morforth,India,Choco Coated Almonds,2022-08-12,2541,134
+Gigi Bohling,Canada,Almond Choco,2022-02-01,9989,49
+Rafaelita Blaksland,India,After Nines,2022-03-02,4739,204
+Kelci Walkden,Australia,99% Dark & Pure,2022-06-30,3185,34
+Dotty Strutley,Australia,Spicy Special Slims,2022-01-17,8225,91
+Brien Boise,USA,Milk Bars,2022-07-07,14301,130
+Mallorie Waber,New Zealand,Mint Chip Choco,2022-01-31,1316,107
+Beverie Moffet,UK,99% Dark & Pure,2022-08-10,3486,121
+Beverie Moffet,USA,Peanut Butter Cubes,2022-08-18,13930,339
+Brien Boise,New Zealand,White Choc,2022-06-15,5509,321
+Marney O'Breen,USA,Baker's Choco Chips,2022-01-26,8470,9
+Kelci Walkden,USA,Spicy Special Slims,2022-04-29,77,69
+Mallorie Waber,Canada,White Choc,2022-03-03,3381,72
+Kaine Padly,Australia,Almond Choco,2022-02-22,4102,392
+Oby Sorrel,USA,Smooth Sliky Salty,2022-03-04,3577,158
+Dennison Crosswaite,India,Smooth Sliky Salty,2022-07-07,2975,9
+Camilla Castle,New Zealand,Caramel Stuffed Bars,2022-06-17,4137,347
+Jan Morforth,Canada,Caramel Stuffed Bars,2022-08-02,9541,114
+Oby Sorrel,USA,Baker's Choco Chips,2022-08-12,8001,120
+Madelene Upcott,New Zealand,Peanut Butter Cubes,2022-01-28,5152,333
+Kelci Walkden,Australia,Orange Choco,2022-04-29,11116,432
+Marney O'Breen,Australia,Manuka Honey Choco,2022-04-05,13076,236
+Kaine Padly,Canada,Manuka Honey Choco,2022-01-18,10213,135
+Jehu Rudeforth,UK,Baker's Choco Chips,2022-05-16,2485,97
+Kelci Walkden,Australia,White Choc,2022-08-24,8715,168
+Curtice Advani,India,85% Dark Bars,2022-01-18,273,402
+Kaine Padly,USA,Eclairs,2022-08-22,7623,10
+Gunar Cockshoot,UK,99% Dark & Pure,2022-03-07,7,84
+Beverie Moffet,UK,Choco Coated Almonds,2022-03-04,3010,69
+Dotty Strutley,Canada,Manuka Honey Choco,2022-04-22,11550,111
+Kaine Padly,Australia,Milk Bars,2022-06-09,4046,89
+Jan Morforth,Canada,Fruit & Nut Bars,2022-07-25,8904,199
+Jan Morforth,India,Smooth Sliky Salty,2022-08-03,11298,89
+Rafaelita Blaksland,Australia,Manuka Honey Choco,2022-08-03,4396,131
+Jehu Rudeforth,UK,Milk Bars,2022-05-03,12068,227
+Husein Augar,Canada,After Nines,2022-01-19,9772,301
+Roddy Speechley,USA,50% Dark Bites,2022-02-11,10458,316
+Van Tuxwell,India,Almond Choco,2022-06-14,6426,390
+Kelci Walkden,USA,50% Dark Bites,2022-03-23,6188,223
+Madelene Upcott,Canada,85% Dark Bars,2022-02-17,7504,101
+Dennison Crosswaite,Canada,Smooth Sliky Salty,2022-03-17,1750,479
+Mallorie Waber,Australia,Spicy Special Slims,2022-06-29,5439,287
+Ches Bonnell,Canada,Choco Coated Almonds,2022-08-24,15547,269
+Gigi Bohling,Canada,Spicy Special Slims,2022-07-04,11956,277
+Roddy Speechley,New Zealand,Almond Choco,2022-03-28,2723,67
+Curtice Advani,India,Smooth Sliky Salty,2022-04-19,19327,135
+Ches Bonnell,New Zealand,Mint Chip Choco,2022-01-18,9058,229
+Van Tuxwell,New Zealand,Fruit & Nut Bars,2022-01-17,2996,88
+Andria Kimpton,New Zealand,Mint Chip Choco,2022-02-15,8848,211
+Andria Kimpton,UK,Milk Bars,2022-02-11,14336,293
+Camilla Castle,USA,Manuka Honey Choco,2022-03-21,16401,179
+Gunar Cockshoot,New Zealand,Almond Choco,2022-01-05,5173,129
+Brien Boise,India,Raspberry Choco,2022-05-30,6328,164
+Jehu Rudeforth,USA,99% Dark & Pure,2022-01-04,2534,219
+Beverie Moffet,Australia,Fruit & Nut Bars,2022-04-22,1435,258
+Gigi Bohling,Canada,Milk Bars,2022-02-10,3052,116
+Dotty Strutley,India,Spicy Special Slims,2022-08-12,910,204
+Gunar Cockshoot,USA,Organic Choco Syrup,2022-08-10,2331,321
+Kelci Walkden,Australia,Raspberry Choco,2022-06-07,679,56
+Jehu Rudeforth,India,Baker's Choco Chips,2022-06-06,2086,74
+Karlen McCaffrey,New Zealand,Baker's Choco Chips,2022-04-05,5012,189
+Wilone O'Kielt,USA,50% Dark Bites,2022-04-18,4501,131
+Andria Kimpton,India,50% Dark Bites,2022-01-31,13482,15
+Madelene Upcott,USA,Baker's Choco Chips,2022-08-22,5621,140
+Jehu Rudeforth,Australia,99% Dark & Pure,2022-02-25,10486,198
+Jan Morforth,Australia,Mint Chip Choco,2022-02-22,17626,103
+Oby Sorrel,New Zealand,Milk Bars,2022-01-12,4494,187
+Brien Boise,UK,Almond Choco,2022-05-25,105,125
+Kelci Walkden,India,Smooth Sliky Salty,2022-02-01,2464,8
+Rafaelita Blaksland,UK,Eclairs,2022-04-27,1379,70
+Gigi Bohling,USA,Smooth Sliky Salty,2022-07-22,2583,126
+Curtice Advani,New Zealand,Mint Chip Choco,2022-01-26,3220,265
+Curtice Advani,USA,Mint Chip Choco,2022-08-24,4802,296
+Madelene Upcott,New Zealand,Fruit & Nut Bars,2022-01-18,5677,21
+Karlen McCaffrey,India,85% Dark Bars,2022-03-30,945,83
+Ches Bonnell,Australia,Caramel Stuffed Bars,2022-01-17,8757,162
+Kelci Walkden,USA,Fruit & Nut Bars,2022-02-17,4816,145
+Kelci Walkden,Canada,Peanut Butter Cubes,2022-04-08,7532,44
+Gigi Bohling,Canada,Drinking Coco,2022-07-06,3549,82
+Husein Augar,India,Fruit & Nut Bars,2022-04-04,4340,226
+Jan Morforth,New Zealand,Organic Choco Syrup,2022-03-02,1799,207
+Gigi Bohling,New Zealand,Raspberry Choco,2022-08-09,1127,176
+Dennison Crosswaite,Australia,Milk Bars,2022-06-09,10038,286
+Ches Bonnell,UK,Caramel Stuffed Bars,2022-06-02,2926,300
+Van Tuxwell,USA,Fruit & Nut Bars,2022-07-05,6279,235
+Andria Kimpton,Canada,Eclairs,2022-08-11,308,125
+Madelene Upcott,India,Choco Coated Almonds,2022-02-11,3500,145
+Kelci Walkden,New Zealand,Spicy Special Slims,2022-08-11,658,65
+Roddy Speechley,Australia,Drinking Coco,2022-05-12,12565,102
+Wilone O'Kielt,USA,Milk Bars,2022-07-15,5012,93
+Andria Kimpton,India,Organic Choco Syrup,2022-01-18,3955,134
+Madelene Upcott,UK,Fruit & Nut Bars,2022-01-05,8512,189
+Curtice Advani,Australia,50% Dark Bites,2022-06-29,504,232
+Brien Boise,Canada,Raspberry Choco,2022-06-14,2800,45
+Gunar Cockshoot,India,Mint Chip Choco,2022-08-08,4256,67
+Dennison Crosswaite,India,Mint Chip Choco,2022-03-23,13573,138
+Barr Faughny,India,Caramel Stuffed Bars,2022-01-04,6566,99
+Brien Boise,India,Milk Bars,2022-02-22,13503,251
+Beverie Moffet,UK,Spicy Special Slims,2022-02-17,8680,252
+Barr Faughny,USA,Almond Choco,2022-02-03,385,78
+Van Tuxwell,Canada,Raspberry Choco,2022-03-17,1267,130
+Wilone O'Kielt,Australia,Baker's Choco Chips,2022-01-25,2961,154
+Brien Boise,Australia,Milk Bars,2022-07-27,1981,52
+Husein Augar,Australia,Fruit & Nut Bars,2022-01-28,7959,53
+Madelene Upcott,Australia,Organic Choco Syrup,2022-07-05,10794,50
+Van Tuxwell,India,White Choc,2022-03-15,1897,44
+Gunar Cockshoot,Canada,After Nines,2022-08-04,2744,200
+Jan Morforth,USA,Fruit & Nut Bars,2022-06-27,4382,361
+Jan Morforth,Canada,After Nines,2022-07-13,4515,172
+Barr Faughny,New Zealand,Manuka Honey Choco,2022-02-24,5474,239
+Karlen McCaffrey,New Zealand,85% Dark Bars,2022-06-28,6069,55
+Oby Sorrel,Australia,85% Dark Bars,2022-06-30,6944,27
+Curtice Advani,Canada,Choco Coated Almonds,2022-08-18,5859,7
+Kaine Padly,India,70% Dark Bites,2022-01-24,12173,301
+Beverie Moffet,USA,White Choc,2022-03-11,5292,134
+Ches Bonnell,New Zealand,After Nines,2022-06-23,5705,350
+Husein Augar,India,Spicy Special Slims,2022-08-22,2492,33
+Gunar Cockshoot,Canada,50% Dark Bites,2022-01-04,3024,23
+Curtice Advani,India,Milk Bars,2022-04-05,3437,201
+Beverie Moffet,India,Milk Bars,2022-04-15,1869,323
+Husein Augar,Australia,White Choc,2022-05-11,3171,220
+Andria Kimpton,Canada,Manuka Honey Choco,2022-07-21,4858,488
+Jan Morforth,New Zealand,Orange Choco,2022-02-11,1225,84
+Andria Kimpton,Canada,Smooth Sliky Salty,2022-07-08,1155,79
+Gunar Cockshoot,UK,Raspberry Choco,2022-08-11,6811,344
+Husein Augar,New Zealand,After Nines,2022-08-04,6433,7
+Andria Kimpton,New Zealand,Orange Choco,2022-06-14,8169,88
+Dennison Crosswaite,UK,Baker's Choco Chips,2022-01-17,2275,275
+Jehu Rudeforth,Canada,Orange Choco,2022-06-23,3857,512
+Jehu Rudeforth,UK,Smooth Sliky Salty,2022-08-24,1463,113
+Andria Kimpton,UK,Caramel Stuffed Bars,2022-06-07,7924,275
+Jan Morforth,UK,White Choc,2022-06-22,8799,47
+Dotty Strutley,USA,Fruit & Nut Bars,2022-07-13,2898,276
+Kelci Walkden,UK,Choco Coated Almonds,2022-05-24,9506,212
+Gunar Cockshoot,New Zealand,After Nines,2022-08-09,7175,145
+Kaine Padly,Canada,85% Dark Bars,2022-04-06,1729,31
+Jan Morforth,New Zealand,Manuka Honey Choco,2022-07-28,1589,271
+Gunar Cockshoot,New Zealand,Raspberry Choco,2022-08-24,630,52
+Van Tuxwell,Australia,99% Dark & Pure,2022-01-17,112,128
+Curtice Advani,USA,Drinking Coco,2022-02-07,5187,142
+Brien Boise,Australia,Spicy Special Slims,2022-05-09,6223,256
+Mallorie Waber,New Zealand,85% Dark Bars,2022-06-06,7714,106
+Wilone O'Kielt,USA,Choco Coated Almonds,2022-06-06,9457,6
+Beverie Moffet,New Zealand,Organic Choco Syrup,2022-05-24,6678,226
+Gunar Cockshoot,UK,50% Dark Bites,2022-01-13,2107,121
+Marney O'Breen,USA,Raspberry Choco,2022-05-23,6069,151
+Jehu Rudeforth,UK,White Choc,2022-06-29,1862,284
+Jehu Rudeforth,New Zealand,85% Dark Bars,2022-03-11,6972,89
+Dotty Strutley,USA,85% Dark Bars,2022-04-25,10220,508
+Rafaelita Blaksland,Australia,Smooth Sliky Salty,2022-05-30,3969,243
+Curtice Advani,India,Manuka Honey Choco,2022-05-23,1547,170
+Mallorie Waber,USA,Peanut Butter Cubes,2022-05-23,1162,18
+Van Tuxwell,Canada,Peanut Butter Cubes,2022-06-24,6342,282
+Kelci Walkden,New Zealand,Smooth Sliky Salty,2022-03-11,10633,277
+Rafaelita Blaksland,USA,Smooth Sliky Salty,2022-07-27,15057,212
+Rafaelita Blaksland,USA,White Choc,2022-08-16,4704,126
+Roddy Speechley,Canada,Smooth Sliky Salty,2022-03-07,9338,11
+Curtice Advani,New Zealand,After Nines,2022-04-05,7959,30
+Camilla Castle,India,85% Dark Bars,2022-05-04,9023,51
+Ches Bonnell,USA,Choco Coated Almonds,2022-01-04,14525,92
+Marney O'Breen,Australia,Baker's Choco Chips,2022-01-13,5810,101
+Wilone O'Kielt,New Zealand,Fruit & Nut Bars,2022-07-11,6426,98
+Kaine Padly,Australia,Mint Chip Choco,2022-05-17,4403,159
+Camilla Castle,New Zealand,Peanut Butter Cubes,2022-07-21,1582,62
+Curtice Advani,Canada,Organic Choco Syrup,2022-02-22,791,22
+Jan Morforth,India,99% Dark & Pure,2022-05-23,9100,187
+Rafaelita Blaksland,Canada,Drinking Coco,2022-07-12,9884,200
+Jan Morforth,UK,Orange Choco,2022-06-15,3780,201
+Barr Faughny,New Zealand,50% Dark Bites,2022-06-23,4557,308
+Curtice Advani,Australia,Eclairs,2022-03-25,5796,55
+Jan Morforth,India,Caramel Stuffed Bars,2022-07-04,84,153
+Andria Kimpton,UK,White Choc,2022-05-12,9037,101
+Camilla Castle,New Zealand,Raspberry Choco,2022-04-04,4746,137
+Madelene Upcott,Australia,Orange Choco,2022-04-15,6713,398
+Roddy Speechley,Canada,Eclairs,2022-03-08,6237,88
+Karlen McCaffrey,India,White Choc,2022-01-17,7483,232
+Wilone O'Kielt,India,Mint Chip Choco,2022-08-22,1309,51
+Andria Kimpton,UK,99% Dark & Pure,2022-07-25,1155,66
+Marney O'Breen,UK,50% Dark Bites,2022-06-14,2989,124
+Ches Bonnell,India,Choco Coated Almonds,2022-04-05,9625,78
+Madelene Upcott,UK,Raspberry Choco,2022-08-26,7357,341
+Wilone O'Kielt,Australia,50% Dark Bites,2022-08-03,10031,114
+Gigi Bohling,Canada,White Choc,2022-07-11,6587,4
+Wilone O'Kielt,New Zealand,Eclairs,2022-03-11,3311,22
+Brien Boise,UK,Peanut Butter Cubes,2022-01-10,15330,30
+Roddy Speechley,UK,Baker's Choco Chips,2022-04-04,14028,351
+Karlen McCaffrey,Australia,50% Dark Bites,2022-01-17,6678,708
+Marney O'Breen,New Zealand,Organic Choco Syrup,2022-07-08,8624,50
+Jan Morforth,UK,Organic Choco Syrup,2022-04-12,1197,356
+Rafaelita Blaksland,Canada,Fruit & Nut Bars,2022-08-24,483,185
+Ches Bonnell,UK,Choco Coated Almonds,2022-06-07,1687,236
+Gunar Cockshoot,Canada,Almond Choco,2022-07-28,1309,30
+Husein Augar,USA,99% Dark & Pure,2022-02-21,9534,111
+Dennison Crosswaite,Canada,Mint Chip Choco,2022-04-08,1694,289
+Brien Boise,UK,Manuka Honey Choco,2022-06-28,70,103
+Van Tuxwell,UK,Baker's Choco Chips,2022-03-24,2443,20
+Barr Faughny,Australia,Caramel Stuffed Bars,2022-07-29,2933,55
+Dennison Crosswaite,USA,Eclairs,2022-05-25,2044,90
+Gigi Bohling,Australia,Raspberry Choco,2022-03-30,6524,303
+Dennison Crosswaite,USA,Organic Choco Syrup,2022-07-18,12656,126
+Beverie Moffet,Canada,Orange Choco,2022-05-10,8722,109
+Mallorie Waber,Australia,Choco Coated Almonds,2022-03-18,15750,92
+Ches Bonnell,India,Caramel Stuffed Bars,2022-06-15,6839,56
+Van Tuxwell,Canada,50% Dark Bites,2022-05-12,13685,58
+Kelci Walkden,New Zealand,Baker's Choco Chips,2022-06-23,2912,110
+Beverie Moffet,India,Spicy Special Slims,2022-04-21,3339,171
+Gigi Bohling,Australia,Almond Choco,2022-08-17,910,117
+Rafaelita Blaksland,New Zealand,Eclairs,2022-02-07,19481,51
+Kelci Walkden,Canada,Smooth Sliky Salty,2022-03-17,8099,118
+Jan Morforth,India,Baker's Choco Chips,2022-08-01,13727,79
+Jehu Rudeforth,Australia,Milk Bars,2022-03-18,8659,29
+Gigi Bohling,Canada,Fruit & Nut Bars,2022-06-14,5782,103
+Beverie Moffet,UK,Eclairs,2022-04-22,8463,155
+Marney O'Breen,New Zealand,Eclairs,2022-01-18,4914,31
+Husein Augar,Australia,99% Dark & Pure,2022-08-26,3087,128
+Gunar Cockshoot,New Zealand,Fruit & Nut Bars,2022-06-10,9205,419
+Curtice Advani,Canada,70% Dark Bites,2022-01-31,2303,7
+Kelci Walkden,New Zealand,Manuka Honey Choco,2022-04-08,1358,106
+Dotty Strutley,Australia,Baker's Choco Chips,2022-06-07,3605,68
+Barr Faughny,Australia,85% Dark Bars,2022-02-10,8498,44
+Beverie Moffet,Australia,50% Dark Bites,2022-05-16,700,457
+Gunar Cockshoot,India,Baker's Choco Chips,2022-03-18,2191,524
+Van Tuxwell,Australia,50% Dark Bites,2022-07-13,644,137
+Oby Sorrel,USA,Manuka Honey Choco,2022-07-25,4340,86
+Van Tuxwell,Canada,Choco Coated Almonds,2022-08-19,2282,296
+Karlen McCaffrey,Canada,70% Dark Bites,2022-06-24,7714,597
+Kelci Walkden,Canada,Fruit & Nut Bars,2022-06-20,826,149
+Camilla Castle,India,99% Dark & Pure,2022-08-02,203,207
+Madelene Upcott,New Zealand,70% Dark Bites,2022-02-22,13356,93
+Mallorie Waber,New Zealand,Orange Choco,2022-02-01,6510,23
+Jan Morforth,Canada,70% Dark Bites,2022-02-14,5894,305
+Kelci Walkden,Australia,Milk Bars,2022-02-24,7910,125
+Dennison Crosswaite,India,Orange Choco,2022-03-18,784,129
+Husein Augar,UK,Eclairs,2022-08-30,1750,252
+Gigi Bohling,USA,Peanut Butter Cubes,2022-05-09,280,75
+Wilone O'Kielt,USA,Smooth Sliky Salty,2022-01-18,504,87
+Curtice Advani,India,White Choc,2022-07-04,7154,342
+Oby Sorrel,New Zealand,Spicy Special Slims,2022-06-03,1617,13
+Beverie Moffet,New Zealand,Peanut Butter Cubes,2022-02-23,10822,30
+Dotty Strutley,New Zealand,99% Dark & Pure,2022-05-09,10724,203
+Kelci Walkden,India,70% Dark Bites,2022-06-06,3640,106
+Kelci Walkden,India,Drinking Coco,2022-07-04,7532,234
+Brien Boise,New Zealand,Drinking Coco,2022-06-06,1582,100
+Dotty Strutley,Australia,Almond Choco,2022-05-13,1456,91
+Wilone O'Kielt,New Zealand,Organic Choco Syrup,2022-01-31,2016,277
+Ches Bonnell,New Zealand,Caramel Stuffed Bars,2022-06-30,7588,42
+Barr Faughny,Canada,Manuka Honey Choco,2022-08-25,3402,249
+Gigi Bohling,New Zealand,Smooth Sliky Salty,2022-01-10,700,97
+Brien Boise,USA,Manuka Honey Choco,2022-08-22,1904,8
+Roddy Speechley,New Zealand,85% Dark Bars,2022-04-14,4844,275
+Oby Sorrel,UK,Smooth Sliky Salty,2022-05-31,9625,313
+Oby Sorrel,UK,Raspberry Choco,2022-04-08,4599,323
+Roddy Speechley,USA,Drinking Coco,2022-02-21,3003,155
+Andria Kimpton,Australia,Manuka Honey Choco,2022-03-30,9744,377
+Mallorie Waber,India,Raspberry Choco,2022-03-02,1400,2
+Jehu Rudeforth,USA,Orange Choco,2022-07-28,364,170
+Kaine Padly,New Zealand,70% Dark Bites,2022-03-24,7231,38
+Curtice Advani,Australia,After Nines,2022-08-11,63,105
+Husein Augar,UK,Almond Choco,2022-05-17,8309,166
+Kaine Padly,Canada,Choco Coated Almonds,2022-05-18,3164,164
+Roddy Speechley,UK,Peanut Butter Cubes,2022-08-17,5691,171
+Ches Bonnell,New Zealand,Eclairs,2022-04-04,490,49
+Brien Boise,India,85% Dark Bars,2022-08-09,18032,205
+Brien Boise,New Zealand,Organic Choco Syrup,2022-01-17,637,313
+Andria Kimpton,Canada,White Choc,2022-02-14,4067,29
+Gigi Bohling,New Zealand,Orange Choco,2022-05-16,8204,307
+Ches Bonnell,Canada,Smooth Sliky Salty,2022-03-16,9870,121
+Husein Augar,Canada,70% Dark Bites,2022-01-31,5131,285
+Barr Faughny,Canada,Organic Choco Syrup,2022-03-10,1141,205
+Oby Sorrel,UK,Organic Choco Syrup,2022-06-30,7980,157
+Van Tuxwell,New Zealand,Eclairs,2022-03-01,5229,182
+Mallorie Waber,UK,Drinking Coco,2022-05-27,3423,100
+Oby Sorrel,UK,Milk Bars,2022-07-11,6468,223
+Karlen McCaffrey,New Zealand,Mint Chip Choco,2022-03-02,4326,61
+Jehu Rudeforth,USA,Raspberry Choco,2022-03-04,7154,133
+Kelci Walkden,UK,85% Dark Bars,2022-06-23,3997,228
+Kelci Walkden,USA,Almond Choco,2022-01-27,5180,233
+Marney O'Breen,Canada,Orange Choco,2022-01-14,2723,425
+Dennison Crosswaite,India,Fruit & Nut Bars,2022-07-29,952,24
+Brien Boise,Canada,Smooth Sliky Salty,2022-05-13,5691,495
+Barr Faughny,Canada,Baker's Choco Chips,2022-02-03,10969,170
+Brien Boise,India,Smooth Sliky Salty,2022-05-27,5964,26
+Jan Morforth,Australia,Drinking Coco,2022-02-18,2821,24
+Brien Boise,India,Spicy Special Slims,2022-01-28,1302,33
+Van Tuxwell,UK,Eclairs,2022-06-29,5474,109
+Wilone O'Kielt,India,Caramel Stuffed Bars,2022-01-13,4179,276
+Jehu Rudeforth,UK,After Nines,2022-06-27,1946,164
+Barr Faughny,Canada,White Choc,2022-03-29,4291,1
+Gunar Cockshoot,India,Organic Choco Syrup,2022-06-03,7196,160
+Mallorie Waber,Canada,Smooth Sliky Salty,2022-03-21,1939,98
+Mallorie Waber,India,Eclairs,2022-04-12,10437,46
+Rafaelita Blaksland,Australia,Raspberry Choco,2022-01-19,6916,259
+Karlen McCaffrey,UK,50% Dark Bites,2022-04-06,3647,310
+Kaine Padly,Australia,50% Dark Bites,2022-08-02,8995,78
+Gigi Bohling,Australia,Eclairs,2022-04-12,7252,136
+Oby Sorrel,India,Drinking Coco,2022-07-21,16380,130
+Van Tuxwell,New Zealand,Baker's Choco Chips,2022-03-22,9660,24
+Husein Augar,India,Peanut Butter Cubes,2022-05-09,4522,5
+Andria Kimpton,Australia,Baker's Choco Chips,2022-08-09,329,109
+Madelene Upcott,Canada,Choco Coated Almonds,2022-07-20,3458,294
+Brien Boise,India,70% Dark Bites,2022-04-14,4641,413
+Jehu Rudeforth,Canada,White Choc,2022-01-25,4627,136
+Andria Kimpton,Australia,Almond Choco,2022-04-25,3192,175
+Dotty Strutley,Canada,After Nines,2022-01-17,252,237
+Karlen McCaffrey,USA,Eclairs,2022-08-15,868,125
+Karlen McCaffrey,Canada,Fruit & Nut Bars,2022-06-02,210,16
+Gunar Cockshoot,USA,85% Dark Bars,2022-06-30,7007,135
+Dotty Strutley,New Zealand,Raspberry Choco,2022-02-10,5845,91
+Marney O'Breen,Canada,Caramel Stuffed Bars,2022-02-23,1372,614
+Dennison Crosswaite,India,Organic Choco Syrup,2022-01-27,8428,216
+Camilla Castle,UK,Mint Chip Choco,2022-05-26,4977,317
+Brien Boise,USA,70% Dark Bites,2022-04-14,1694,21
+Madelene Upcott,Australia,99% Dark & Pure,2022-08-01,4326,154
+Mallorie Waber,Australia,Eclairs,2022-08-22,9527,222
+Marney O'Breen,India,99% Dark & Pure,2022-07-22,10766,157
+Husein Augar,USA,Fruit & Nut Bars,2022-04-28,1288,27
+Kelci Walkden,Australia,Almond Choco,2022-05-30,4879,350
+Ches Bonnell,USA,Milk Bars,2022-07-21,2408,157
+Jan Morforth,UK,Caramel Stuffed Bars,2022-08-02,3094,468
+Brien Boise,New Zealand,70% Dark Bites,2022-06-15,7231,130
+Oby Sorrel,India,85% Dark Bars,2022-07-05,8981,130
+Kaine Padly,New Zealand,Smooth Sliky Salty,2022-04-12,7,518
+Gigi Bohling,Australia,70% Dark Bites,2022-08-18,1372,105
+Jan Morforth,UK,50% Dark Bites,2022-01-12,5250,293
+Gunar Cockshoot,Canada,White Choc,2022-08-11,7560,15
+Jehu Rudeforth,Australia,Spicy Special Slims,2022-01-13,5012,384
+Husein Augar,UK,Baker's Choco Chips,2022-04-29,3038,135
+Rafaelita Blaksland,New Zealand,After Nines,2022-07-07,1099,92
+Madelene Upcott,New Zealand,Mint Chip Choco,2022-03-11,7413,4
+Madelene Upcott,UK,70% Dark Bites,2022-02-16,5397,239
+Barr Faughny,Australia,Organic Choco Syrup,2022-01-07,2303,33
+Beverie Moffet,New Zealand,Drinking Coco,2022-01-12,1141,518
+Beverie Moffet,India,Eclairs,2022-06-09,10325,147
+Andria Kimpton,India,Eclairs,2022-05-16,2149,84
+Gigi Bohling,UK,85% Dark Bars,2022-06-23,12362,94
+Roddy Speechley,UK,Raspberry Choco,2022-01-28,12635,194
+Dotty Strutley,UK,Mint Chip Choco,2022-07-14,2443,216
+Barr Faughny,Canada,Drinking Coco,2022-04-18,6237,247
+Oby Sorrel,USA,Milk Bars,2022-06-14,1736,79
+Oby Sorrel,UK,Orange Choco,2022-04-15,7315,237
+Curtice Advani,Canada,Peanut Butter Cubes,2022-05-19,4935,63
+Gigi Bohling,India,White Choc,2022-04-13,1393,172
+Husein Augar,Canada,Choco Coated Almonds,2022-08-15,3381,408
+Wilone O'Kielt,India,Choco Coated Almonds,2022-08-22,2933,233
+Wilone O'Kielt,New Zealand,Baker's Choco Chips,2022-04-22,3836,59
+Kaine Padly,UK,Choco Coated Almonds,2022-08-03,8022,123
+Dennison Crosswaite,New Zealand,Organic Choco Syrup,2022-01-04,371,229
+Kelci Walkden,Canada,After Nines,2022-01-13,16702,198
+Van Tuxwell,Australia,Baker's Choco Chips,2022-05-11,13258,32
+Husein Augar,New Zealand,Peanut Butter Cubes,2022-02-16,2058,236
+Kaine Padly,UK,Caramel Stuffed Bars,2022-05-20,10192,67
+Jehu Rudeforth,UK,Drinking Coco,2022-02-03,7140,438
+Beverie Moffet,India,Manuka Honey Choco,2022-05-06,9835,167
+Gunar Cockshoot,UK,Choco Coated Almonds,2022-06-30,5775,135
+Gunar Cockshoot,UK,Smooth Sliky Salty,2022-03-22,749,148
+Camilla Castle,Canada,Orange Choco,2022-02-17,7770,54
+Jehu Rudeforth,UK,85% Dark Bars,2022-07-07,5502,64
+Oby Sorrel,UK,70% Dark Bites,2022-03-16,6223,181
+Kelci Walkden,UK,99% Dark & Pure,2022-08-12,3507,114
+Gigi Bohling,New Zealand,After Nines,2022-01-21,5600,181
+Oby Sorrel,Australia,50% Dark Bites,2022-05-06,721,151
+Oby Sorrel,Canada,50% Dark Bites,2022-06-24,6615,137
+Barr Faughny,USA,White Choc,2022-05-05,7420,163
+Rafaelita Blaksland,New Zealand,99% Dark & Pure,2022-03-25,3164,84
+Curtice Advani,Australia,Caramel Stuffed Bars,2022-02-14,9114,140
+Curtice Advani,New Zealand,85% Dark Bars,2022-05-12,5404,187
+Barr Faughny,New Zealand,Smooth Sliky Salty,2022-01-25,3990,169
+Ches Bonnell,UK,85% Dark Bars,2022-06-28,14924,12
+Dennison Crosswaite,Australia,Drinking Coco,2022-07-13,7091,194
+Roddy Speechley,USA,Milk Bars,2022-05-16,2807,252
+Jan Morforth,India,After Nines,2022-03-14,6496,168
+Gunar Cockshoot,USA,After Nines,2022-08-15,3738,261
+Ches Bonnell,India,Orange Choco,2022-02-16,1190,256
+Mallorie Waber,UK,Manuka Honey Choco,2022-06-15,8379,43
+Barr Faughny,Australia,Raspberry Choco,2022-05-27,9268,100
+Wilone O'Kielt,USA,Drinking Coco,2022-06-14,1029,98
+Wilone O'Kielt,India,Eclairs,2022-02-25,3549,76
+Wilone O'Kielt,India,After Nines,2022-08-04,12026,262
+Kelci Walkden,India,99% Dark & Pure,2022-06-28,2303,244
+Gunar Cockshoot,Canada,Spicy Special Slims,2022-04-05,13405,12
+Madelene Upcott,Canada,Peanut Butter Cubes,2022-07-05,14763,113
+Kaine Padly,New Zealand,Eclairs,2022-01-20,12894,48
+Ches Bonnell,New Zealand,Drinking Coco,2022-02-16,8302,131
+Curtice Advani,UK,Drinking Coco,2022-07-12,455,174
+Kelci Walkden,India,Raspberry Choco,2022-06-16,8183,254
+Dotty Strutley,Australia,Choco Coated Almonds,2022-04-13,1645,284
+Kaine Padly,UK,50% Dark Bites,2022-02-21,3143,67
+Roddy Speechley,Canada,Choco Coated Almonds,2022-05-11,5873,249
+Ches Bonnell,India,50% Dark Bites,2022-04-15,11298,313
+Oby Sorrel,Canada,Peanut Butter Cubes,2022-06-07,12425,167
+Oby Sorrel,UK,White Choc,2022-06-27,1715,286
+Barr Faughny,India,After Nines,2022-07-29,8190,109
+Wilone O'Kielt,Canada,Smooth Sliky Salty,2022-06-02,4991,166
+Rafaelita Blaksland,India,Mint Chip Choco,2022-01-26,15491,85
+Rafaelita Blaksland,Canada,99% Dark & Pure,2022-03-02,5096,142
+Van Tuxwell,Australia,70% Dark Bites,2022-01-10,7063,104
+Beverie Moffet,USA,70% Dark Bites,2022-06-27,2275,115
+Barr Faughny,Canada,Orange Choco,2022-06-30,7602,18
+Roddy Speechley,Australia,85% Dark Bars,2022-07-08,4200,80
+Oby Sorrel,India,Spicy Special Slims,2022-06-08,11137,88
+Jan Morforth,UK,Manuka Honey Choco,2022-08-18,3388,212
+Kaine Padly,Australia,After Nines,2022-04-08,6832,306
+Wilone O'Kielt,Canada,Fruit & Nut Bars,2022-08-08,3437,181
+Wilone O'Kielt,UK,Milk Bars,2022-08-26,301,65
+Oby Sorrel,Canada,Fruit & Nut Bars,2022-01-14,1869,158
+Dennison Crosswaite,USA,Baker's Choco Chips,2022-08-11,17465,271
+Madelene Upcott,USA,Almond Choco,2022-05-31,10143,24
+Van Tuxwell,New Zealand,50% Dark Bites,2022-07-11,3626,10
+Karlen McCaffrey,Canada,Caramel Stuffed Bars,2022-03-02,3346,304
+Madelene Upcott,Australia,Raspberry Choco,2022-07-13,6321,88
+Rafaelita Blaksland,UK,Spicy Special Slims,2022-08-03,9345,133
+Curtice Advani,UK,Peanut Butter Cubes,2022-03-01,15008,165
+Kelci Walkden,New Zealand,White Choc,2022-04-13,7609,150
+Beverie Moffet,Canada,Fruit & Nut Bars,2022-02-14,10332,180
+Mallorie Waber,India,White Choc,2022-07-26,819,213
+Brien Boise,UK,Drinking Coco,2022-01-27,5754,133
+Jehu Rudeforth,India,Peanut Butter Cubes,2022-04-14,28,446
+Oby Sorrel,USA,Almond Choco,2022-05-19,6440,141
+Husein Augar,India,Eclairs,2022-02-09,4956,58
+Brien Boise,UK,Spicy Special Slims,2022-05-25,2352,58
+Oby Sorrel,Australia,Manuka Honey Choco,2022-01-26,3906,76
+Beverie Moffet,India,White Choc,2022-07-04,1813,296
+Ches Bonnell,India,Almond Choco,2022-04-13,11788,73
+Gigi Bohling,Australia,Smooth Sliky Salty,2022-01-25,5768,119
+Camilla Castle,USA,85% Dark Bars,2022-04-25,2401,78
+Camilla Castle,USA,Eclairs,2022-06-10,4515,392
+Madelene Upcott,New Zealand,White Choc,2022-08-22,10794,51
+Van Tuxwell,India,After Nines,2022-06-27,13706,207
+Husein Augar,India,Orange Choco,2022-06-30,4361,40
+Jehu Rudeforth,India,Almond Choco,2022-08-30,10122,100
+Karlen McCaffrey,Australia,Raspberry Choco,2022-08-23,994,57
+Camilla Castle,New Zealand,99% Dark & Pure,2022-08-26,2268,42
+Gigi Bohling,Australia,Orange Choco,2022-03-09,574,156
+Kelci Walkden,UK,Drinking Coco,2022-04-20,1792,23
+Mallorie Waber,Canada,Caramel Stuffed Bars,2022-06-10,4844,539
+Husein Augar,Australia,Organic Choco Syrup,2022-02-08,938,158
+Brien Boise,Australia,White Choc,2022-08-25,4879,22
+Dotty Strutley,India,Peanut Butter Cubes,2022-02-16,9107,73
+Dennison Crosswaite,UK,99% Dark & Pure,2022-05-30,12187,27
+Gigi Bohling,New Zealand,50% Dark Bites,2022-06-29,5670,64
+Gigi Bohling,USA,Milk Bars,2022-06-16,476,133
+Brien Boise,UK,Caramel Stuffed Bars,2022-03-04,2681,149
+Curtice Advani,New Zealand,Peanut Butter Cubes,2022-03-15,1533,434
+Curtice Advani,New Zealand,50% Dark Bites,2022-01-27,9765,85
+Beverie Moffet,Canada,Drinking Coco,2022-07-05,994,118
+Barr Faughny,USA,Caramel Stuffed Bars,2022-03-29,3318,299
+Mallorie Waber,Canada,Almond Choco,2022-05-12,4214,35
+Oby Sorrel,USA,Drinking Coco,2022-03-11,7714,44
+Brien Boise,New Zealand,Eclairs,2022-07-11,4690,299
+Gunar Cockshoot,New Zealand,Choco Coated Almonds,2022-08-01,13062,62
+Gunar Cockshoot,UK,Spicy Special Slims,2022-02-16,12488,200
+Curtice Advani,USA,After Nines,2022-04-13,14147,235
+Oby Sorrel,India,Choco Coated Almonds,2022-02-14,49,363
+Ches Bonnell,Australia,Peanut Butter Cubes,2022-03-14,10199,68
+Oby Sorrel,Australia,Spicy Special Slims,2022-04-26,11389,26
+Jehu Rudeforth,Canada,Manuka Honey Choco,2022-04-05,3584,200
+Camilla Castle,Canada,Drinking Coco,2022-03-03,12481,264
+Kaine Padly,USA,Spicy Special Slims,2022-06-13,2107,175
+Marney O'Breen,New Zealand,70% Dark Bites,2022-02-14,8603,352
+Roddy Speechley,New Zealand,99% Dark & Pure,2022-04-18,7483,183
+Oby Sorrel,New Zealand,85% Dark Bars,2022-02-01,3381,417
+Dotty Strutley,New Zealand,Orange Choco,2022-08-04,2030,146
+Andria Kimpton,New Zealand,Almond Choco,2022-04-05,6559,158
+Karlen McCaffrey,Australia,99% Dark & Pure,2022-01-26,10822,168
+Kaine Padly,UK,After Nines,2022-01-21,18697,176
+Kaine Padly,Canada,After Nines,2022-08-22,5845,172
+Kaine Padly,UK,Drinking Coco,2022-01-27,2317,224
+Rafaelita Blaksland,UK,50% Dark Bites,2022-02-16,10150,68
+Dotty Strutley,USA,Raspberry Choco,2022-01-03,3437,46
+Karlen McCaffrey,USA,White Choc,2022-08-24,4592,2
+Oby Sorrel,USA,Spicy Special Slims,2022-02-07,5691,417
+Mallorie Waber,Australia,Smooth Sliky Salty,2022-02-11,4158,109
+Kaine Padly,Canada,Organic Choco Syrup,2022-03-29,5684,81
+Marney O'Breen,USA,Peanut Butter Cubes,2022-06-15,693,350
+Dennison Crosswaite,UK,Smooth Sliky Salty,2022-04-26,546,142
+Brien Boise,Australia,Organic Choco Syrup,2022-07-15,4263,264
+Beverie Moffet,India,Organic Choco Syrup,2022-06-23,1036,20
+Dennison Crosswaite,Australia,Baker's Choco Chips,2022-01-11,13846,421
+Beverie Moffet,UK,50% Dark Bites,2022-02-09,2499,271
+Van Tuxwell,UK,Almond Choco,2022-06-06,10689,204
+Dotty Strutley,UK,Caramel Stuffed Bars,2022-08-10,5768,235
+Wilone O'Kielt,Australia,Smooth Sliky Salty,2022-01-04,2226,46
+Andria Kimpton,Canada,70% Dark Bites,2022-04-08,10262,15
+Barr Faughny,UK,Milk Bars,2022-03-02,3864,430
+Van Tuxwell,Canada,Drinking Coco,2022-06-15,4900,709
+Jehu Rudeforth,Australia,After Nines,2022-02-14,5250,47
+Husein Augar,UK,After Nines,2022-07-05,3507,380
+Barr Faughny,India,Mint Chip Choco,2022-01-12,7413,465
+Curtice Advani,India,Mint Chip Choco,2022-03-03,8155,96
+Jehu Rudeforth,New Zealand,Milk Bars,2022-05-18,2478,188
+Gunar Cockshoot,India,Caramel Stuffed Bars,2022-07-28,2471,202
+Curtice Advani,UK,Manuka Honey Choco,2022-02-07,1666,106
+Andria Kimpton,India,Orange Choco,2022-05-30,301,421
+Mallorie Waber,Australia,Raspberry Choco,2022-04-25,8400,27
+Beverie Moffet,Canada,85% Dark Bars,2022-02-16,6139,45
+Kelci Walkden,Australia,Drinking Coco,2022-05-04,1288,60
+Van Tuxwell,Canada,70% Dark Bites,2022-06-02,7077,77
+Dennison Crosswaite,USA,Caramel Stuffed Bars,2022-07-11,2317,464
+Beverie Moffet,New Zealand,Spicy Special Slims,2022-06-07,63,60
+Jan Morforth,UK,Almond Choco,2022-07-06,9744,157
+Husein Augar,India,Raspberry Choco,2022-06-15,9954,154
+Dotty Strutley,India,Mint Chip Choco,2022-04-14,1260,239
+Camilla Castle,India,Drinking Coco,2022-08-08,469,163
+Marney O'Breen,UK,Drinking Coco,2022-03-29,973,28
+Roddy Speechley,Australia,Organic Choco Syrup,2022-07-04,3647,76
+Ches Bonnell,India,99% Dark & Pure,2022-02-16,455,96
+Rafaelita Blaksland,Canada,Spicy Special Slims,2022-05-02,2520,156
+Van Tuxwell,India,Eclairs,2022-07-21,10500,106
+Gunar Cockshoot,Australia,99% Dark & Pure,2022-08-18,7952,235
+Kaine Padly,USA,85% Dark Bars,2022-06-22,483,259
+Camilla Castle,UK,Peanut Butter Cubes,2022-07-19,4872,126
+Madelene Upcott,UK,Peanut Butter Cubes,2022-08-12,7756,85
+Madelene Upcott,USA,Choco Coated Almonds,2022-06-07,5446,132
+Marney O'Breen,Canada,Peanut Butter Cubes,2022-03-08,6594,91
+Ches Bonnell,Australia,Choco Coated Almonds,2022-04-08,1470,167
+Curtice Advani,Canada,Eclairs,2022-05-06,721,203
+Roddy Speechley,India,Drinking Coco,2022-05-31,4494,11
+Van Tuxwell,Australia,Mint Chip Choco,2022-01-13,2674,295
+Dennison Crosswaite,USA,70% Dark Bites,2022-03-15,658,77
+Andria Kimpton,Canada,Peanut Butter Cubes,2022-02-16,1127,319
+Gigi Bohling,USA,70% Dark Bites,2022-01-14,7364,196
+Rafaelita Blaksland,Australia,White Choc,2022-03-21,6818,102
+Roddy Speechley,Canada,Drinking Coco,2022-05-17,6776,312
+Camilla Castle,New Zealand,85% Dark Bars,2022-08-08,15099,55
+Madelene Upcott,Canada,Milk Bars,2022-04-26,3612,82
+Madelene Upcott,Australia,70% Dark Bites,2022-04-15,3710,260
+Oby Sorrel,Canada,Eclairs,2022-05-19,6111,591
+Dennison Crosswaite,Canada,Drinking Coco,2022-01-10,2702,24
+Mallorie Waber,New Zealand,After Nines,2022-05-04,483,228
+Roddy Speechley,Canada,White Choc,2022-04-05,5887,268
+Andria Kimpton,India,After Nines,2022-01-17,952,68
+Roddy Speechley,India,Spicy Special Slims,2022-03-22,10647,173
+Dotty Strutley,Australia,White Choc,2022-07-05,6055,93
+Oby Sorrel,Canada,Orange Choco,2022-04-27,8757,338
+Kaine Padly,Canada,Almond Choco,2022-08-12,6055,73
+Jan Morforth,UK,Baker's Choco Chips,2022-03-11,721,251
+Jehu Rudeforth,UK,Fruit & Nut Bars,2022-05-13,8589,229
+Dennison Crosswaite,USA,Smooth Sliky Salty,2022-05-12,11781,91
+Brien Boise,USA,Raspberry Choco,2022-01-12,672,194
+Madelene Upcott,New Zealand,Milk Bars,2022-03-29,12558,403
+Roddy Speechley,India,50% Dark Bites,2022-03-14,8337,12
+Barr Faughny,New Zealand,99% Dark & Pure,2022-05-24,8134,195
+Dennison Crosswaite,Canada,Organic Choco Syrup,2022-01-28,8491,75
+Beverie Moffet,India,Almond Choco,2022-05-24,3066,96
+Brien Boise,Australia,Peanut Butter Cubes,2022-08-19,301,205
+Karlen McCaffrey,Australia,Spicy Special Slims,2022-05-17,4410,323
+Jehu Rudeforth,USA,White Choc,2022-06-07,6559,119
+Ches Bonnell,Canada,Organic Choco Syrup,2022-07-26,574,217
+Dotty Strutley,India,Eclairs,2022-07-28,2086,384
+Karlen McCaffrey,India,70% Dark Bites,2022-05-23,5075,344
+Jehu Rudeforth,UK,Mint Chip Choco,2023-01-04,5902,178
+Van Tuxwell,India,85% Dark Bars,2023-08-01,8074,100
+Gigi Bohling,India,Peanut Butter Cubes,2023-07-07,4666,100
+Jan Morforth,Australia,Peanut Butter Cubes,2023-04-27,14103,350
+Jehu Rudeforth,UK,Peanut Butter Cubes,2023-02-24,14168,178
+Van Tuxwell,India,Smooth Sliky Salty,2023-06-06,5769,37
+Oby Sorrel,UK,99% Dark & Pure,2023-01-25,14673,175
+Gunar Cockshoot,Australia,After Nines,2023-03-24,3249,78
+Jehu Rudeforth,New Zealand,50% Dark Bites,2023-04-20,4526,64
+Brien Boise,Australia,99% Dark & Pure,2023-07-04,3167,98
+Rafaelita Blaksland,UK,Smooth Sliky Salty,2023-01-13,4866,65
+Barr Faughny,USA,Orange Choco,2023-03-10,4254,12
+Mallorie Waber,Canada,Eclairs,2023-01-13,1653,277
+Karlen McCaffrey,New Zealand,Drinking Coco,2023-07-28,171,163
+Marney O'Breen,New Zealand,Peanut Butter Cubes,2023-08-03,8550,169
+Beverie Moffet,Australia,Organic Choco Syrup,2023-01-26,7808,355
+Van Tuxwell,Canada,Organic Choco Syrup,2023-02-14,4561,44
+Roddy Speechley,USA,Smooth Sliky Salty,2023-04-05,3041,148
+Beverie Moffet,Canada,Milk Bars,2023-02-16,9786,248
+Curtice Advani,UK,85% Dark Bars,2023-06-08,1131,175
+Brien Boise,Australia,Eclairs,2023-06-27,7484,94
+Gunar Cockshoot,USA,Spicy Special Slims,2023-02-17,1340,166
+Marney O'Breen,USA,After Nines,2023-05-30,5481,159
+Husein Augar,UK,Drinking Coco,2023-03-14,3275,120
+Kaine Padly,Australia,Eclairs,2023-02-28,7678,118
+Karlen McCaffrey,India,Fruit & Nut Bars,2023-01-26,189,315
+Roddy Speechley,Canada,Spicy Special Slims,2023-02-09,1659,193
+Husein Augar,USA,Eclairs,2023-07-07,4169,122
+Dennison Crosswaite,New Zealand,White Choc,2023-07-05,10605,165
+Dennison Crosswaite,New Zealand,Manuka Honey Choco,2023-06-15,5774,325
+Van Tuxwell,New Zealand,85% Dark Bars,2023-05-24,1839,121
+Rafaelita Blaksland,UK,99% Dark & Pure,2023-06-29,12643,150
+Wilone O'Kielt,Australia,Manuka Honey Choco,2023-05-11,4440,95
+Karlen McCaffrey,UK,Almond Choco,2023-06-30,7699,126
+Andria Kimpton,Canada,After Nines,2023-05-11,2222,77
+Roddy Speechley,USA,Manuka Honey Choco,2023-07-22,10959,302
+Andria Kimpton,UK,50% Dark Bites,2023-08-24,2855,337
+Kelci Walkden,New Zealand,After Nines,2023-07-07,148,74
+Camilla Castle,Australia,85% Dark Bars,2023-05-19,3791,14
+Karlen McCaffrey,India,Manuka Honey Choco,2023-07-04,2487,583
+Kelci Walkden,USA,After Nines,2023-06-02,1021,17
+Karlen McCaffrey,USA,Raspberry Choco,2023-04-15,15370,353
+Mallorie Waber,Canada,Choco Coated Almonds,2023-07-11,5346,250
+Andria Kimpton,India,Spicy Special Slims,2023-02-23,6559,154
+Madelene Upcott,Canada,Almond Choco,2023-08-22,8283,107
+Kaine Padly,USA,Peanut Butter Cubes,2023-02-16,6981,189
+Van Tuxwell,USA,50% Dark Bites,2023-01-13,10280,155
+Curtice Advani,Australia,Milk Bars,2023-02-14,7704,20
+Roddy Speechley,India,Eclairs,2023-06-10,4490,310
+Curtice Advani,India,Fruit & Nut Bars,2023-07-07,5806,190
+Curtice Advani,Canada,Almond Choco,2023-03-24,5149,76
+Brien Boise,Australia,Fruit & Nut Bars,2023-06-06,8559,24
+Dotty Strutley,Australia,Drinking Coco,2023-07-19,94,145
+Beverie Moffet,USA,Raspberry Choco,2023-04-19,16224,87
+Marney O'Breen,India,85% Dark Bars,2023-07-19,2439,175
+Jehu Rudeforth,Canada,Drinking Coco,2023-07-15,467,23
+Ches Bonnell,New Zealand,Spicy Special Slims,2023-02-14,4044,18
+Brien Boise,Canada,99% Dark & Pure,2023-05-18,17675,446
+Barr Faughny,Australia,Fruit & Nut Bars,2023-06-30,17281,58
+Andria Kimpton,Australia,50% Dark Bites,2023-06-02,5092,219
+Andria Kimpton,Australia,Drinking Coco,2023-06-28,1657,49
+Marney O'Breen,Australia,Organic Choco Syrup,2023-05-16,306,189
+Kelci Walkden,Canada,Baker's Choco Chips,2023-05-26,3377,325
+Karlen McCaffrey,India,Almond Choco,2023-07-06,6189,157
+Oby Sorrel,India,99% Dark & Pure,2023-05-27,10914,11
+Wilone O'Kielt,Australia,Caramel Stuffed Bars,2023-04-14,2342,12
+Van Tuxwell,Australia,Organic Choco Syrup,2023-08-10,21763,15
+Camilla Castle,India,50% Dark Bites,2023-07-04,10540,398
+Oby Sorrel,India,Organic Choco Syrup,2023-07-08,6666,60
+Jan Morforth,USA,Peanut Butter Cubes,2023-07-22,9605,98
+Gigi Bohling,USA,Choco Coated Almonds,2023-03-02,13018,103
+Gigi Bohling,UK,Almond Choco,2023-01-10,6046,10
+Jehu Rudeforth,New Zealand,White Choc,2023-03-11,3078,231
+Andria Kimpton,New Zealand,Peanut Butter Cubes,2023-06-20,971,291
+Van Tuxwell,UK,Organic Choco Syrup,2023-08-26,2065,208
+Roddy Speechley,Canada,Milk Bars,2023-07-13,680,34
+Camilla Castle,USA,Spicy Special Slims,2023-02-11,1311,251
+Marney O'Breen,USA,Orange Choco,2023-01-27,8693,184
+Van Tuxwell,UK,99% Dark & Pure,2023-01-31,4993,145
+Camilla Castle,USA,White Choc,2023-08-18,10898,24
+Andria Kimpton,USA,Raspberry Choco,2023-06-30,15566,21
+Dotty Strutley,Australia,Fruit & Nut Bars,2023-08-23,281,328
+Brien Boise,New Zealand,Mint Chip Choco,2023-08-01,66,197
+Roddy Speechley,New Zealand,After Nines,2023-05-25,8766,10
+Roddy Speechley,Canada,Organic Choco Syrup,2023-01-10,4265,85
+Dennison Crosswaite,Australia,70% Dark Bites,2023-02-07,6088,113
+Karlen McCaffrey,USA,Orange Choco,2023-05-12,11694,425
+Madelene Upcott,Australia,Spicy Special Slims,2023-03-07,7616,392
+Dennison Crosswaite,Australia,85% Dark Bars,2023-04-05,7807,419
+Andria Kimpton,Canada,Caramel Stuffed Bars,2023-01-03,7991,343
+Dennison Crosswaite,UK,Eclairs,2023-03-24,6757,276
+Madelene Upcott,India,Raspberry Choco,2023-07-07,4409,10
+Van Tuxwell,USA,After Nines,2023-07-26,722,255
+Wilone O'Kielt,Australia,Organic Choco Syrup,2023-07-07,1896,115
+Karlen McCaffrey,Canada,50% Dark Bites,2023-07-15,2967,65
+Roddy Speechley,New Zealand,Orange Choco,2023-04-01,51,100
+Beverie Moffet,Australia,Eclairs,2023-06-20,1835,6
+Kelci Walkden,UK,Fruit & Nut Bars,2023-06-29,14592,509
+Marney O'Breen,USA,50% Dark Bites,2023-06-15,1114,106
+Husein Augar,USA,After Nines,2023-04-08,13052,193
+Dennison Crosswaite,Australia,Raspberry Choco,2023-03-14,5998,31
+Andria Kimpton,USA,Fruit & Nut Bars,2023-07-15,1588,352
+Kelci Walkden,India,Eclairs,2023-04-19,5344,80
+Marney O'Breen,USA,99% Dark & Pure,2023-03-28,4647,317
+Brien Boise,Canada,Spicy Special Slims,2023-03-04,8930,100
+Karlen McCaffrey,New Zealand,70% Dark Bites,2023-08-02,141,38
+Husein Augar,UK,Spicy Special Slims,2023-08-25,5069,45
+Marney O'Breen,USA,Almond Choco,2023-02-25,8013,163
+Kelci Walkden,India,Orange Choco,2023-06-07,10588,134
+Jan Morforth,India,Spicy Special Slims,2023-04-12,2156,495
+Ches Bonnell,India,Spicy Special Slims,2023-07-06,11010,103
+Kelci Walkden,UK,Smooth Sliky Salty,2023-01-19,6788,192
+Madelene Upcott,Australia,Fruit & Nut Bars,2023-01-05,5715,90
+Madelene Upcott,Canada,70% Dark Bites,2023-01-24,12101,142
+Wilone O'Kielt,Australia,Drinking Coco,2023-04-06,624,285
+Gunar Cockshoot,Australia,Fruit & Nut Bars,2023-06-15,6528,22
+Gigi Bohling,Canada,Baker's Choco Chips,2023-01-28,1541,47
+Kelci Walkden,India,Caramel Stuffed Bars,2023-03-16,487,123
+Rafaelita Blaksland,Australia,Drinking Coco,2023-02-21,11630,431
+Kelci Walkden,USA,Manuka Honey Choco,2023-02-16,17298,96
+Jehu Rudeforth,Canada,Spicy Special Slims,2023-01-13,2044,28
+Kelci Walkden,Australia,Eclairs,2023-03-23,8169,570
+Curtice Advani,Canada,Spicy Special Slims,2023-06-16,933,122
+Oby Sorrel,India,Raspberry Choco,2023-04-14,6826,44
+Kelci Walkden,UK,Eclairs,2023-01-25,5029,61
+Jan Morforth,India,Almond Choco,2023-03-11,5143,21
+Dotty Strutley,UK,Almond Choco,2023-07-28,16708,102
+Marney O'Breen,New Zealand,After Nines,2023-03-09,1559,46
+Husein Augar,Australia,Orange Choco,2023-06-28,9333,196
+Marney O'Breen,Australia,Milk Bars,2023-07-28,2673,375
+Kelci Walkden,Canada,99% Dark & Pure,2023-08-15,4950,54
+Kaine Padly,Australia,Manuka Honey Choco,2023-01-12,2919,271
+Beverie Moffet,New Zealand,White Choc,2023-03-24,8003,7
+Van Tuxwell,UK,Milk Bars,2023-07-25,4903,91
+Oby Sorrel,Canada,99% Dark & Pure,2023-08-01,4034,430
+Van Tuxwell,India,Organic Choco Syrup,2023-05-16,22751,182
+Roddy Speechley,India,Smooth Sliky Salty,2023-08-10,5118,137
+Jan Morforth,India,Eclairs,2023-01-05,2836,26
+Ches Bonnell,UK,Smooth Sliky Salty,2023-07-11,5828,121
+Wilone O'Kielt,USA,After Nines,2023-04-25,396,32
+Gigi Bohling,New Zealand,Fruit & Nut Bars,2023-04-04,11227,118
+Barr Faughny,USA,Raspberry Choco,2023-04-12,10103,107
+Wilone O'Kielt,New Zealand,85% Dark Bars,2023-08-02,2085,119
+Gigi Bohling,New Zealand,Manuka Honey Choco,2023-06-28,8496,268
+Ches Bonnell,Australia,Eclairs,2023-07-05,4248,130
+Rafaelita Blaksland,New Zealand,Choco Coated Almonds,2023-06-07,2236,46
+Brien Boise,New Zealand,Smooth Sliky Salty,2023-01-18,1124,26
+Brien Boise,Australia,Baker's Choco Chips,2023-01-04,12870,227
+Dennison Crosswaite,Australia,99% Dark & Pure,2023-01-31,3018,19
+Kelci Walkden,India,Almond Choco,2023-03-14,3574,149
+Camilla Castle,Australia,70% Dark Bites,2023-04-29,6249,509
+Oby Sorrel,India,Smooth Sliky Salty,2023-02-07,10760,107
+Kaine Padly,UK,Organic Choco Syrup,2023-03-31,2508,175
+Marney O'Breen,India,Caramel Stuffed Bars,2023-03-16,4998,83
+Karlen McCaffrey,UK,Eclairs,2023-01-25,7901,200
+Van Tuxwell,India,Baker's Choco Chips,2023-06-20,3133,479
+Gigi Bohling,UK,After Nines,2023-03-29,8320,171
+Curtice Advani,Australia,Orange Choco,2023-07-12,910,132
+Jehu Rudeforth,Canada,Smooth Sliky Salty,2023-07-11,5631,142
+Karlen McCaffrey,Canada,Smooth Sliky Salty,2023-01-19,3283,186
+Andria Kimpton,USA,85% Dark Bars,2023-04-05,9458,87
+Jehu Rudeforth,Canada,Milk Bars,2023-02-21,7726,12
+Rafaelita Blaksland,New Zealand,Caramel Stuffed Bars,2023-05-20,14369,15
+Mallorie Waber,Australia,Milk Bars,2023-07-29,2830,106
+Barr Faughny,USA,Fruit & Nut Bars,2023-01-28,9371,45
+Marney O'Breen,UK,Caramel Stuffed Bars,2023-07-19,3651,112
+Mallorie Waber,New Zealand,Manuka Honey Choco,2023-04-13,10230,12
+Roddy Speechley,India,Peanut Butter Cubes,2023-02-11,11597,22
+Roddy Speechley,New Zealand,Milk Bars,2023-03-02,5858,111
+Ches Bonnell,Australia,White Choc,2023-03-02,1178,206
+Van Tuxwell,USA,99% Dark & Pure,2023-07-28,12930,6
+Kelci Walkden,India,After Nines,2023-01-07,1732,531
+Brien Boise,UK,White Choc,2023-04-12,5837,173
+Van Tuxwell,Canada,Almond Choco,2023-06-27,3425,70
+Jehu Rudeforth,Australia,50% Dark Bites,2023-01-14,5700,422
+Karlen McCaffrey,UK,Baker's Choco Chips,2023-02-07,5094,373
+Jehu Rudeforth,Australia,Orange Choco,2023-03-23,14529,26
+Marney O'Breen,India,Peanut Butter Cubes,2023-01-10,6761,145
+Oby Sorrel,UK,Choco Coated Almonds,2023-03-17,10370,44
+Gigi Bohling,USA,Spicy Special Slims,2023-01-21,12450,57
+Barr Faughny,Australia,White Choc,2023-07-04,8928,386
+Kaine Padly,Canada,Peanut Butter Cubes,2023-07-04,3439,191
+Dotty Strutley,USA,Manuka Honey Choco,2023-08-10,300,207
+Dennison Crosswaite,Australia,50% Dark Bites,2023-04-01,7374,12
+Gigi Bohling,India,Raspberry Choco,2023-02-22,2776,174
+Camilla Castle,UK,White Choc,2023-01-03,9958,194
+Karlen McCaffrey,India,Drinking Coco,2023-05-31,5065,251
+Dotty Strutley,UK,99% Dark & Pure,2023-01-03,9865,273
+Husein Augar,New Zealand,Caramel Stuffed Bars,2023-01-27,572,489
+Barr Faughny,UK,50% Dark Bites,2023-01-28,656,67
+Curtice Advani,Australia,Organic Choco Syrup,2023-06-28,4009,301
+Husein Augar,UK,Choco Coated Almonds,2023-03-02,4679,43
+Wilone O'Kielt,Australia,After Nines,2023-05-27,3447,28
+Dennison Crosswaite,USA,Almond Choco,2023-06-30,11885,82
+Barr Faughny,Canada,Peanut Butter Cubes,2023-06-07,2167,85
+Kaine Padly,USA,70% Dark Bites,2023-05-12,4200,107
+Barr Faughny,New Zealand,Raspberry Choco,2023-07-29,7359,68
+Dennison Crosswaite,UK,White Choc,2023-08-03,7870,274
+Barr Faughny,India,Baker's Choco Chips,2023-08-18,7454,148
+Van Tuxwell,New Zealand,Smooth Sliky Salty,2023-06-14,3112,41
+Beverie Moffet,UK,White Choc,2023-06-30,6901,80
+Camilla Castle,New Zealand,Mint Chip Choco,2023-06-13,1178,199
+Ches Bonnell,UK,Orange Choco,2023-04-27,14954,53
+Jan Morforth,Australia,White Choc,2023-07-27,3959,33
+Mallorie Waber,Canada,85% Dark Bars,2023-04-20,1639,430
+Rafaelita Blaksland,India,Spicy Special Slims,2023-01-04,8586,144
+Ches Bonnell,Australia,Mint Chip Choco,2023-02-21,10000,98
+Karlen McCaffrey,Australia,White Choc,2023-01-05,8448,52
+Beverie Moffet,India,Drinking Coco,2023-07-15,6985,51
+Brien Boise,Australia,Choco Coated Almonds,2023-05-25,5642,61
+Karlen McCaffrey,Canada,Eclairs,2023-04-20,3851,372
+Gigi Bohling,USA,99% Dark & Pure,2023-06-02,886,240
+Marney O'Breen,UK,Smooth Sliky Salty,2023-05-13,21252,91
+Beverie Moffet,New Zealand,Baker's Choco Chips,2023-08-03,1453,142
+Beverie Moffet,Australia,Milk Bars,2023-05-25,793,400
+Van Tuxwell,UK,Raspberry Choco,2023-03-16,7152,83
+Jan Morforth,Australia,Orange Choco,2023-07-04,3364,126
+Jehu Rudeforth,India,50% Dark Bites,2023-07-05,3471,129
+Madelene Upcott,USA,After Nines,2023-03-15,4676,440
+Barr Faughny,UK,Raspberry Choco,2023-08-22,6323,70
+Ches Bonnell,Australia,70% Dark Bites,2023-01-12,3253,119
+Marney O'Breen,UK,Baker's Choco Chips,2023-06-10,254,161
+Kaine Padly,Australia,Peanut Butter Cubes,2023-03-25,6127,299
+Rafaelita Blaksland,India,Almond Choco,2023-07-27,3792,100
+Husein Augar,UK,Caramel Stuffed Bars,2023-04-15,17060,456
+Roddy Speechley,India,Orange Choco,2023-06-27,4154,18
+Jehu Rudeforth,UK,70% Dark Bites,2023-04-14,6169,280
+Husein Augar,Australia,Manuka Honey Choco,2023-03-15,7984,95
+Madelene Upcott,USA,Eclairs,2023-03-18,9108,213
+Brien Boise,India,Eclairs,2023-04-29,1512,58
+Mallorie Waber,New Zealand,White Choc,2023-02-25,3364,265
+Husein Augar,USA,Milk Bars,2023-03-02,934,54
+Van Tuxwell,Australia,Milk Bars,2023-06-20,8896,91
+Beverie Moffet,Canada,White Choc,2023-07-15,9957,185
+Dotty Strutley,Australia,50% Dark Bites,2023-05-12,3359,256
+Mallorie Waber,New Zealand,Organic Choco Syrup,2023-07-01,5098,276
+Husein Augar,USA,85% Dark Bars,2023-08-08,398,52
+Madelene Upcott,Australia,50% Dark Bites,2023-07-25,7473,6
+Wilone O'Kielt,UK,Drinking Coco,2023-05-18,3639,59
+Camilla Castle,India,Peanut Butter Cubes,2023-07-15,12507,284
+Curtice Advani,India,70% Dark Bites,2023-07-05,2394,48
+Mallorie Waber,USA,Manuka Honey Choco,2023-07-04,6137,94
+Dotty Strutley,UK,70% Dark Bites,2023-06-20,1264,232
+Gunar Cockshoot,Australia,Almond Choco,2023-01-25,4101,425
+Kaine Padly,New Zealand,Spicy Special Slims,2023-07-01,8107,40
+Gigi Bohling,USA,50% Dark Bites,2023-04-13,2456,58
+Beverie Moffet,UK,Smooth Sliky Salty,2023-05-04,4727,75
+Beverie Moffet,Australia,Baker's Choco Chips,2023-08-04,3483,108
+Beverie Moffet,India,70% Dark Bites,2023-06-01,467,159
+Jehu Rudeforth,UK,Choco Coated Almonds,2023-04-22,4875,185
+Kaine Padly,USA,50% Dark Bites,2023-08-03,71,27
+Ches Bonnell,USA,Orange Choco,2023-06-10,1835,73
+Gunar Cockshoot,UK,Manuka Honey Choco,2023-06-27,7305,49
+Marney O'Breen,Australia,Smooth Sliky Salty,2023-01-03,3968,163
+Marney O'Breen,India,After Nines,2023-07-11,2801,190
+Ches Bonnell,New Zealand,Milk Bars,2023-08-17,4475,120
+Rafaelita Blaksland,USA,Fruit & Nut Bars,2023-01-18,2737,63
+Ches Bonnell,India,Organic Choco Syrup,2023-03-08,16717,102
+Mallorie Waber,Australia,Orange Choco,2023-03-07,16113,282
+Husein Augar,India,70% Dark Bites,2023-05-09,6898,163
+Barr Faughny,New Zealand,85% Dark Bars,2023-05-23,2151,170
+Madelene Upcott,UK,Caramel Stuffed Bars,2023-04-15,173,152
+Gigi Bohling,Australia,Drinking Coco,2023-07-27,2949,153
+Marney O'Breen,Canada,Choco Coated Almonds,2023-08-22,2791,435
+Ches Bonnell,USA,70% Dark Bites,2023-05-11,5054,127
+Madelene Upcott,India,Organic Choco Syrup,2023-01-26,5419,37
+Barr Faughny,USA,50% Dark Bites,2023-04-14,14605,128
+Dennison Crosswaite,New Zealand,Mint Chip Choco,2023-04-05,6669,419
+Marney O'Breen,New Zealand,Smooth Sliky Salty,2023-06-14,9690,58
+Brien Boise,Canada,Almond Choco,2023-04-13,5027,123
+Beverie Moffet,Australia,White Choc,2023-06-27,2379,178
+Dotty Strutley,Australia,Eclairs,2023-01-26,7771,3
+Barr Faughny,UK,White Choc,2023-07-05,1837,77
+Beverie Moffet,Canada,Baker's Choco Chips,2023-01-11,14626,90
+Kelci Walkden,USA,White Choc,2023-03-07,10305,22
+Kaine Padly,Canada,50% Dark Bites,2023-03-04,8799,99
+Karlen McCaffrey,Canada,Organic Choco Syrup,2023-07-15,2467,309
+Kaine Padly,UK,Peanut Butter Cubes,2023-05-11,6564,92
+Karlen McCaffrey,USA,Milk Bars,2023-01-27,4765,7
+Karlen McCaffrey,India,Orange Choco,2023-06-27,3172,153
+Ches Bonnell,India,Smooth Sliky Salty,2023-08-03,8062,20
+Wilone O'Kielt,New Zealand,Mint Chip Choco,2023-08-19,12382,245
+Wilone O'Kielt,Australia,Fruit & Nut Bars,2023-06-15,414,111
+Dennison Crosswaite,UK,Peanut Butter Cubes,2023-02-07,10186,154
+Karlen McCaffrey,Australia,Almond Choco,2023-07-08,7937,138
+Dennison Crosswaite,India,Milk Bars,2023-04-21,1713,93
+Ches Bonnell,UK,Mint Chip Choco,2023-04-08,3089,226
+Husein Augar,Australia,50% Dark Bites,2023-08-19,14953,51
+Jan Morforth,India,Fruit & Nut Bars,2023-05-04,3219,54
+Mallorie Waber,USA,85% Dark Bars,2023-05-11,2701,112
+Mallorie Waber,USA,Eclairs,2023-03-22,7220,53
+Dennison Crosswaite,Canada,Spicy Special Slims,2023-08-10,2634,234
+Dennison Crosswaite,USA,Fruit & Nut Bars,2023-05-04,1631,321
+Kelci Walkden,USA,99% Dark & Pure,2023-08-18,8251,258
+Dotty Strutley,Canada,Raspberry Choco,2023-08-03,4849,248
+Marney O'Breen,New Zealand,Milk Bars,2023-01-14,7940,328
+Madelene Upcott,Australia,Choco Coated Almonds,2023-04-08,2107,69
+Kelci Walkden,UK,Orange Choco,2023-08-01,3912,3
+Dennison Crosswaite,Canada,Eclairs,2023-03-15,483,45
+Karlen McCaffrey,India,Mint Chip Choco,2023-07-15,11381,192
+Barr Faughny,New Zealand,Almond Choco,2023-01-13,6373,131
+Mallorie Waber,Australia,85% Dark Bars,2023-08-26,2715,52
+Ches Bonnell,Canada,Eclairs,2023-01-10,2106,172
+Gigi Bohling,Australia,White Choc,2023-05-11,5805,83
+Beverie Moffet,New Zealand,85% Dark Bars,2023-08-30,12206,23
+Kaine Padly,USA,Caramel Stuffed Bars,2023-07-21,6319,124
+Mallorie Waber,Australia,Almond Choco,2023-08-01,8523,137
+Brien Boise,Canada,85% Dark Bars,2023-02-17,10316,268
+Brien Boise,Australia,Drinking Coco,2023-07-27,7262,158
+Dotty Strutley,USA,Orange Choco,2023-02-23,1415,112
+Rafaelita Blaksland,Australia,50% Dark Bites,2023-03-22,3068,42
+Dennison Crosswaite,India,99% Dark & Pure,2023-06-23,7370,325
+Curtice Advani,UK,White Choc,2023-02-01,1775,73
+Kelci Walkden,Australia,After Nines,2023-03-02,7684,279
+Gigi Bohling,UK,Fruit & Nut Bars,2023-04-06,1412,90
+Gunar Cockshoot,Australia,Raspberry Choco,2023-03-17,607,76
+Curtice Advani,UK,Fruit & Nut Bars,2023-06-24,11689,136
+Barr Faughny,Canada,50% Dark Bites,2023-07-19,10276,301
+Curtice Advani,USA,Spicy Special Slims,2023-07-11,1788,271
+Brien Boise,India,Almond Choco,2023-01-13,2378,222
+Oby Sorrel,New Zealand,Smooth Sliky Salty,2023-07-07,9545,64
+Jan Morforth,India,85% Dark Bars,2023-05-25,5000,446
+Marney O'Breen,India,Fruit & Nut Bars,2023-04-13,5313,160
+Andria Kimpton,New Zealand,50% Dark Bites,2023-03-02,3751,208
+Gunar Cockshoot,Canada,Raspberry Choco,2023-06-23,2376,129
+Kelci Walkden,USA,Drinking Coco,2023-07-26,7014,170
+Van Tuxwell,Canada,White Choc,2023-03-22,482,3
+Rafaelita Blaksland,USA,Baker's Choco Chips,2023-06-09,3137,64
+Van Tuxwell,Australia,Caramel Stuffed Bars,2023-05-17,6584,62
+Ches Bonnell,New Zealand,Peanut Butter Cubes,2023-03-04,1025,260
+Kelci Walkden,Canada,Milk Bars,2023-07-07,17680,27
+Dennison Crosswaite,Canada,Choco Coated Almonds,2023-01-13,10708,124
+Curtice Advani,Australia,Almond Choco,2023-07-13,3019,78
+Madelene Upcott,Australia,85% Dark Bars,2023-06-16,1759,329
+Gigi Bohling,UK,50% Dark Bites,2023-07-18,8385,73
+Ches Bonnell,UK,Manuka Honey Choco,2023-05-30,4854,411
+Gigi Bohling,UK,70% Dark Bites,2023-06-21,949,83
+Jehu Rudeforth,Australia,Peanut Butter Cubes,2023-06-24,6047,40
+Marney O'Breen,India,Eclairs,2023-01-13,3883,94
+Curtice Advani,Canada,Fruit & Nut Bars,2023-04-04,4382,210
+Kaine Padly,UK,Smooth Sliky Salty,2023-06-08,9928,599
+Karlen McCaffrey,Canada,Spicy Special Slims,2023-08-02,6316,51
+Kelci Walkden,USA,Organic Choco Syrup,2023-07-21,10630,155
+Curtice Advani,India,Spicy Special Slims,2023-06-20,167,143
+Roddy Speechley,India,After Nines,2023-06-22,2690,117
+Camilla Castle,Australia,Caramel Stuffed Bars,2023-05-02,3242,15
+Curtice Advani,Australia,99% Dark & Pure,2023-01-07,5364,87
+Mallorie Waber,UK,50% Dark Bites,2023-02-21,6161,95
+Ches Bonnell,Canada,Baker's Choco Chips,2023-03-21,7968,373
+Van Tuxwell,UK,Drinking Coco,2023-04-04,6389,131
+Gunar Cockshoot,Canada,Fruit & Nut Bars,2023-03-24,15841,216
+Gunar Cockshoot,New Zealand,Spicy Special Slims,2023-06-28,7265,194
+Gunar Cockshoot,Australia,Drinking Coco,2023-01-14,2342,192
+Karlen McCaffrey,New Zealand,Fruit & Nut Bars,2023-02-07,1366,147
+Dennison Crosswaite,New Zealand,Drinking Coco,2023-01-11,4437,196
+Jehu Rudeforth,India,99% Dark & Pure,2023-02-25,2072,232
+Dotty Strutley,Australia,Mint Chip Choco,2023-08-01,7092,27
+Roddy Speechley,Australia,Mint Chip Choco,2023-05-05,7213,277
+Madelene Upcott,New Zealand,Raspberry Choco,2023-05-18,9673,411
+Dotty Strutley,New Zealand,Choco Coated Almonds,2023-01-04,5750,350
+Roddy Speechley,New Zealand,50% Dark Bites,2023-05-09,4641,220
+Rafaelita Blaksland,India,Smooth Sliky Salty,2023-05-06,1871,88
+Husein Augar,UK,White Choc,2023-01-13,10843,142
+Roddy Speechley,Australia,Almond Choco,2023-06-24,5032,79
+Van Tuxwell,USA,Caramel Stuffed Bars,2023-02-14,1106,21
+Camilla Castle,Australia,99% Dark & Pure,2023-01-18,4978,97
+Kaine Padly,India,Milk Bars,2023-05-02,3210,92
+Ches Bonnell,Australia,Smooth Sliky Salty,2023-05-16,7795,54
+Mallorie Waber,USA,Almond Choco,2023-01-28,7613,370
+Kaine Padly,Canada,99% Dark & Pure,2023-06-24,1333,409
+Oby Sorrel,UK,After Nines,2023-07-18,2588,108
+Gunar Cockshoot,UK,Eclairs,2023-04-13,3826,169
+Dotty Strutley,USA,Caramel Stuffed Bars,2023-04-15,18688,80
+Jan Morforth,India,Peanut Butter Cubes,2023-01-04,8860,184
+Husein Augar,Australia,Eclairs,2023-07-04,7299,34
+Beverie Moffet,USA,Smooth Sliky Salty,2023-03-24,2556,354
+Camilla Castle,Australia,Manuka Honey Choco,2023-03-17,703,181
+Oby Sorrel,Australia,Almond Choco,2023-02-15,6421,242
+Jan Morforth,USA,Orange Choco,2023-06-29,1048,149
+Gigi Bohling,USA,Fruit & Nut Bars,2023-05-24,3099,115
+Mallorie Waber,UK,Milk Bars,2023-01-10,3738,282
+Curtice Advani,USA,Raspberry Choco,2023-03-15,3087,153
+Marney O'Breen,Canada,Milk Bars,2023-02-08,2618,312
+Brien Boise,India,Caramel Stuffed Bars,2023-02-25,1643,110
+Gunar Cockshoot,USA,Eclairs,2023-05-03,7369,45
+Roddy Speechley,USA,Fruit & Nut Bars,2023-06-14,6082,23
+Gunar Cockshoot,India,50% Dark Bites,2023-08-09,14456,79
+Wilone O'Kielt,New Zealand,Manuka Honey Choco,2023-07-11,4173,254
+Kaine Padly,UK,Manuka Honey Choco,2023-01-14,7189,113
+Van Tuxwell,Canada,Manuka Honey Choco,2023-02-24,8963,48
+Wilone O'Kielt,New Zealand,Almond Choco,2023-03-15,10085,146
+Oby Sorrel,New Zealand,Baker's Choco Chips,2023-04-25,12073,51
+Dennison Crosswaite,Australia,Organic Choco Syrup,2023-05-10,6656,39
+Marney O'Breen,Australia,Spicy Special Slims,2023-06-23,14194,302
+Beverie Moffet,Canada,Smooth Sliky Salty,2023-02-28,15507,352
+Brien Boise,USA,Organic Choco Syrup,2023-05-25,17383,145
+Roddy Speechley,New Zealand,Baker's Choco Chips,2023-02-22,5913,232
+Van Tuxwell,UK,85% Dark Bars,2023-07-11,4029,128
+Marney O'Breen,Canada,Spicy Special Slims,2023-01-03,3563,344
+Rafaelita Blaksland,New Zealand,70% Dark Bites,2023-08-24,774,280
+Beverie Moffet,USA,50% Dark Bites,2023-07-28,2620,340
+Brien Boise,USA,Mint Chip Choco,2023-05-25,11427,151
+Karlen McCaffrey,New Zealand,Eclairs,2023-05-06,2936,171
+Barr Faughny,India,Drinking Coco,2023-01-28,2432,148
+Marney O'Breen,UK,Orange Choco,2023-06-06,11883,13
+Brien Boise,New Zealand,Baker's Choco Chips,2023-07-12,6297,26
+Ches Bonnell,Canada,Spicy Special Slims,2023-08-05,5859,193
+Brien Boise,USA,Orange Choco,2023-01-28,6277,157
+Kaine Padly,India,Spicy Special Slims,2023-08-31,5675,147
+Mallorie Waber,USA,50% Dark Bites,2023-04-19,1960,14
+Mallorie Waber,UK,Mint Chip Choco,2023-06-29,6540,2
+Beverie Moffet,India,Choco Coated Almonds,2023-02-24,3818,287
+Madelene Upcott,UK,Smooth Sliky Salty,2023-03-04,14770,87
+Gigi Bohling,India,Eclairs,2023-06-21,3687,73
+Rafaelita Blaksland,Australia,Organic Choco Syrup,2023-01-26,1124,114
+Oby Sorrel,New Zealand,White Choc,2023-06-10,4612,38
+Andria Kimpton,UK,Drinking Coco,2023-05-23,1600,70
+Kelci Walkden,India,Milk Bars,2023-04-15,976,105
+Karlen McCaffrey,New Zealand,Caramel Stuffed Bars,2023-01-31,5487,219
+Andria Kimpton,New Zealand,Organic Choco Syrup,2023-03-04,4948,39
+Barr Faughny,New Zealand,After Nines,2023-04-19,11460,81
+Beverie Moffet,UK,Almond Choco,2023-05-16,2628,101
+Oby Sorrel,Australia,Raspberry Choco,2023-02-17,1044,126
+Dennison Crosswaite,USA,Raspberry Choco,2023-01-18,7450,264
+Roddy Speechley,Canada,Orange Choco,2023-02-09,9316,88
+Mallorie Waber,Canada,Orange Choco,2023-03-23,3821,179
+Madelene Upcott,New Zealand,Caramel Stuffed Bars,2023-02-01,3783,150
+Mallorie Waber,India,Drinking Coco,2023-03-07,4526,146
+Ches Bonnell,UK,White Choc,2023-01-03,3731,237
+Ches Bonnell,USA,White Choc,2023-02-11,6068,349
+Dennison Crosswaite,New Zealand,Orange Choco,2023-03-16,4944,144
+Dotty Strutley,India,White Choc,2023-08-15,12331,337
+Gigi Bohling,India,Manuka Honey Choco,2023-05-12,5291,76
+Van Tuxwell,India,Spicy Special Slims,2023-04-11,6874,4
+Jan Morforth,New Zealand,Mint Chip Choco,2023-06-30,20402,297
+Dotty Strutley,New Zealand,White Choc,2023-06-15,7923,62
+Rafaelita Blaksland,Canada,Caramel Stuffed Bars,2023-08-01,8146,100
+Kaine Padly,USA,Milk Bars,2023-06-15,16253,58
+Brien Boise,India,After Nines,2023-06-16,5744,49
+Oby Sorrel,New Zealand,Raspberry Choco,2023-05-13,4909,288
+Dennison Crosswaite,USA,Drinking Coco,2023-05-10,2370,139
+Oby Sorrel,India,Eclairs,2023-08-25,5973,337
+Ches Bonnell,New Zealand,Organic Choco Syrup,2023-07-15,8047,86
+Gigi Bohling,UK,Baker's Choco Chips,2023-05-16,9657,400
+Jan Morforth,Australia,50% Dark Bites,2023-06-14,3925,186
+Beverie Moffet,Australia,Smooth Sliky Salty,2023-01-25,11683,506
+Ches Bonnell,USA,Organic Choco Syrup,2023-07-28,7874,13
+Brien Boise,Canada,Mint Chip Choco,2023-01-28,5061,179
+Kaine Padly,UK,Orange Choco,2023-06-29,2099,186
+Karlen McCaffrey,Australia,70% Dark Bites,2023-06-24,238,311
+Gunar Cockshoot,Canada,Mint Chip Choco,2023-07-01,8830,445
+Roddy Speechley,USA,Peanut Butter Cubes,2023-02-25,1733,135
+Curtice Advani,Canada,Smooth Sliky Salty,2023-08-01,3047,12
+Oby Sorrel,Australia,Milk Bars,2023-06-21,8498,276
+Camilla Castle,New Zealand,Spicy Special Slims,2023-01-25,12558,26
+Gigi Bohling,UK,Milk Bars,2023-05-17,1407,231
+Andria Kimpton,Australia,85% Dark Bars,2023-08-23,4496,240
+Camilla Castle,Australia,Smooth Sliky Salty,2023-03-03,8220,125
+Roddy Speechley,India,Caramel Stuffed Bars,2023-05-30,9588,562
+Karlen McCaffrey,USA,Drinking Coco,2023-06-29,115,231
+Andria Kimpton,Canada,Organic Choco Syrup,2023-01-04,8805,214
+Jehu Rudeforth,Australia,Drinking Coco,2023-01-14,2901,68
+Karlen McCaffrey,USA,Mint Chip Choco,2023-02-15,16773,58
+Curtice Advani,New Zealand,Spicy Special Slims,2023-01-10,4154,513
+Madelene Upcott,USA,White Choc,2023-05-04,12571,226
+Andria Kimpton,USA,Spicy Special Slims,2023-05-23,2553,5
+Barr Faughny,New Zealand,Fruit & Nut Bars,2023-04-26,1889,159
+Oby Sorrel,Canada,Organic Choco Syrup,2023-07-05,1310,71
+Madelene Upcott,UK,Organic Choco Syrup,2023-07-21,7806,179
+Dotty Strutley,USA,Mint Chip Choco,2023-02-21,6101,261
+Kelci Walkden,USA,Orange Choco,2023-02-03,1426,133
+Gigi Bohling,Australia,Caramel Stuffed Bars,2023-07-08,8724,147
+Mallorie Waber,India,50% Dark Bites,2023-05-31,665,147
+Van Tuxwell,New Zealand,Mint Chip Choco,2023-06-27,4351,103
+Van Tuxwell,India,50% Dark Bites,2023-05-13,5825,123
+Van Tuxwell,USA,Manuka Honey Choco,2023-05-31,2419,110
+Wilone O'Kielt,USA,Orange Choco,2023-02-28,7726,38
+Barr Faughny,New Zealand,Eclairs,2023-03-28,7144,32
+Gigi Bohling,USA,After Nines,2023-01-14,2043,243
+Barr Faughny,New Zealand,Mint Chip Choco,2023-02-21,6526,147
+Dennison Crosswaite,Canada,85% Dark Bars,2023-08-01,11335,89
+Beverie Moffet,New Zealand,Smooth Sliky Salty,2023-05-19,2493,58
+Husein Augar,USA,White Choc,2023-07-13,2066,59
+Andria Kimpton,Australia,Peanut Butter Cubes,2023-04-20,7009,150
+Dennison Crosswaite,India,85% Dark Bars,2023-06-30,4563,21
+Curtice Advani,UK,50% Dark Bites,2023-03-08,3443,142
+Gunar Cockshoot,USA,Fruit & Nut Bars,2023-03-09,6670,99
+Oby Sorrel,Canada,Raspberry Choco,2023-06-16,1902,217
+Gigi Bohling,UK,Drinking Coco,2023-06-30,6157,43
+Kelci Walkden,India,Mint Chip Choco,2023-07-28,3013,129
+Karlen McCaffrey,Canada,Peanut Butter Cubes,2023-08-12,3474,170
+Barr Faughny,UK,Mint Chip Choco,2023-07-07,4130,332
+Barr Faughny,USA,85% Dark Bars,2023-08-25,14566,45
+Husein Augar,Canada,Eclairs,2023-01-17,4050,255
+Jan Morforth,Australia,70% Dark Bites,2023-03-04,5924,396
+Marney O'Breen,New Zealand,Fruit & Nut Bars,2023-08-25,10101,4
+Ches Bonnell,UK,Peanut Butter Cubes,2023-04-15,2362,272
+Kaine Padly,USA,Organic Choco Syrup,2023-03-11,2639,24
+Camilla Castle,USA,Raspberry Choco,2023-05-20,3496,18
+Brien Boise,New Zealand,Manuka Honey Choco,2023-06-14,17223,44
+Jehu Rudeforth,New Zealand,After Nines,2023-04-14,1605,71
+Jehu Rudeforth,USA,Smooth Sliky Salty,2023-07-07,7170,151
+Madelene Upcott,India,Mint Chip Choco,2023-08-24,4090,75
+Jehu Rudeforth,India,Eclairs,2023-02-24,9574,134
+Karlen McCaffrey,Canada,Raspberry Choco,2023-05-09,718,213
+Kaine Padly,Australia,70% Dark Bites,2023-02-08,7735,227
+Roddy Speechley,UK,70% Dark Bites,2023-03-24,1606,305
+Rafaelita Blaksland,USA,Drinking Coco,2023-06-20,9170,79
+Mallorie Waber,Canada,Manuka Honey Choco,2023-03-07,1584,122
+Kaine Padly,Australia,Fruit & Nut Bars,2023-06-20,7685,83
+Oby Sorrel,New Zealand,Organic Choco Syrup,2023-02-17,16765,261
+Madelene Upcott,UK,99% Dark & Pure,2023-01-26,11797,45
+Madelene Upcott,Australia,Mint Chip Choco,2023-05-02,2767,148
+Curtice Advani,Canada,99% Dark & Pure,2023-07-07,13233,7
+Rafaelita Blaksland,Australia,Baker's Choco Chips,2023-08-22,2820,50
+Karlen McCaffrey,Australia,After Nines,2023-08-11,2483,65
+Marney O'Breen,UK,99% Dark & Pure,2023-01-13,9124,209
+Gunar Cockshoot,Australia,50% Dark Bites,2023-03-02,12728,111
+Marney O'Breen,Australia,Choco Coated Almonds,2023-07-27,12625,41
+Kelci Walkden,New Zealand,Drinking Coco,2023-03-10,17584,110
+Beverie Moffet,USA,85% Dark Bars,2023-08-23,13156,360
+Roddy Speechley,USA,Eclairs,2023-04-25,4164,167
+Dennison Crosswaite,UK,Milk Bars,2023-03-07,11699,436
+Wilone O'Kielt,UK,Organic Choco Syrup,2023-07-12,4964,56
+Madelene Upcott,USA,Orange Choco,2023-05-16,8258,132
+Gunar Cockshoot,India,Smooth Sliky Salty,2023-03-02,3938,70
+Marney O'Breen,New Zealand,85% Dark Bars,2023-05-30,1368,163
+Marney O'Breen,UK,Manuka Honey Choco,2023-06-10,12449,177
+Brien Boise,USA,99% Dark & Pure,2023-07-25,7324,339
+Beverie Moffet,New Zealand,Mint Chip Choco,2023-06-09,4561,102
+Dennison Crosswaite,USA,Milk Bars,2023-05-12,777,58
+Gunar Cockshoot,USA,Drinking Coco,2023-05-09,3857,5
+Brien Boise,Canada,Manuka Honey Choco,2023-08-09,7443,179
+Van Tuxwell,India,Choco Coated Almonds,2023-04-13,5799,125
+Andria Kimpton,USA,Caramel Stuffed Bars,2023-05-02,8837,48
+Dotty Strutley,USA,99% Dark & Pure,2023-08-09,4185,315
+Camilla Castle,Australia,Raspberry Choco,2023-08-23,6984,174
+Gunar Cockshoot,India,Spicy Special Slims,2023-05-13,7363,179
+Karlen McCaffrey,USA,Manuka Honey Choco,2023-02-01,10338,73
+Camilla Castle,USA,50% Dark Bites,2023-06-23,6216,324
+Madelene Upcott,UK,Choco Coated Almonds,2023-05-24,10401,144
+Jan Morforth,Canada,Mint Chip Choco,2023-04-01,1063,217
+Camilla Castle,Canada,70% Dark Bites,2023-07-27,10096,151
+Ches Bonnell,India,Peanut Butter Cubes,2023-01-27,23252,210
+Jan Morforth,India,Choco Coated Almonds,2023-08-12,2670,143
+Gigi Bohling,Canada,Almond Choco,2023-02-01,10266,49
+Rafaelita Blaksland,India,After Nines,2023-03-02,5424,203
+Kelci Walkden,Australia,99% Dark & Pure,2023-06-30,3273,32
+Dotty Strutley,Australia,Spicy Special Slims,2023-01-17,8841,92
+Brien Boise,USA,Milk Bars,2023-07-07,14461,124
+Mallorie Waber,New Zealand,Mint Chip Choco,2023-01-31,1462,109
+Beverie Moffet,UK,99% Dark & Pure,2023-08-10,3702,131
+Beverie Moffet,USA,Peanut Butter Cubes,2023-08-18,13951,329
+Brien Boise,New Zealand,White Choc,2023-06-15,5775,325
+Marney O'Breen,USA,Baker's Choco Chips,2023-01-26,9719,10
+Kelci Walkden,USA,Spicy Special Slims,2023-04-29,88,69
+Mallorie Waber,Canada,White Choc,2023-03-03,3399,74
+Kaine Padly,Australia,Almond Choco,2023-02-22,4372,375
+Oby Sorrel,USA,Smooth Sliky Salty,2023-03-04,3632,169
+Dennison Crosswaite,India,Smooth Sliky Salty,2023-07-07,3344,10
+Camilla Castle,New Zealand,Caramel Stuffed Bars,2023-06-17,4400,364
+Jan Morforth,Canada,Caramel Stuffed Bars,2023-08-02,10802,124
+Oby Sorrel,USA,Baker's Choco Chips,2023-08-12,9154,123
+Madelene Upcott,New Zealand,Peanut Butter Cubes,2023-01-28,5361,340
+Kelci Walkden,Australia,Orange Choco,2023-04-29,11597,462
+Marney O'Breen,Australia,Manuka Honey Choco,2023-04-05,14939,238
+Kaine Padly,Canada,Manuka Honey Choco,2023-01-18,10846,146
+Jehu Rudeforth,UK,Baker's Choco Chips,2023-05-16,2833,104
+Kelci Walkden,Australia,White Choc,2023-08-24,8880,177
+Curtice Advani,India,85% Dark Bars,2023-01-18,298,399
+Kaine Padly,USA,Eclairs,2023-08-22,7800,10
+Gunar Cockshoot,UK,99% Dark & Pure,2023-03-07,8,85
+Beverie Moffet,UK,Choco Coated Almonds,2023-03-04,3212,66
+Dotty Strutley,Canada,Manuka Honey Choco,2023-04-22,12049,113
+Kaine Padly,Australia,Milk Bars,2023-06-09,4500,91
+Jan Morforth,Canada,Fruit & Nut Bars,2023-07-25,9984,207
+Jan Morforth,India,Smooth Sliky Salty,2023-08-03,11868,95
+Rafaelita Blaksland,Australia,Manuka Honey Choco,2023-08-03,4807,132
+Jehu Rudeforth,UK,Milk Bars,2023-05-03,13421,232
+Husein Augar,Canada,After Nines,2023-01-19,10408,301
+Roddy Speechley,USA,50% Dark Bites,2023-02-11,10849,330
+Van Tuxwell,India,Almond Choco,2023-06-14,7247,402
+Kelci Walkden,USA,50% Dark Bites,2023-03-23,6388,227
+Madelene Upcott,Canada,85% Dark Bars,2023-02-17,8373,108
+Dennison Crosswaite,Canada,Smooth Sliky Salty,2023-03-17,1887,488
+Mallorie Waber,Australia,Spicy Special Slims,2023-06-29,6054,287
+Ches Bonnell,Canada,Choco Coated Almonds,2023-08-24,16255,268
+Gigi Bohling,Canada,Spicy Special Slims,2023-07-04,13174,301
+Roddy Speechley,New Zealand,Almond Choco,2023-03-28,2721,72
+Curtice Advani,India,Smooth Sliky Salty,2023-04-19,19284,139
+Ches Bonnell,New Zealand,Mint Chip Choco,2023-01-18,9328,232
+Van Tuxwell,New Zealand,Fruit & Nut Bars,2023-01-17,3184,85
+Andria Kimpton,New Zealand,Mint Chip Choco,2023-02-15,9739,209
+Andria Kimpton,UK,Milk Bars,2023-02-11,16487,314
+Camilla Castle,USA,Manuka Honey Choco,2023-03-21,16792,184
+Gunar Cockshoot,New Zealand,Almond Choco,2023-01-05,5753,125
+Brien Boise,India,Raspberry Choco,2023-05-30,6833,157
+Jehu Rudeforth,USA,99% Dark & Pure,2023-01-04,2816,222
+Beverie Moffet,Australia,Fruit & Nut Bars,2023-04-22,1545,269
+Gigi Bohling,Canada,Milk Bars,2023-02-10,3433,120
+Dotty Strutley,India,Spicy Special Slims,2023-08-12,1002,217
+Gunar Cockshoot,USA,Organic Choco Syrup,2023-08-10,2494,315
+Kelci Walkden,Australia,Raspberry Choco,2023-06-07,770,61
+Jehu Rudeforth,India,Baker's Choco Chips,2023-06-06,2262,73
+Karlen McCaffrey,New Zealand,Baker's Choco Chips,2023-04-05,5668,204
+Wilone O'Kielt,USA,50% Dark Bites,2023-04-18,4739,125
+Andria Kimpton,India,50% Dark Bites,2023-01-31,13662,15
+Madelene Upcott,USA,Baker's Choco Chips,2023-08-22,6067,151
+Jehu Rudeforth,Australia,99% Dark & Pure,2023-02-25,11721,204
+Jan Morforth,Australia,Mint Chip Choco,2023-02-22,20000,106
+Oby Sorrel,New Zealand,Milk Bars,2023-01-12,4484,201
+Brien Boise,UK,Almond Choco,2023-05-25,107,129
+Kelci Walkden,India,Smooth Sliky Salty,2023-02-01,2526,8
+Rafaelita Blaksland,UK,Eclairs,2023-04-27,1578,67
+Gigi Bohling,USA,Smooth Sliky Salty,2023-07-22,2972,129
+Curtice Advani,New Zealand,Mint Chip Choco,2023-01-26,3692,284
+Curtice Advani,USA,Mint Chip Choco,2023-08-24,5189,293
+Madelene Upcott,New Zealand,Fruit & Nut Bars,2023-01-18,5767,21
+Karlen McCaffrey,India,85% Dark Bars,2023-03-30,1037,82
+Ches Bonnell,Australia,Caramel Stuffed Bars,2023-01-17,10034,163
+Kelci Walkden,USA,Fruit & Nut Bars,2023-02-17,5221,154
+Kelci Walkden,Canada,Peanut Butter Cubes,2023-04-08,8107,47
+Gigi Bohling,Canada,Drinking Coco,2023-07-06,3934,86
+Husein Augar,India,Fruit & Nut Bars,2023-04-04,4509,231
+Jan Morforth,New Zealand,Organic Choco Syrup,2023-03-02,1922,226
+Gigi Bohling,New Zealand,Raspberry Choco,2023-08-09,1161,181
+Dennison Crosswaite,Australia,Milk Bars,2023-06-09,11389,282
+Ches Bonnell,UK,Caramel Stuffed Bars,2023-06-02,3032,313
+Van Tuxwell,USA,Fruit & Nut Bars,2023-07-05,6872,238
+Andria Kimpton,Canada,Eclairs,2023-08-11,340,124
+Madelene Upcott,India,Choco Coated Almonds,2023-02-11,3720,141
+Kelci Walkden,New Zealand,Spicy Special Slims,2023-08-11,731,69
+Roddy Speechley,Australia,Drinking Coco,2023-05-12,13289,112
+Wilone O'Kielt,USA,Milk Bars,2023-07-15,5333,101
+Andria Kimpton,India,Organic Choco Syrup,2023-01-18,3972,131
+Madelene Upcott,UK,Fruit & Nut Bars,2023-01-05,9538,198
+Curtice Advani,Australia,50% Dark Bites,2023-06-29,548,221
+Brien Boise,Canada,Raspberry Choco,2023-06-14,2995,47
+Gunar Cockshoot,India,Mint Chip Choco,2023-08-08,4451,71
+Dennison Crosswaite,India,Mint Chip Choco,2023-03-23,14692,143
+Barr Faughny,India,Caramel Stuffed Bars,2023-01-04,7043,107
+Brien Boise,India,Milk Bars,2023-02-22,15583,248
+Beverie Moffet,UK,Spicy Special Slims,2023-02-17,9060,268
+Barr Faughny,USA,Almond Choco,2023-02-03,431,85
+Van Tuxwell,Canada,Raspberry Choco,2023-03-17,1264,137
+Wilone O'Kielt,Australia,Baker's Choco Chips,2023-01-25,2995,156
+Brien Boise,Australia,Milk Bars,2023-07-27,2118,56
+Husein Augar,Australia,Fruit & Nut Bars,2023-01-28,8082,54
+Madelene Upcott,Australia,Organic Choco Syrup,2023-07-05,11543,49
+Van Tuxwell,India,White Choc,2023-03-15,2184,46
+Gunar Cockshoot,Canada,After Nines,2023-08-04,3125,191
+Jan Morforth,USA,Fruit & Nut Bars,2023-06-27,4892,380
+Jan Morforth,Canada,After Nines,2023-07-13,4881,183
+Barr Faughny,New Zealand,Manuka Honey Choco,2023-02-24,5918,238
+Karlen McCaffrey,New Zealand,85% Dark Bars,2023-06-28,6313,60
+Oby Sorrel,Australia,85% Dark Bars,2023-06-30,7956,27
+Curtice Advani,Canada,Choco Coated Almonds,2023-08-18,5896,7
+Kaine Padly,India,70% Dark Bites,2023-01-24,13536,296
+Beverie Moffet,USA,White Choc,2023-03-11,5640,129
+Ches Bonnell,New Zealand,After Nines,2023-06-23,5813,356
+Husein Augar,India,Spicy Special Slims,2023-08-22,2515,32
+Gunar Cockshoot,Canada,50% Dark Bites,2023-01-04,3044,22
+Curtice Advani,India,Milk Bars,2023-04-05,3902,214
+Beverie Moffet,India,Milk Bars,2023-04-15,1929,354
+Husein Augar,Australia,White Choc,2023-05-11,3252,241
+Andria Kimpton,Canada,Manuka Honey Choco,2023-07-21,5032,495
+Jan Morforth,New Zealand,Orange Choco,2023-02-11,1350,89
+Andria Kimpton,Canada,Smooth Sliky Salty,2023-07-08,1188,75
+Gunar Cockshoot,UK,Raspberry Choco,2023-08-11,7055,334
+Husein Augar,New Zealand,After Nines,2023-08-04,7232,8
+Andria Kimpton,New Zealand,Orange Choco,2023-06-14,9296,93
+Dennison Crosswaite,UK,Baker's Choco Chips,2023-01-17,2277,296
+Jehu Rudeforth,Canada,Orange Choco,2023-06-23,4230,548
+Jehu Rudeforth,UK,Smooth Sliky Salty,2023-08-24,1641,119
+Andria Kimpton,UK,Caramel Stuffed Bars,2023-06-07,8235,294
+Jan Morforth,UK,White Choc,2023-06-22,10087,46
+Dotty Strutley,USA,Fruit & Nut Bars,2023-07-13,3169,281
+Kelci Walkden,UK,Choco Coated Almonds,2023-05-24,10355,215
+Gunar Cockshoot,New Zealand,After Nines,2023-08-09,7773,140
+Kaine Padly,Canada,85% Dark Bars,2023-04-06,1993,31
+Jan Morforth,New Zealand,Manuka Honey Choco,2023-07-28,1816,266
+Gunar Cockshoot,New Zealand,Raspberry Choco,2023-08-24,727,50
+Van Tuxwell,Australia,99% Dark & Pure,2023-01-17,115,132
+Curtice Advani,USA,Drinking Coco,2023-02-07,5378,142
+Brien Boise,Australia,Spicy Special Slims,2023-05-09,6708,269
+Mallorie Waber,New Zealand,85% Dark Bars,2023-06-06,8167,102
+Wilone O'Kielt,USA,Choco Coated Almonds,2023-06-06,9950,6
+Beverie Moffet,New Zealand,Organic Choco Syrup,2023-05-24,7229,215
+Gunar Cockshoot,UK,50% Dark Bites,2023-01-13,2260,128
+Marney O'Breen,USA,Raspberry Choco,2023-05-23,6207,149
+Jehu Rudeforth,UK,White Choc,2023-06-29,1890,286
+Jehu Rudeforth,New Zealand,85% Dark Bars,2023-03-11,7797,88
+Dotty Strutley,USA,85% Dark Bars,2023-04-25,11645,536
+Rafaelita Blaksland,Australia,Smooth Sliky Salty,2023-05-30,4207,255
+Curtice Advani,India,Manuka Honey Choco,2023-05-23,1684,169
+Mallorie Waber,USA,Peanut Butter Cubes,2023-05-23,1337,18
+Van Tuxwell,Canada,Peanut Butter Cubes,2023-06-24,7147,300
+Kelci Walkden,New Zealand,Smooth Sliky Salty,2023-03-11,12030,296
+Rafaelita Blaksland,USA,Smooth Sliky Salty,2023-07-27,15845,232
+Rafaelita Blaksland,USA,White Choc,2023-08-16,5026,133
+Roddy Speechley,Canada,Smooth Sliky Salty,2023-03-07,9902,12
+Curtice Advani,New Zealand,After Nines,2023-04-05,7944,33
+Camilla Castle,India,85% Dark Bars,2023-05-04,9524,55
+Ches Bonnell,USA,Choco Coated Almonds,2023-01-04,16241,93
+Marney O'Breen,Australia,Baker's Choco Chips,2023-01-13,5892,109
+Wilone O'Kielt,New Zealand,Fruit & Nut Bars,2023-07-11,6925,94
+Kaine Padly,Australia,Mint Chip Choco,2023-05-17,4553,158
+Camilla Castle,New Zealand,Peanut Butter Cubes,2023-07-21,1725,60
+Curtice Advani,Canada,Organic Choco Syrup,2023-02-22,897,21
+Jan Morforth,India,99% Dark & Pure,2023-05-23,10284,178
+Rafaelita Blaksland,Canada,Drinking Coco,2023-07-12,10416,200
+Jan Morforth,UK,Orange Choco,2023-06-15,4221,193
+Barr Faughny,New Zealand,50% Dark Bites,2023-06-23,4910,304
+Curtice Advani,Australia,Eclairs,2023-03-25,6550,53
+Jan Morforth,India,Caramel Stuffed Bars,2023-07-04,89,165
+Andria Kimpton,UK,White Choc,2023-05-12,9793,110
+Camilla Castle,New Zealand,Raspberry Choco,2023-04-04,4824,143
+Madelene Upcott,Australia,Orange Choco,2023-04-15,7557,404
+Roddy Speechley,Canada,Eclairs,2023-03-08,7082,95
+Karlen McCaffrey,India,White Choc,2023-01-17,8361,231
+Wilone O'Kielt,India,Mint Chip Choco,2023-08-22,1311,52
+Andria Kimpton,UK,99% Dark & Pure,2023-07-25,1288,67
+Marney O'Breen,UK,50% Dark Bites,2023-06-14,3288,133
+Ches Bonnell,India,Choco Coated Almonds,2023-04-05,10669,85
+Madelene Upcott,UK,Raspberry Choco,2023-08-26,7362,344
+Wilone O'Kielt,Australia,50% Dark Bites,2023-08-03,10336,123
+Gigi Bohling,Canada,White Choc,2023-07-11,6986,4
+Wilone O'Kielt,New Zealand,Eclairs,2023-03-11,3394,21
+Brien Boise,UK,Peanut Butter Cubes,2023-01-10,15337,31
+Roddy Speechley,UK,Baker's Choco Chips,2023-04-04,15925,378
+Karlen McCaffrey,Australia,50% Dark Bites,2023-01-17,7356,772
+Marney O'Breen,New Zealand,Organic Choco Syrup,2023-07-08,9489,54
+Jan Morforth,UK,Organic Choco Syrup,2023-04-12,1281,354
+Rafaelita Blaksland,Canada,Fruit & Nut Bars,2023-08-24,518,192
+Ches Bonnell,UK,Choco Coated Almonds,2023-06-07,1934,239
+Gunar Cockshoot,Canada,Almond Choco,2023-07-28,1309,30
+Husein Augar,USA,99% Dark & Pure,2023-02-21,9879,111
+Dennison Crosswaite,Canada,Mint Chip Choco,2023-04-08,1944,297
+Brien Boise,UK,Manuka Honey Choco,2023-06-28,81,103
+Van Tuxwell,UK,Baker's Choco Chips,2023-03-24,2678,20
+Barr Faughny,Australia,Caramel Stuffed Bars,2023-07-29,2931,60
+Dennison Crosswaite,USA,Eclairs,2023-05-25,2316,90
+Gigi Bohling,Australia,Raspberry Choco,2023-03-30,6722,330
+Dennison Crosswaite,USA,Organic Choco Syrup,2023-07-18,14529,134
+Beverie Moffet,Canada,Orange Choco,2023-05-10,9390,104
+Mallorie Waber,Australia,Choco Coated Almonds,2023-03-18,16230,94
+Ches Bonnell,India,Caramel Stuffed Bars,2023-06-15,7224,55
+Van Tuxwell,Canada,50% Dark Bites,2023-05-12,15568,57
+Kelci Walkden,New Zealand,Baker's Choco Chips,2023-06-23,2964,105
+Beverie Moffet,India,Spicy Special Slims,2023-04-21,3357,186
+Gigi Bohling,Australia,Almond Choco,2023-08-17,1010,127
+Rafaelita Blaksland,New Zealand,Eclairs,2023-02-07,20470,54
+Kelci Walkden,Canada,Smooth Sliky Salty,2023-03-17,8763,115
+Jan Morforth,India,Baker's Choco Chips,2023-08-01,14614,85
+Jehu Rudeforth,Australia,Milk Bars,2023-03-18,9839,31
+Gigi Bohling,Canada,Fruit & Nut Bars,2023-06-14,6633,103
+Beverie Moffet,UK,Eclairs,2023-04-22,9749,169
+Marney O'Breen,New Zealand,Eclairs,2023-01-18,5254,31
+Husein Augar,Australia,99% Dark & Pure,2023-08-26,3430,123
+Gunar Cockshoot,New Zealand,Fruit & Nut Bars,2023-06-10,10455,434
+Curtice Advani,Canada,70% Dark Bites,2023-01-31,2414,7
+Kelci Walkden,New Zealand,Manuka Honey Choco,2023-04-08,1445,108
+Dotty Strutley,Australia,Baker's Choco Chips,2023-06-07,4023,71
+Barr Faughny,Australia,85% Dark Bars,2023-02-10,8651,43
+Beverie Moffet,Australia,50% Dark Bites,2023-05-16,725,453
+Gunar Cockshoot,India,Baker's Choco Chips,2023-03-18,2385,540
+Van Tuxwell,Australia,50% Dark Bites,2023-07-13,726,131
+Oby Sorrel,USA,Manuka Honey Choco,2023-07-25,4742,83
+Van Tuxwell,Canada,Choco Coated Almonds,2023-08-19,2557,312
+Karlen McCaffrey,Canada,70% Dark Bites,2023-06-24,8377,646
+Kelci Walkden,Canada,Fruit & Nut Bars,2023-06-20,841,162
+Camilla Castle,India,99% Dark & Pure,2023-08-02,208,216
+Madelene Upcott,New Zealand,70% Dark Bites,2023-02-22,13370,94
+Mallorie Waber,New Zealand,Orange Choco,2023-02-01,6811,25
+Jan Morforth,Canada,70% Dark Bites,2023-02-14,6097,300
+Kelci Walkden,Australia,Milk Bars,2023-02-24,8685,120
+Dennison Crosswaite,India,Orange Choco,2023-03-18,873,140
+Husein Augar,UK,Eclairs,2023-08-30,1913,253
+Gigi Bohling,USA,Peanut Butter Cubes,2023-05-09,322,76
+Wilone O'Kielt,USA,Smooth Sliky Salty,2023-01-18,511,96
+Curtice Advani,India,White Choc,2023-07-04,7887,335
+Oby Sorrel,New Zealand,Spicy Special Slims,2023-06-03,1794,13
+Beverie Moffet,New Zealand,Peanut Butter Cubes,2023-02-23,12129,29
+Dotty Strutley,New Zealand,99% Dark & Pure,2023-05-09,11750,213
+Kelci Walkden,India,70% Dark Bites,2023-06-06,3967,101
+Kelci Walkden,India,Drinking Coco,2023-07-04,8105,255
+Brien Boise,New Zealand,Drinking Coco,2023-06-06,1614,106
+Dotty Strutley,Australia,Almond Choco,2023-05-13,1613,91
+Wilone O'Kielt,New Zealand,Organic Choco Syrup,2023-01-31,2156,281
+Ches Bonnell,New Zealand,Caramel Stuffed Bars,2023-06-30,8184,43
+Barr Faughny,Canada,Manuka Honey Choco,2023-08-25,3613,251
+Gigi Bohling,New Zealand,Smooth Sliky Salty,2023-01-10,801,101
+Brien Boise,USA,Manuka Honey Choco,2023-08-22,2069,8
+Roddy Speechley,New Zealand,85% Dark Bars,2023-04-14,5096,284
+Oby Sorrel,UK,Smooth Sliky Salty,2023-05-31,10574,338
+Oby Sorrel,UK,Raspberry Choco,2023-04-08,4611,322
+Roddy Speechley,USA,Drinking Coco,2023-02-21,3289,148
+Andria Kimpton,Australia,Manuka Honey Choco,2023-03-30,10883,394
+Mallorie Waber,India,Raspberry Choco,2023-03-02,1517,2
+Jehu Rudeforth,USA,Orange Choco,2023-07-28,391,184
+Kaine Padly,New Zealand,70% Dark Bites,2023-03-24,7969,38
+Curtice Advani,Australia,After Nines,2023-08-11,64,109
+Husein Augar,UK,Almond Choco,2023-05-17,8832,175
+Kaine Padly,Canada,Choco Coated Almonds,2023-05-18,3542,180
+Roddy Speechley,UK,Peanut Butter Cubes,2023-08-17,6052,173
+Ches Bonnell,New Zealand,Eclairs,2023-04-04,543,54
+Brien Boise,India,85% Dark Bars,2023-08-09,18895,201
+Brien Boise,New Zealand,Organic Choco Syrup,2023-01-17,689,331
+Andria Kimpton,Canada,White Choc,2023-02-14,4436,31
+Gigi Bohling,New Zealand,Orange Choco,2023-05-16,9111,324
+Ches Bonnell,Canada,Smooth Sliky Salty,2023-03-16,10370,129
+Husein Augar,Canada,70% Dark Bites,2023-01-31,5833,290
+Barr Faughny,Canada,Organic Choco Syrup,2023-03-10,1230,219
+Oby Sorrel,UK,Organic Choco Syrup,2023-06-30,8840,170
+Van Tuxwell,New Zealand,Eclairs,2023-03-01,5748,176
+Mallorie Waber,UK,Drinking Coco,2023-05-27,3666,107
+Oby Sorrel,UK,Milk Bars,2023-07-11,6854,220
+Karlen McCaffrey,New Zealand,Mint Chip Choco,2023-03-02,4361,59
+Jehu Rudeforth,USA,Raspberry Choco,2023-03-04,7686,141
+Kelci Walkden,UK,85% Dark Bars,2023-06-23,4188,235
+Kelci Walkden,USA,Almond Choco,2023-01-27,5425,234
+Marney O'Breen,Canada,Orange Choco,2023-01-14,2897,456
+Dennison Crosswaite,India,Fruit & Nut Bars,2023-07-29,1071,23
+Brien Boise,Canada,Smooth Sliky Salty,2023-05-13,6417,497
+Barr Faughny,Canada,Baker's Choco Chips,2023-02-03,10967,172
+Brien Boise,India,Smooth Sliky Salty,2023-05-27,6345,28
+Jan Morforth,Australia,Drinking Coco,2023-02-18,2825,25
+Brien Boise,India,Spicy Special Slims,2023-01-28,1464,34
+Van Tuxwell,UK,Eclairs,2023-06-29,5857,115
+Wilone O'Kielt,India,Caramel Stuffed Bars,2023-01-13,4304,282
+Jehu Rudeforth,UK,After Nines,2023-06-27,2048,169
+Barr Faughny,Canada,White Choc,2023-03-29,4692,1
+Gunar Cockshoot,India,Organic Choco Syrup,2023-06-03,7302,153
+Mallorie Waber,Canada,Smooth Sliky Salty,2023-03-21,2057,103
+Mallorie Waber,India,Eclairs,2023-04-12,11033,49
+Rafaelita Blaksland,Australia,Raspberry Choco,2023-01-19,7774,247
+Karlen McCaffrey,UK,50% Dark Bites,2023-04-06,3843,295
+Kaine Padly,Australia,50% Dark Bites,2023-08-02,9164,81
+Gigi Bohling,Australia,Eclairs,2023-04-12,7629,146
+Oby Sorrel,India,Drinking Coco,2023-07-21,18221,139
+Van Tuxwell,New Zealand,Baker's Choco Chips,2023-03-22,9829,24
+Husein Augar,India,Peanut Butter Cubes,2023-05-09,4727,5
+Andria Kimpton,Australia,Baker's Choco Chips,2023-08-09,345,118
+Madelene Upcott,Canada,Choco Coated Almonds,2023-07-20,3451,283
+Brien Boise,India,70% Dark Bites,2023-04-14,5071,439
+Jehu Rudeforth,Canada,White Choc,2023-01-25,4719,132
+Andria Kimpton,Australia,Almond Choco,2023-04-25,3431,174
+Dotty Strutley,Canada,After Nines,2023-01-17,268,239
+Karlen McCaffrey,USA,Eclairs,2023-08-15,991,133
+Karlen McCaffrey,Canada,Fruit & Nut Bars,2023-06-02,213,17
+Gunar Cockshoot,USA,85% Dark Bars,2023-06-30,7586,131
+Dotty Strutley,New Zealand,Raspberry Choco,2023-02-10,6192,99
+Marney O'Breen,Canada,Caramel Stuffed Bars,2023-02-23,1511,602
+Dennison Crosswaite,India,Organic Choco Syrup,2023-01-27,8693,209
+Camilla Castle,UK,Mint Chip Choco,2023-05-26,5510,307
+Brien Boise,USA,70% Dark Bites,2023-04-14,1863,22
+Madelene Upcott,Australia,99% Dark & Pure,2023-08-01,4823,159
+Mallorie Waber,Australia,Eclairs,2023-08-22,10857,229
+Marney O'Breen,India,99% Dark & Pure,2023-07-22,11252,159
+Husein Augar,USA,Fruit & Nut Bars,2023-04-28,1388,27
+Kelci Walkden,Australia,Almond Choco,2023-05-30,5509,341
+Ches Bonnell,USA,Milk Bars,2023-07-21,2444,155
+Jan Morforth,UK,Caramel Stuffed Bars,2023-08-02,3176,507
+Brien Boise,New Zealand,70% Dark Bites,2023-06-15,7900,143
+Oby Sorrel,India,85% Dark Bars,2023-07-05,9072,142
+Kaine Padly,New Zealand,Smooth Sliky Salty,2023-04-12,8,513
+Gigi Bohling,Australia,70% Dark Bites,2023-08-18,1549,104
+Jan Morforth,UK,50% Dark Bites,2023-01-12,5502,298
+Gunar Cockshoot,Canada,White Choc,2023-08-11,7685,15
+Jehu Rudeforth,Australia,Spicy Special Slims,2023-01-13,5148,402
+Husein Augar,UK,Baker's Choco Chips,2023-04-29,3070,143
+Rafaelita Blaksland,New Zealand,After Nines,2023-07-07,1128,88
+Madelene Upcott,New Zealand,Mint Chip Choco,2023-03-11,8503,4
+Madelene Upcott,UK,70% Dark Bites,2023-02-16,5961,241
+Barr Faughny,Australia,Organic Choco Syrup,2023-01-07,2478,33
+Beverie Moffet,New Zealand,Drinking Coco,2023-01-12,1270,497
+Beverie Moffet,India,Eclairs,2023-06-09,11131,144
+Andria Kimpton,India,Eclairs,2023-05-16,2455,83
+Gigi Bohling,UK,85% Dark Bars,2023-06-23,12765,100
+Roddy Speechley,UK,Raspberry Choco,2023-01-28,13351,198
+Dotty Strutley,UK,Mint Chip Choco,2023-07-14,2763,223
+Barr Faughny,Canada,Drinking Coco,2023-04-18,6523,245
+Oby Sorrel,USA,Milk Bars,2023-06-14,1868,82
+Oby Sorrel,UK,Orange Choco,2023-04-15,8432,251
+Curtice Advani,Canada,Peanut Butter Cubes,2023-05-19,5647,64
+Gigi Bohling,India,White Choc,2023-04-13,1485,180
+Husein Augar,Canada,Choco Coated Almonds,2023-08-15,3860,395
+Wilone O'Kielt,India,Choco Coated Almonds,2023-08-22,3237,227
+Wilone O'Kielt,New Zealand,Baker's Choco Chips,2023-04-22,4072,64
+Kaine Padly,UK,Choco Coated Almonds,2023-08-03,8055,118
+Dennison Crosswaite,New Zealand,Organic Choco Syrup,2023-01-04,420,224
+Kelci Walkden,Canada,After Nines,2023-01-13,17074,218
+Van Tuxwell,Australia,Baker's Choco Chips,2023-05-11,13624,33
+Husein Augar,New Zealand,Peanut Butter Cubes,2023-02-16,2318,235
+Kaine Padly,UK,Caramel Stuffed Bars,2023-05-20,10740,67
+Jehu Rudeforth,UK,Drinking Coco,2023-02-03,7625,422
+Beverie Moffet,India,Manuka Honey Choco,2023-05-06,10168,159
+Gunar Cockshoot,UK,Choco Coated Almonds,2023-06-30,6635,141
+Gunar Cockshoot,UK,Smooth Sliky Salty,2023-03-22,860,158
+Camilla Castle,Canada,Orange Choco,2023-02-17,8671,52
+Jehu Rudeforth,UK,85% Dark Bars,2023-07-07,5534,63
+Oby Sorrel,UK,70% Dark Bites,2023-03-16,6800,187
+Kelci Walkden,UK,99% Dark & Pure,2023-08-12,3928,123
+Gigi Bohling,New Zealand,After Nines,2023-01-21,5834,196
+Oby Sorrel,Australia,50% Dark Bites,2023-05-06,733,147
+Oby Sorrel,Canada,50% Dark Bites,2023-06-24,7165,140
+Barr Faughny,USA,White Choc,2023-05-05,7901,175
+Rafaelita Blaksland,New Zealand,99% Dark & Pure,2023-03-25,3551,85
+Curtice Advani,Australia,Caramel Stuffed Bars,2023-02-14,10282,136
+Curtice Advani,New Zealand,85% Dark Bars,2023-05-12,5937,180
+Barr Faughny,New Zealand,Smooth Sliky Salty,2023-01-25,4552,172
+Ches Bonnell,UK,85% Dark Bars,2023-06-28,15945,11
+Dennison Crosswaite,Australia,Drinking Coco,2023-07-13,7723,188
+Roddy Speechley,USA,Milk Bars,2023-05-16,3105,268
+Jan Morforth,India,After Nines,2023-03-14,6994,179
+Gunar Cockshoot,USA,After Nines,2023-08-15,4264,252
+Ches Bonnell,India,Orange Choco,2023-02-16,1215,271
+Mallorie Waber,UK,Manuka Honey Choco,2023-06-15,8519,45
+Barr Faughny,Australia,Raspberry Choco,2023-05-27,9811,105
+Wilone O'Kielt,USA,Drinking Coco,2023-06-14,1066,107
+Wilone O'Kielt,India,Eclairs,2023-02-25,3895,80
+Wilone O'Kielt,India,After Nines,2023-08-04,12194,252
+Kelci Walkden,India,99% Dark & Pure,2023-06-28,2455,236
+Gunar Cockshoot,Canada,Spicy Special Slims,2023-04-05,14888,12
+Madelene Upcott,Canada,Peanut Butter Cubes,2023-07-05,15276,121
+Kaine Padly,New Zealand,Eclairs,2023-01-20,13520,47
+Ches Bonnell,New Zealand,Drinking Coco,2023-02-16,9196,127
+Curtice Advani,UK,Drinking Coco,2023-07-12,461,182
+Kelci Walkden,India,Raspberry Choco,2023-06-16,8217,257
+Dotty Strutley,Australia,Choco Coated Almonds,2023-04-13,1864,277
+Kaine Padly,UK,50% Dark Bites,2023-02-21,3283,72
+Roddy Speechley,Canada,Choco Coated Almonds,2023-05-11,5967,247
+Ches Bonnell,India,50% Dark Bites,2023-04-15,12084,334
+Oby Sorrel,Canada,Peanut Butter Cubes,2023-06-07,12397,179
+Oby Sorrel,UK,White Choc,2023-06-27,1746,280
+Barr Faughny,India,After Nines,2023-07-29,9022,104
+Wilone O'Kielt,Canada,Smooth Sliky Salty,2023-06-02,5263,165
+Rafaelita Blaksland,India,Mint Chip Choco,2023-01-26,15473,91
+Rafaelita Blaksland,Canada,99% Dark & Pure,2023-03-02,5567,140
+Van Tuxwell,Australia,70% Dark Bites,2023-01-10,8111,111
+Beverie Moffet,USA,70% Dark Bites,2023-06-27,2342,117
+Barr Faughny,Canada,Orange Choco,2023-06-30,8650,19
+Roddy Speechley,Australia,85% Dark Bars,2023-07-08,4445,77
+Oby Sorrel,India,Spicy Special Slims,2023-06-08,12531,86
+Jan Morforth,UK,Manuka Honey Choco,2023-08-18,3559,231
+Kaine Padly,Australia,After Nines,2023-04-08,7890,300
+Wilone O'Kielt,Canada,Fruit & Nut Bars,2023-08-08,3589,176
+Wilone O'Kielt,UK,Milk Bars,2023-08-26,305,62
+Oby Sorrel,Canada,Fruit & Nut Bars,2023-01-14,1897,161
+Dennison Crosswaite,USA,Baker's Choco Chips,2023-08-11,18495,298
+Madelene Upcott,USA,Almond Choco,2023-05-31,11103,24
+Van Tuxwell,New Zealand,50% Dark Bites,2023-07-11,4162,11
+Karlen McCaffrey,Canada,Caramel Stuffed Bars,2023-03-02,3357,308
+Madelene Upcott,Australia,Raspberry Choco,2023-07-13,7034,94
+Rafaelita Blaksland,UK,Spicy Special Slims,2023-08-03,9897,143
+Curtice Advani,UK,Peanut Butter Cubes,2023-03-01,15653,175
+Kelci Walkden,New Zealand,White Choc,2023-04-13,7899,148
+Beverie Moffet,Canada,Fruit & Nut Bars,2023-02-14,10645,172
+Mallorie Waber,India,White Choc,2023-07-26,873,224
+Brien Boise,UK,Drinking Coco,2023-01-27,6338,128
+Jehu Rudeforth,India,Peanut Butter Cubes,2023-04-14,31,451
+Oby Sorrel,USA,Almond Choco,2023-05-19,7108,142
+Husein Augar,India,Eclairs,2023-02-09,5466,56
+Brien Boise,UK,Spicy Special Slims,2023-05-25,2462,60
+Oby Sorrel,Australia,Manuka Honey Choco,2023-01-26,4194,80
+Beverie Moffet,India,White Choc,2023-07-04,1994,299
+Ches Bonnell,India,Almond Choco,2023-04-13,12124,80
+Gigi Bohling,Australia,Smooth Sliky Salty,2023-01-25,5884,117
+Camilla Castle,USA,85% Dark Bars,2023-04-25,2639,80
+Camilla Castle,USA,Eclairs,2023-06-10,5031,401
+Madelene Upcott,New Zealand,White Choc,2023-08-22,11511,56
+Van Tuxwell,India,After Nines,2023-06-27,15022,211
+Husein Augar,India,Orange Choco,2023-06-30,4517,40
+Jehu Rudeforth,India,Almond Choco,2023-08-30,10779,99
+Karlen McCaffrey,Australia,Raspberry Choco,2023-08-23,1146,60
+Camilla Castle,New Zealand,99% Dark & Pure,2023-08-26,2519,45
+Gigi Bohling,Australia,Orange Choco,2023-03-09,597,158
+Kelci Walkden,UK,Drinking Coco,2023-04-20,1859,24
+Mallorie Waber,Canada,Caramel Stuffed Bars,2023-06-10,5194,547
+Husein Augar,Australia,Organic Choco Syrup,2023-02-08,961,155
+Brien Boise,Australia,White Choc,2023-08-25,5347,23
+Dotty Strutley,India,Peanut Butter Cubes,2023-02-16,9805,76
+Dennison Crosswaite,UK,99% Dark & Pure,2023-05-30,13205,26
+Gigi Bohling,New Zealand,50% Dark Bites,2023-06-29,5929,65
+Gigi Bohling,USA,Milk Bars,2023-06-16,517,141
+Brien Boise,UK,Caramel Stuffed Bars,2023-03-04,2883,145
+Curtice Advani,New Zealand,Peanut Butter Cubes,2023-03-15,1638,454
+Curtice Advani,New Zealand,50% Dark Bites,2023-01-27,10791,88
+Beverie Moffet,Canada,Drinking Coco,2023-07-05,1093,115
+Barr Faughny,USA,Caramel Stuffed Bars,2023-03-29,3408,316
+Mallorie Waber,Canada,Almond Choco,2023-05-12,4754,37
+Oby Sorrel,USA,Drinking Coco,2023-03-11,8281,47
+Brien Boise,New Zealand,Eclairs,2023-07-11,4982,299
+Gunar Cockshoot,New Zealand,Choco Coated Almonds,2023-08-01,13998,60
+Gunar Cockshoot,UK,Spicy Special Slims,2023-02-16,13106,199
+Curtice Advani,USA,After Nines,2023-04-13,15729,256
+Oby Sorrel,India,Choco Coated Almonds,2023-02-14,54,399
+Ches Bonnell,Australia,Peanut Butter Cubes,2023-03-14,10857,73
+Oby Sorrel,Australia,Spicy Special Slims,2023-04-26,12413,25
+Jehu Rudeforth,Canada,Manuka Honey Choco,2023-04-05,3669,209
+Camilla Castle,Canada,Drinking Coco,2023-03-03,13555,279
+Kaine Padly,USA,Spicy Special Slims,2023-06-13,2334,171
+Marney O'Breen,New Zealand,70% Dark Bites,2023-02-14,8973,360
+Roddy Speechley,New Zealand,99% Dark & Pure,2023-04-18,8610,188
+Oby Sorrel,New Zealand,85% Dark Bars,2023-02-01,3432,452
+Dotty Strutley,New Zealand,Orange Choco,2023-08-04,2283,155
+Andria Kimpton,New Zealand,Almond Choco,2023-04-05,7190,165
+Karlen McCaffrey,Australia,99% Dark & Pure,2023-01-26,11303,166
+Kaine Padly,UK,After Nines,2023-01-21,18911,171
+Kaine Padly,Canada,After Nines,2023-08-22,6233,178
+Kaine Padly,UK,Drinking Coco,2023-01-27,2335,233
+Rafaelita Blaksland,UK,50% Dark Bites,2023-02-16,11100,73
+Dotty Strutley,USA,Raspberry Choco,2023-01-03,3591,47
+Karlen McCaffrey,USA,White Choc,2023-08-24,5209,2
+Oby Sorrel,USA,Spicy Special Slims,2023-02-07,6315,398
+Mallorie Waber,Australia,Smooth Sliky Salty,2023-02-11,4455,117
+Kaine Padly,Canada,Organic Choco Syrup,2023-03-29,6079,78
+Marney O'Breen,USA,Peanut Butter Cubes,2023-06-15,696,363
+Dennison Crosswaite,UK,Smooth Sliky Salty,2023-04-26,564,151
+Brien Boise,Australia,Organic Choco Syrup,2023-07-15,4480,261
+Beverie Moffet,India,Organic Choco Syrup,2023-06-23,1094,22
+Dennison Crosswaite,Australia,Baker's Choco Chips,2023-01-11,15870,449
+Beverie Moffet,UK,50% Dark Bites,2023-02-09,2530,297
+Van Tuxwell,UK,Almond Choco,2023-06-06,11258,217
+Dotty Strutley,UK,Caramel Stuffed Bars,2023-08-10,6180,230
+Wilone O'Kielt,Australia,Smooth Sliky Salty,2023-01-04,2496,45
+Andria Kimpton,Canada,70% Dark Bites,2023-04-08,10964,16
+Barr Faughny,UK,Milk Bars,2023-03-02,4013,409
+Van Tuxwell,Canada,Drinking Coco,2023-06-15,4919,746
+Jehu Rudeforth,Australia,After Nines,2023-02-14,5602,51
+Husein Augar,UK,After Nines,2023-07-05,3564,372
+Barr Faughny,India,Mint Chip Choco,2023-01-12,8313,493
+Curtice Advani,India,Mint Chip Choco,2023-03-03,8447,96
+Jehu Rudeforth,New Zealand,Milk Bars,2023-05-18,2646,198
+Gunar Cockshoot,India,Caramel Stuffed Bars,2023-07-28,2707,198
+Curtice Advani,UK,Manuka Honey Choco,2023-02-07,1710,108
+Andria Kimpton,India,Orange Choco,2023-05-30,318,417
+Mallorie Waber,Australia,Raspberry Choco,2023-04-25,9480,26
+Beverie Moffet,Canada,85% Dark Bars,2023-02-16,6393,44
+Kelci Walkden,Australia,Drinking Coco,2023-05-04,1356,60
+Van Tuxwell,Canada,70% Dark Bites,2023-06-02,7911,74
+Dennison Crosswaite,USA,Caramel Stuffed Bars,2023-07-11,2583,501
+Beverie Moffet,New Zealand,Spicy Special Slims,2023-06-07,66,65
+Jan Morforth,UK,Almond Choco,2023-07-06,10669,150
+Husein Augar,India,Raspberry Choco,2023-06-15,10994,152
+Dotty Strutley,India,Mint Chip Choco,2023-04-14,1260,227
+Camilla Castle,India,Drinking Coco,2023-08-08,492,164
+Marney O'Breen,UK,Drinking Coco,2023-03-29,1017,28
+Roddy Speechley,Australia,Organic Choco Syrup,2023-07-04,4111,81
+Ches Bonnell,India,99% Dark & Pure,2023-02-16,504,105
+Rafaelita Blaksland,Canada,Spicy Special Slims,2023-05-02,2884,163
+Van Tuxwell,India,Eclairs,2023-07-21,11862,105
+Gunar Cockshoot,Australia,99% Dark & Pure,2023-08-18,8565,237
+Kaine Padly,USA,85% Dark Bars,2023-06-22,538,271
+Camilla Castle,UK,Peanut Butter Cubes,2023-07-19,5232,125
+Madelene Upcott,UK,Peanut Butter Cubes,2023-08-12,7916,84
+Madelene Upcott,USA,Choco Coated Almonds,2023-06-07,6016,143
+Marney O'Breen,Canada,Peanut Butter Cubes,2023-03-08,7505,97
+Ches Bonnell,Australia,Choco Coated Almonds,2023-04-08,1591,182
+Curtice Advani,Canada,Eclairs,2023-05-06,740,205
+Roddy Speechley,India,Drinking Coco,2023-05-31,4591,11
+Van Tuxwell,Australia,Mint Chip Choco,2023-01-13,2687,324
+Dennison Crosswaite,USA,70% Dark Bites,2023-03-15,735,77
+Andria Kimpton,Canada,Peanut Butter Cubes,2023-02-16,1161,311
+Gigi Bohling,USA,70% Dark Bites,2023-01-14,8078,189
+Rafaelita Blaksland,Australia,White Choc,2023-03-21,7468,111
+Roddy Speechley,Canada,Drinking Coco,2023-05-17,7588,342
+Camilla Castle,New Zealand,85% Dark Bars,2023-08-08,15373,57
+Madelene Upcott,Canada,Milk Bars,2023-04-26,3908,86
+Madelene Upcott,Australia,70% Dark Bites,2023-04-15,3741,255
+Oby Sorrel,Canada,Eclairs,2023-05-19,6212,561
+Dennison Crosswaite,Canada,Drinking Coco,2023-01-10,2924,25
+Mallorie Waber,New Zealand,After Nines,2023-05-04,502,241
+Roddy Speechley,Canada,White Choc,2023-04-05,6594,270
+Andria Kimpton,India,After Nines,2023-01-17,961,71
+Roddy Speechley,India,Spicy Special Slims,2023-03-22,11370,170
+Dotty Strutley,Australia,White Choc,2023-07-05,6068,94
+Oby Sorrel,Canada,Orange Choco,2023-04-27,8910,355
+Kaine Padly,Canada,Almond Choco,2023-08-12,6865,75
+Jan Morforth,UK,Baker's Choco Chips,2023-03-11,805,259
+Jehu Rudeforth,UK,Fruit & Nut Bars,2023-05-13,9852,221
+Dennison Crosswaite,USA,Smooth Sliky Salty,2023-05-12,11823,90
+Brien Boise,USA,Raspberry Choco,2023-01-12,684,202
+Madelene Upcott,New Zealand,Milk Bars,2023-03-29,14002,388
+Roddy Speechley,India,50% Dark Bites,2023-03-14,8745,12
+Barr Faughny,New Zealand,99% Dark & Pure,2023-05-24,9294,201
+Dennison Crosswaite,Canada,Organic Choco Syrup,2023-01-28,8832,79
+Beverie Moffet,India,Almond Choco,2023-05-24,3475,104
+Brien Boise,Australia,Peanut Butter Cubes,2023-08-19,312,204
+Karlen McCaffrey,Australia,Spicy Special Slims,2023-05-17,4791,335
+Jehu Rudeforth,USA,White Choc,2023-06-07,6646,117
+Ches Bonnell,Canada,Organic Choco Syrup,2023-07-26,594,229
+Dotty Strutley,India,Eclairs,2023-07-28,2346,406
+Karlen McCaffrey,India,70% Dark Bites,2023-05-23,5083,368
+Jehu Rudeforth,UK,Mint Chip Choco,2024-01-04,6340,187
+Van Tuxwell,India,85% Dark Bars,2024-08-01,9006,90
+Gigi Bohling,India,Peanut Butter Cubes,2024-07-07,5159,87
+Jan Morforth,Australia,Peanut Butter Cubes,2024-04-27,13371,349
+Jehu Rudeforth,UK,Peanut Butter Cubes,2024-02-24,14792,182
+Van Tuxwell,India,Smooth Sliky Salty,2024-06-06,6429,40
+Oby Sorrel,UK,99% Dark & Pure,2024-01-25,15901,188
+Gunar Cockshoot,Australia,After Nines,2024-03-24,3400,77
+Jehu Rudeforth,New Zealand,50% Dark Bites,2024-04-20,4358,63
+Brien Boise,Australia,99% Dark & Pure,2024-07-04,3356,111
+Rafaelita Blaksland,UK,Smooth Sliky Salty,2024-01-13,5288,67
+Barr Faughny,USA,Orange Choco,2024-03-10,4244,11
+Mallorie Waber,Canada,Eclairs,2024-01-13,1672,277
+Karlen McCaffrey,New Zealand,Drinking Coco,2024-07-28,182,167
+Marney O'Breen,New Zealand,Peanut Butter Cubes,2024-08-03,8951,189
+Beverie Moffet,Australia,Organic Choco Syrup,2024-01-26,7272,385
+Van Tuxwell,Canada,Organic Choco Syrup,2024-02-14,4865,42
+Roddy Speechley,USA,Smooth Sliky Salty,2024-04-05,3175,149
+Beverie Moffet,Canada,Milk Bars,2024-02-16,10138,250
+Curtice Advani,UK,85% Dark Bars,2024-06-08,1207,174
+Brien Boise,Australia,Eclairs,2024-06-27,8223,92
+Gunar Cockshoot,USA,Spicy Special Slims,2024-02-17,1441,152
+Marney O'Breen,USA,After Nines,2024-05-30,5612,159
+Husein Augar,UK,Drinking Coco,2024-03-14,3562,111
+Kaine Padly,Australia,Eclairs,2024-02-28,8385,122
+Karlen McCaffrey,India,Fruit & Nut Bars,2024-01-26,181,330
+Roddy Speechley,Canada,Spicy Special Slims,2024-02-09,1800,191
+Husein Augar,USA,Eclairs,2024-07-07,4449,113
+Dennison Crosswaite,New Zealand,White Choc,2024-07-05,10113,155
+Dennison Crosswaite,New Zealand,Manuka Honey Choco,2024-06-15,5933,303
+Van Tuxwell,New Zealand,85% Dark Bars,2024-05-24,2007,124
+Rafaelita Blaksland,UK,99% Dark & Pure,2024-06-29,14087,157
+Wilone O'Kielt,Australia,Manuka Honey Choco,2024-05-11,4800,90
+Karlen McCaffrey,UK,Almond Choco,2024-06-30,8102,138
+Andria Kimpton,Canada,After Nines,2024-05-11,2322,71
+Roddy Speechley,USA,Manuka Honey Choco,2024-07-22,10245,329
+Andria Kimpton,UK,50% Dark Bites,2024-08-24,2930,344
+Kelci Walkden,New Zealand,After Nines,2024-07-07,170,75
+Camilla Castle,Australia,85% Dark Bars,2024-05-19,4247,14
+Karlen McCaffrey,India,Manuka Honey Choco,2024-07-04,2696,605
+Kelci Walkden,USA,After Nines,2024-06-02,1084,16
+Karlen McCaffrey,USA,Raspberry Choco,2024-04-15,17037,347
+Mallorie Waber,Canada,Choco Coated Almonds,2024-07-11,5706,247
+Andria Kimpton,India,Spicy Special Slims,2024-02-23,6682,139
+Madelene Upcott,Canada,Almond Choco,2024-08-22,8193,100
+Kaine Padly,USA,Peanut Butter Cubes,2024-02-16,7568,206
+Van Tuxwell,USA,50% Dark Bites,2024-01-13,10772,156
+Curtice Advani,Australia,Milk Bars,2024-02-14,7467,18
+Roddy Speechley,India,Eclairs,2024-06-10,4986,311
+Curtice Advani,India,Fruit & Nut Bars,2024-07-07,5694,177
+Curtice Advani,Canada,Almond Choco,2024-03-24,5879,75
+Brien Boise,Australia,Fruit & Nut Bars,2024-06-06,9772,22
+Dotty Strutley,Australia,Drinking Coco,2024-07-19,105,140
+Beverie Moffet,USA,Raspberry Choco,2024-04-19,16415,80
+Marney O'Breen,India,85% Dark Bars,2024-07-19,2553,183
+Jehu Rudeforth,Canada,Drinking Coco,2024-07-15,474,25
+Ches Bonnell,New Zealand,Spicy Special Slims,2024-02-14,3874,19
+Brien Boise,Canada,99% Dark & Pure,2024-05-18,17718,430
+Barr Faughny,Australia,Fruit & Nut Bars,2024-06-30,16572,57
+Andria Kimpton,Australia,50% Dark Bites,2024-06-02,5220,216
+Andria Kimpton,Australia,Drinking Coco,2024-06-28,1797,49
+Marney O'Breen,Australia,Organic Choco Syrup,2024-05-16,296,182
+Kelci Walkden,Canada,Baker's Choco Chips,2024-05-26,3597,288
+Karlen McCaffrey,India,Almond Choco,2024-07-06,6580,147
+Oby Sorrel,India,99% Dark & Pure,2024-05-27,12233,11
+Wilone O'Kielt,Australia,Caramel Stuffed Bars,2024-04-14,2243,11
+Van Tuxwell,Australia,Organic Choco Syrup,2024-08-10,22943,14
+Camilla Castle,India,50% Dark Bites,2024-07-04,10591,430
+Oby Sorrel,India,Organic Choco Syrup,2024-07-08,6469,59
+Jan Morforth,USA,Peanut Butter Cubes,2024-07-22,10464,109
+Gigi Bohling,USA,Choco Coated Almonds,2024-03-02,14154,105
+Gigi Bohling,UK,Almond Choco,2024-01-10,6031,9
+Jehu Rudeforth,New Zealand,White Choc,2024-03-11,3308,258
+Andria Kimpton,New Zealand,Peanut Butter Cubes,2024-06-20,1120,283
+Van Tuxwell,UK,Organic Choco Syrup,2024-08-26,2303,222
+Roddy Speechley,Canada,Milk Bars,2024-07-13,723,33
+Camilla Castle,USA,Spicy Special Slims,2024-02-11,1414,261
+Marney O'Breen,USA,Orange Choco,2024-01-27,9002,193
+Van Tuxwell,UK,99% Dark & Pure,2024-01-31,5284,136
+Camilla Castle,USA,White Choc,2024-08-18,10959,23
+Andria Kimpton,USA,Raspberry Choco,2024-06-30,15532,22
+Dotty Strutley,Australia,Fruit & Nut Bars,2024-08-23,317,337
+Brien Boise,New Zealand,Mint Chip Choco,2024-08-01,71,188
+Roddy Speechley,New Zealand,After Nines,2024-05-25,9317,11
+Roddy Speechley,Canada,Organic Choco Syrup,2024-01-10,4791,86
+Dennison Crosswaite,Australia,70% Dark Bites,2024-02-07,6167,114
+Karlen McCaffrey,USA,Orange Choco,2024-05-12,11741,433
+Madelene Upcott,Australia,Spicy Special Slims,2024-03-07,8520,443
+Dennison Crosswaite,Australia,85% Dark Bars,2024-04-05,8279,453
+Andria Kimpton,Canada,Caramel Stuffed Bars,2024-01-03,7561,336
+Dennison Crosswaite,UK,Eclairs,2024-03-24,6702,285
+Madelene Upcott,India,Raspberry Choco,2024-07-07,4759,10
+Van Tuxwell,USA,After Nines,2024-07-26,709,263
+Wilone O'Kielt,Australia,Organic Choco Syrup,2024-07-07,2003,110
+Karlen McCaffrey,Canada,50% Dark Bites,2024-07-15,3248,64
+Roddy Speechley,New Zealand,Orange Choco,2024-04-01,52,95
+Beverie Moffet,Australia,Eclairs,2024-06-20,2135,6
+Kelci Walkden,UK,Fruit & Nut Bars,2024-06-29,15540,520
+Marney O'Breen,USA,50% Dark Bites,2024-06-15,1118,114
+Husein Augar,USA,After Nines,2024-04-08,13999,179
+Dennison Crosswaite,Australia,Raspberry Choco,2024-03-14,6266,31
+Andria Kimpton,USA,Fruit & Nut Bars,2024-07-15,1537,386
+Kelci Walkden,India,Eclairs,2024-04-19,6070,80
+Marney O'Breen,USA,99% Dark & Pure,2024-03-28,4861,286
+Brien Boise,Canada,Spicy Special Slims,2024-03-04,8993,97
+Karlen McCaffrey,New Zealand,70% Dark Bites,2024-08-02,150,40
+Husein Augar,UK,Spicy Special Slims,2024-08-25,5594,41
+Marney O'Breen,USA,Almond Choco,2024-02-25,9377,167
+Kelci Walkden,India,Orange Choco,2024-06-07,11315,134
+Jan Morforth,India,Spicy Special Slims,2024-04-12,2048,506
+Ches Bonnell,India,Spicy Special Slims,2024-07-06,12563,101
+Kelci Walkden,UK,Smooth Sliky Salty,2024-01-19,6884,182
+Madelene Upcott,Australia,Fruit & Nut Bars,2024-01-05,6106,90
+Madelene Upcott,Canada,70% Dark Bites,2024-01-24,12635,145
+Wilone O'Kielt,Australia,Drinking Coco,2024-04-06,664,285
+Gunar Cockshoot,Australia,Fruit & Nut Bars,2024-06-15,7045,21
+Gigi Bohling,Canada,Baker's Choco Chips,2024-01-28,1805,47
+Kelci Walkden,India,Caramel Stuffed Bars,2024-03-16,513,131
+Rafaelita Blaksland,Australia,Drinking Coco,2024-02-21,13700,389
+Kelci Walkden,USA,Manuka Honey Choco,2024-02-16,19996,94
+Jehu Rudeforth,Canada,Spicy Special Slims,2024-01-13,2190,29
+Kelci Walkden,Australia,Eclairs,2024-03-23,8727,523
+Curtice Advani,Canada,Spicy Special Slims,2024-06-16,911,126
+Oby Sorrel,India,Raspberry Choco,2024-04-14,7621,46
+Kelci Walkden,UK,Eclairs,2024-01-25,5055,60
+Jan Morforth,India,Almond Choco,2024-03-11,5231,23
+Dotty Strutley,UK,Almond Choco,2024-07-28,17104,103
+Marney O'Breen,New Zealand,After Nines,2024-03-09,1642,43
+Husein Augar,Australia,Orange Choco,2024-06-28,10322,182
+Marney O'Breen,Australia,Milk Bars,2024-07-28,2716,423
+Kelci Walkden,Canada,99% Dark & Pure,2024-08-15,5598,51
+Kaine Padly,Australia,Manuka Honey Choco,2024-01-12,2997,280
+Beverie Moffet,New Zealand,White Choc,2024-03-24,7946,7
+Van Tuxwell,UK,Milk Bars,2024-07-25,4991,92
+Oby Sorrel,Canada,99% Dark & Pure,2024-08-01,4152,424
+Van Tuxwell,India,Organic Choco Syrup,2024-05-16,22702,168
+Roddy Speechley,India,Smooth Sliky Salty,2024-08-10,6014,141
+Jan Morforth,India,Eclairs,2024-01-05,2789,27
+Ches Bonnell,UK,Smooth Sliky Salty,2024-07-11,6504,116
+Wilone O'Kielt,USA,After Nines,2024-04-25,434,31
+Gigi Bohling,New Zealand,Fruit & Nut Bars,2024-04-04,12314,129
+Barr Faughny,USA,Raspberry Choco,2024-04-12,9877,106
+Wilone O'Kielt,New Zealand,85% Dark Bars,2024-08-02,2043,121
+Gigi Bohling,New Zealand,Manuka Honey Choco,2024-06-28,8729,272
+Ches Bonnell,Australia,Eclairs,2024-07-05,4907,128
+Rafaelita Blaksland,New Zealand,Choco Coated Almonds,2024-06-07,2278,49
+Brien Boise,New Zealand,Smooth Sliky Salty,2024-01-18,1108,27
+Brien Boise,Australia,Baker's Choco Chips,2024-01-04,14958,206
+Dennison Crosswaite,Australia,99% Dark & Pure,2024-01-31,3021,19
+Kelci Walkden,India,Almond Choco,2024-03-14,3677,152
+Camilla Castle,Australia,70% Dark Bites,2024-04-29,7000,500
+Oby Sorrel,India,Smooth Sliky Salty,2024-02-07,10902,116
+Kaine Padly,UK,Organic Choco Syrup,2024-03-31,2587,172
+Marney O'Breen,India,Caramel Stuffed Bars,2024-03-16,5078,81
+Karlen McCaffrey,UK,Eclairs,2024-01-25,8360,203
+Van Tuxwell,India,Baker's Choco Chips,2024-06-20,3567,426
+Gigi Bohling,UK,After Nines,2024-03-29,9187,173
+Curtice Advani,Australia,Orange Choco,2024-07-12,917,140
+Jehu Rudeforth,Canada,Smooth Sliky Salty,2024-07-11,6199,132
+Karlen McCaffrey,Canada,Smooth Sliky Salty,2024-01-19,3369,180
+Andria Kimpton,USA,85% Dark Bars,2024-04-05,10527,82
+Jehu Rudeforth,Canada,Milk Bars,2024-02-21,7928,12
+Rafaelita Blaksland,New Zealand,Caramel Stuffed Bars,2024-05-20,14494,15
+Mallorie Waber,Australia,Milk Bars,2024-07-29,3112,107
+Barr Faughny,USA,Fruit & Nut Bars,2024-01-28,9618,44
+Marney O'Breen,UK,Caramel Stuffed Bars,2024-07-19,4198,107
+Mallorie Waber,New Zealand,Manuka Honey Choco,2024-04-13,10927,11
+Roddy Speechley,India,Peanut Butter Cubes,2024-02-11,10759,20
+Roddy Speechley,New Zealand,Milk Bars,2024-03-02,6250,111
+Ches Bonnell,Australia,White Choc,2024-03-02,1104,195
+Van Tuxwell,USA,99% Dark & Pure,2024-07-28,13436,6
+Kelci Walkden,India,After Nines,2024-01-07,1855,563
+Brien Boise,UK,White Choc,2024-04-12,5799,169
+Van Tuxwell,Canada,Almond Choco,2024-06-27,3632,71
+Jehu Rudeforth,Australia,50% Dark Bites,2024-01-14,5461,456
+Karlen McCaffrey,UK,Baker's Choco Chips,2024-02-07,5316,389
+Jehu Rudeforth,Australia,Orange Choco,2024-03-23,16060,28
+Marney O'Breen,India,Peanut Butter Cubes,2024-01-10,7804,157
+Oby Sorrel,UK,Choco Coated Almonds,2024-03-17,10751,44
+Gigi Bohling,USA,Spicy Special Slims,2024-01-21,12157,54
+Barr Faughny,Australia,White Choc,2024-07-04,9402,401
+Kaine Padly,Canada,Peanut Butter Cubes,2024-07-04,3653,185
+Dotty Strutley,USA,Manuka Honey Choco,2024-08-10,320,201
+Dennison Crosswaite,Australia,50% Dark Bites,2024-04-01,7619,12
+Gigi Bohling,India,Raspberry Choco,2024-02-22,2844,158
+Camilla Castle,UK,White Choc,2024-01-03,11946,192
+Karlen McCaffrey,India,Drinking Coco,2024-05-31,5055,241
+Dotty Strutley,UK,99% Dark & Pure,2024-01-03,10378,301
+Husein Augar,New Zealand,Caramel Stuffed Bars,2024-01-27,595,461
+Barr Faughny,UK,50% Dark Bites,2024-01-28,640,71
+Curtice Advani,Australia,Organic Choco Syrup,2024-06-28,3717,322
+Husein Augar,UK,Choco Coated Almonds,2024-03-02,5057,41
+Wilone O'Kielt,Australia,After Nines,2024-05-27,3730,27
+Dennison Crosswaite,USA,Almond Choco,2024-06-30,13787,85
+Barr Faughny,Canada,Peanut Butter Cubes,2024-06-07,2206,79
+Kaine Padly,USA,70% Dark Bites,2024-05-12,4672,103
+Barr Faughny,New Zealand,Raspberry Choco,2024-07-29,7668,69
+Dennison Crosswaite,UK,White Choc,2024-08-03,8339,270
+Barr Faughny,India,Baker's Choco Chips,2024-08-18,7549,153
+Van Tuxwell,New Zealand,Smooth Sliky Salty,2024-06-14,3609,46
+Beverie Moffet,UK,White Choc,2024-06-30,7109,80
+Camilla Castle,New Zealand,Mint Chip Choco,2024-06-13,1293,201
+Ches Bonnell,UK,Orange Choco,2024-04-27,15366,57
+Jan Morforth,Australia,White Choc,2024-07-27,3766,33
+Mallorie Waber,Canada,85% Dark Bars,2024-04-20,1665,465
+Rafaelita Blaksland,India,Spicy Special Slims,2024-01-04,8973,134
+Ches Bonnell,Australia,Mint Chip Choco,2024-02-21,10577,96
+Karlen McCaffrey,Australia,White Choc,2024-01-05,8857,50
+Beverie Moffet,India,Drinking Coco,2024-07-15,6756,45
+Brien Boise,Australia,Choco Coated Almonds,2024-05-25,5533,63
+Karlen McCaffrey,Canada,Eclairs,2024-04-20,3714,352
+Gigi Bohling,USA,99% Dark & Pure,2024-06-02,907,246
+Marney O'Breen,UK,Smooth Sliky Salty,2024-05-13,22559,84
+Beverie Moffet,New Zealand,Baker's Choco Chips,2024-08-03,1517,147
+Beverie Moffet,Australia,Milk Bars,2024-05-25,770,389
+Van Tuxwell,UK,Raspberry Choco,2024-03-16,7623,80
+Jan Morforth,Australia,Orange Choco,2024-07-04,3418,117
+Jehu Rudeforth,India,50% Dark Bites,2024-07-05,4056,137
+Madelene Upcott,USA,After Nines,2024-03-15,5433,450
+Barr Faughny,UK,Raspberry Choco,2024-08-22,6017,71
+Ches Bonnell,Australia,70% Dark Bites,2024-01-12,3610,122
+Marney O'Breen,UK,Baker's Choco Chips,2024-06-10,302,154
+Kaine Padly,Australia,Peanut Butter Cubes,2024-03-25,6063,290
+Rafaelita Blaksland,India,Almond Choco,2024-07-27,3590,106
+Husein Augar,UK,Caramel Stuffed Bars,2024-04-15,16457,442
+Roddy Speechley,India,Orange Choco,2024-06-27,4814,19
+Jehu Rudeforth,UK,70% Dark Bites,2024-04-14,5819,270
+Husein Augar,Australia,Manuka Honey Choco,2024-03-15,7825,100
+Madelene Upcott,USA,Eclairs,2024-03-18,9447,193
+Brien Boise,India,Eclairs,2024-04-29,1448,67
+Mallorie Waber,New Zealand,White Choc,2024-02-25,3356,238
+Husein Augar,USA,Milk Bars,2024-03-02,1031,55
+Van Tuxwell,Australia,Milk Bars,2024-06-20,9472,95
+Beverie Moffet,Canada,White Choc,2024-07-15,10573,179
+Dotty Strutley,Australia,50% Dark Bites,2024-05-12,3322,247
+Mallorie Waber,New Zealand,Organic Choco Syrup,2024-07-01,5318,281
+Husein Augar,USA,85% Dark Bars,2024-08-08,416,59
+Madelene Upcott,Australia,50% Dark Bites,2024-07-25,8296,6
+Wilone O'Kielt,UK,Drinking Coco,2024-05-18,3857,54
+Camilla Castle,India,Peanut Butter Cubes,2024-07-15,14103,291
+Curtice Advani,India,70% Dark Bites,2024-07-05,2453,43
+Mallorie Waber,USA,Manuka Honey Choco,2024-07-04,5911,100
+Dotty Strutley,UK,70% Dark Bites,2024-06-20,1515,230
+Gunar Cockshoot,Australia,Almond Choco,2024-01-25,4498,464
+Kaine Padly,New Zealand,Spicy Special Slims,2024-07-01,8755,38
+Gigi Bohling,USA,50% Dark Bites,2024-04-13,2651,60
+Beverie Moffet,UK,Smooth Sliky Salty,2024-05-04,5119,77
+Beverie Moffet,Australia,Baker's Choco Chips,2024-08-04,3361,119
+Beverie Moffet,India,70% Dark Bites,2024-06-01,496,146
+Jehu Rudeforth,UK,Choco Coated Almonds,2024-04-22,5109,187
+Kaine Padly,USA,50% Dark Bites,2024-08-03,77,26
+Ches Bonnell,USA,Orange Choco,2024-06-10,1860,71
+Gunar Cockshoot,UK,Manuka Honey Choco,2024-06-27,7918,50
+Marney O'Breen,Australia,Smooth Sliky Salty,2024-01-03,4060,179
+Marney O'Breen,India,After Nines,2024-07-11,2817,188
+Ches Bonnell,New Zealand,Milk Bars,2024-08-17,5306,128
+Rafaelita Blaksland,USA,Fruit & Nut Bars,2024-01-18,2757,66
+Ches Bonnell,India,Organic Choco Syrup,2024-03-08,17904,107
+Mallorie Waber,Australia,Orange Choco,2024-03-07,15825,284
+Husein Augar,India,70% Dark Bites,2024-05-09,7745,164
+Barr Faughny,New Zealand,85% Dark Bars,2024-05-23,2215,161
+Madelene Upcott,UK,Caramel Stuffed Bars,2024-04-15,190,156
+Gigi Bohling,Australia,Drinking Coco,2024-07-27,2960,141
+Marney O'Breen,Canada,Choco Coated Almonds,2024-08-22,2938,389
+Ches Bonnell,USA,70% Dark Bites,2024-05-11,4778,124
+Madelene Upcott,India,Organic Choco Syrup,2024-01-26,5401,41
+Barr Faughny,USA,50% Dark Bites,2024-04-14,15373,124
+Dennison Crosswaite,New Zealand,Mint Chip Choco,2024-04-05,7121,433
+Marney O'Breen,New Zealand,Smooth Sliky Salty,2024-06-14,9058,56
+Brien Boise,Canada,Almond Choco,2024-04-13,5439,125
+Beverie Moffet,Australia,White Choc,2024-06-27,2660,178
+Dotty Strutley,Australia,Eclairs,2024-01-26,7898,3
+Barr Faughny,UK,White Choc,2024-07-05,1959,70
+Beverie Moffet,Canada,Baker's Choco Chips,2024-01-11,15305,91
+Kelci Walkden,USA,White Choc,2024-03-07,11257,21
+Kaine Padly,Canada,50% Dark Bites,2024-03-04,9207,109
+Karlen McCaffrey,Canada,Organic Choco Syrup,2024-07-15,2770,302
+Kaine Padly,UK,Peanut Butter Cubes,2024-05-11,7478,85
+Karlen McCaffrey,USA,Milk Bars,2024-01-27,5232,8
+Karlen McCaffrey,India,Orange Choco,2024-06-27,3745,161
+Ches Bonnell,India,Smooth Sliky Salty,2024-08-03,8504,19
+Wilone O'Kielt,New Zealand,Mint Chip Choco,2024-08-19,12524,251
+Wilone O'Kielt,Australia,Fruit & Nut Bars,2024-06-15,472,101
+Dennison Crosswaite,UK,Peanut Butter Cubes,2024-02-07,9772,158
+Karlen McCaffrey,Australia,Almond Choco,2024-07-08,8130,140
+Dennison Crosswaite,India,Milk Bars,2024-04-21,1624,96
+Ches Bonnell,UK,Mint Chip Choco,2024-04-08,2984,214
+Husein Augar,Australia,50% Dark Bites,2024-08-19,15594,56
+Jan Morforth,India,Fruit & Nut Bars,2024-05-04,3388,60
+Mallorie Waber,USA,85% Dark Bars,2024-05-11,2847,115
+Mallorie Waber,USA,Eclairs,2024-03-22,7512,49
+Dennison Crosswaite,Canada,Spicy Special Slims,2024-08-10,2712,216
+Dennison Crosswaite,USA,Fruit & Nut Bars,2024-05-04,1673,314
+Kelci Walkden,USA,99% Dark & Pure,2024-08-18,8853,261
+Dotty Strutley,Canada,Raspberry Choco,2024-08-03,4722,258
+Marney O'Breen,New Zealand,Milk Bars,2024-01-14,8408,318
+Madelene Upcott,Australia,Choco Coated Almonds,2024-04-08,2442,78
+Kelci Walkden,UK,Orange Choco,2024-08-01,4010,3
+Dennison Crosswaite,Canada,Eclairs,2024-03-15,492,45
+Karlen McCaffrey,India,Mint Chip Choco,2024-07-15,11651,192
+Barr Faughny,New Zealand,Almond Choco,2024-01-13,6426,132
+Mallorie Waber,Australia,85% Dark Bars,2024-08-26,2665,54
+Ches Bonnell,Canada,Eclairs,2024-01-10,2049,170
+Gigi Bohling,Australia,White Choc,2024-05-11,6267,83
+Beverie Moffet,New Zealand,85% Dark Bars,2024-08-30,12886,21
+Kaine Padly,USA,Caramel Stuffed Bars,2024-07-21,6144,117
+Mallorie Waber,Australia,Almond Choco,2024-08-01,8274,130
+Brien Boise,Canada,85% Dark Bars,2024-02-17,12164,264
+Brien Boise,Australia,Drinking Coco,2024-07-27,7192,159
+Dotty Strutley,USA,Orange Choco,2024-02-23,1453,112
+Rafaelita Blaksland,Australia,50% Dark Bites,2024-03-22,3376,41
+Dennison Crosswaite,India,99% Dark & Pure,2024-06-23,8329,327
+Curtice Advani,UK,White Choc,2024-02-01,1635,70
+Kelci Walkden,Australia,After Nines,2024-03-02,8265,298
+Gigi Bohling,UK,Fruit & Nut Bars,2024-04-06,1448,92
+Gunar Cockshoot,Australia,Raspberry Choco,2024-03-17,710,77
+Curtice Advani,UK,Fruit & Nut Bars,2024-06-24,12197,135
+Barr Faughny,Canada,50% Dark Bites,2024-07-19,10918,302
+Curtice Advani,USA,Spicy Special Slims,2024-07-11,1680,287
+Brien Boise,India,Almond Choco,2024-01-13,2303,225
+Oby Sorrel,New Zealand,Smooth Sliky Salty,2024-07-07,9261,65
+Jan Morforth,India,85% Dark Bars,2024-05-25,5253,415
+Marney O'Breen,India,Fruit & Nut Bars,2024-04-13,5386,161
+Andria Kimpton,New Zealand,50% Dark Bites,2024-03-02,3741,222
+Gunar Cockshoot,Canada,Raspberry Choco,2024-06-23,2223,127
+Kelci Walkden,USA,Drinking Coco,2024-07-26,7720,156
+Van Tuxwell,Canada,White Choc,2024-03-22,468,3
+Rafaelita Blaksland,USA,Baker's Choco Chips,2024-06-09,3083,55
+Van Tuxwell,Australia,Caramel Stuffed Bars,2024-05-17,6899,58
+Ches Bonnell,New Zealand,Peanut Butter Cubes,2024-03-04,1036,291
+Kelci Walkden,Canada,Milk Bars,2024-07-07,17518,28
+Dennison Crosswaite,Canada,Choco Coated Almonds,2024-01-13,11692,128
+Curtice Advani,Australia,Almond Choco,2024-07-13,3137,74
+Madelene Upcott,Australia,85% Dark Bars,2024-06-16,1678,325
+Gigi Bohling,UK,50% Dark Bites,2024-07-18,8937,66
+Ches Bonnell,UK,Manuka Honey Choco,2024-05-30,4761,406
+Gigi Bohling,UK,70% Dark Bites,2024-06-21,942,84
+Jehu Rudeforth,Australia,Peanut Butter Cubes,2024-06-24,6623,39
+Marney O'Breen,India,Eclairs,2024-01-13,4067,94
+Curtice Advani,Canada,Fruit & Nut Bars,2024-04-04,4713,211
+Kaine Padly,UK,Smooth Sliky Salty,2024-06-08,9571,594
+Karlen McCaffrey,Canada,Spicy Special Slims,2024-08-02,6780,46
+Kelci Walkden,USA,Organic Choco Syrup,2024-07-21,10772,150
+Curtice Advani,India,Spicy Special Slims,2024-06-20,189,140
+Roddy Speechley,India,After Nines,2024-06-22,3015,115
+Camilla Castle,Australia,Caramel Stuffed Bars,2024-05-02,3538,16
+Curtice Advani,Australia,99% Dark & Pure,2024-01-07,5197,87
+Mallorie Waber,UK,50% Dark Bites,2024-02-21,6654,102
+Ches Bonnell,Canada,Baker's Choco Chips,2024-03-21,8639,402
+Van Tuxwell,UK,Drinking Coco,2024-04-04,6397,136
+Gunar Cockshoot,Canada,Fruit & Nut Bars,2024-03-24,14596,196
+Gunar Cockshoot,New Zealand,Spicy Special Slims,2024-06-28,7713,192
+Gunar Cockshoot,Australia,Drinking Coco,2024-01-14,2457,188
+Karlen McCaffrey,New Zealand,Fruit & Nut Bars,2024-02-07,1435,138
+Dennison Crosswaite,New Zealand,Drinking Coco,2024-01-11,4324,202
+Jehu Rudeforth,India,99% Dark & Pure,2024-02-25,2208,247
+Dotty Strutley,Australia,Mint Chip Choco,2024-08-01,7572,26
+Roddy Speechley,Australia,Mint Chip Choco,2024-05-05,7190,262
+Madelene Upcott,New Zealand,Raspberry Choco,2024-05-18,10858,451
+Dotty Strutley,New Zealand,Choco Coated Almonds,2024-01-04,6525,369
+Roddy Speechley,New Zealand,50% Dark Bites,2024-05-09,4624,212
+Rafaelita Blaksland,India,Smooth Sliky Salty,2024-05-06,1962,80
+Husein Augar,UK,White Choc,2024-01-13,12783,158
+Roddy Speechley,Australia,Almond Choco,2024-06-24,4928,71
+Van Tuxwell,USA,Caramel Stuffed Bars,2024-02-14,1116,22
+Camilla Castle,Australia,99% Dark & Pure,2024-01-18,5347,109
+Kaine Padly,India,Milk Bars,2024-05-02,3168,93
+Ches Bonnell,Australia,Smooth Sliky Salty,2024-05-16,9008,52
+Mallorie Waber,USA,Almond Choco,2024-01-28,7400,383
+Kaine Padly,Canada,99% Dark & Pure,2024-06-24,1420,422
+Oby Sorrel,UK,After Nines,2024-07-18,2556,109
+Gunar Cockshoot,UK,Eclairs,2024-04-13,4060,175
+Dotty Strutley,USA,Caramel Stuffed Bars,2024-04-15,18581,83
+Jan Morforth,India,Peanut Butter Cubes,2024-01-04,8814,182
+Husein Augar,Australia,Eclairs,2024-07-04,7915,31
+Beverie Moffet,USA,Smooth Sliky Salty,2024-03-24,2788,342
+Camilla Castle,Australia,Manuka Honey Choco,2024-03-17,682,170
+Oby Sorrel,Australia,Almond Choco,2024-02-15,6828,241
+Jan Morforth,USA,Orange Choco,2024-06-29,1082,158
+Gigi Bohling,USA,Fruit & Nut Bars,2024-05-24,2967,121
+Mallorie Waber,UK,Milk Bars,2024-01-10,3952,287
+Curtice Advani,USA,Raspberry Choco,2024-03-15,3151,144
+Marney O'Breen,Canada,Milk Bars,2024-02-08,2673,317
+Brien Boise,India,Caramel Stuffed Bars,2024-02-25,1742,106
+Gunar Cockshoot,USA,Eclairs,2024-05-03,7301,42
+Roddy Speechley,USA,Fruit & Nut Bars,2024-06-14,6322,26
+Gunar Cockshoot,India,50% Dark Bites,2024-08-09,13731,82
+Wilone O'Kielt,New Zealand,Manuka Honey Choco,2024-07-11,4052,253
+Kaine Padly,UK,Manuka Honey Choco,2024-01-14,8475,115
+Van Tuxwell,Canada,Manuka Honey Choco,2024-02-24,9427,49
+Wilone O'Kielt,New Zealand,Almond Choco,2024-03-15,9770,154
+Oby Sorrel,New Zealand,Baker's Choco Chips,2024-04-25,14235,45
+Dennison Crosswaite,Australia,Organic Choco Syrup,2024-05-10,6885,40
+Marney O'Breen,Australia,Spicy Special Slims,2024-06-23,14688,293
+Beverie Moffet,Canada,Smooth Sliky Salty,2024-02-28,16585,388
+Brien Boise,USA,Organic Choco Syrup,2024-05-25,17416,148
+Roddy Speechley,New Zealand,Baker's Choco Chips,2024-02-22,5954,236
+Van Tuxwell,UK,85% Dark Bars,2024-07-11,4180,140
+Marney O'Breen,Canada,Spicy Special Slims,2024-01-03,3940,365
+Rafaelita Blaksland,New Zealand,70% Dark Bites,2024-08-24,791,280
+Beverie Moffet,USA,50% Dark Bites,2024-07-28,2942,360
+Brien Boise,USA,Mint Chip Choco,2024-05-25,12477,162
+Karlen McCaffrey,New Zealand,Eclairs,2024-05-06,2817,191
+Barr Faughny,India,Drinking Coco,2024-01-28,2412,144
+Marney O'Breen,UK,Orange Choco,2024-06-06,13073,11
+Brien Boise,New Zealand,Baker's Choco Chips,2024-07-12,6790,26
+Ches Bonnell,Canada,Spicy Special Slims,2024-08-05,6092,201
+Brien Boise,USA,Orange Choco,2024-01-28,7186,152
+Kaine Padly,India,Spicy Special Slims,2024-08-31,6171,138
+Mallorie Waber,USA,50% Dark Bites,2024-04-19,1945,14
+Mallorie Waber,UK,Mint Chip Choco,2024-06-29,6767,2
+Beverie Moffet,India,Choco Coated Almonds,2024-02-24,3912,254
+Madelene Upcott,UK,Smooth Sliky Salty,2024-03-04,16734,88
+Gigi Bohling,India,Eclairs,2024-06-21,3917,74
+Rafaelita Blaksland,Australia,Organic Choco Syrup,2024-01-26,1083,106
+Oby Sorrel,New Zealand,White Choc,2024-06-10,4822,42
+Andria Kimpton,UK,Drinking Coco,2024-05-23,1827,66
+Kelci Walkden,India,Milk Bars,2024-04-15,1142,111
+Karlen McCaffrey,New Zealand,Caramel Stuffed Bars,2024-01-31,6291,232
+Andria Kimpton,New Zealand,Organic Choco Syrup,2024-03-04,5616,43
+Barr Faughny,New Zealand,After Nines,2024-04-19,11251,91
+Beverie Moffet,UK,Almond Choco,2024-05-16,2799,104
+Oby Sorrel,Australia,Raspberry Choco,2024-02-17,1158,114
+Dennison Crosswaite,USA,Raspberry Choco,2024-01-18,7049,273
+Roddy Speechley,Canada,Orange Choco,2024-02-09,9461,84
+Mallorie Waber,Canada,Orange Choco,2024-03-23,4174,175
+Madelene Upcott,New Zealand,Caramel Stuffed Bars,2024-02-01,4005,150
+Mallorie Waber,India,Drinking Coco,2024-03-07,4651,143
+Ches Bonnell,UK,White Choc,2024-01-03,3815,220
+Ches Bonnell,USA,White Choc,2024-02-11,6321,325
+Dennison Crosswaite,New Zealand,Orange Choco,2024-03-16,5246,144
+Dotty Strutley,India,White Choc,2024-08-15,12999,317
+Gigi Bohling,India,Manuka Honey Choco,2024-05-12,5932,79
+Van Tuxwell,India,Spicy Special Slims,2024-04-11,6812,4
+Jan Morforth,New Zealand,Mint Chip Choco,2024-06-30,21381,311
+Dotty Strutley,New Zealand,White Choc,2024-06-15,8423,63
+Rafaelita Blaksland,Canada,Caramel Stuffed Bars,2024-08-01,7951,109
+Kaine Padly,USA,Milk Bars,2024-06-15,18389,62
+Brien Boise,India,After Nines,2024-06-16,6555,45
+Oby Sorrel,New Zealand,Raspberry Choco,2024-05-13,5130,270
+Dennison Crosswaite,USA,Drinking Coco,2024-05-10,2399,149
+Oby Sorrel,India,Eclairs,2024-08-25,6097,344
+Ches Bonnell,New Zealand,Organic Choco Syrup,2024-07-15,8135,83
+Gigi Bohling,UK,Baker's Choco Chips,2024-05-16,9970,449
+Jan Morforth,Australia,50% Dark Bites,2024-06-14,3894,173
+Beverie Moffet,Australia,Smooth Sliky Salty,2024-01-25,11533,491
+Ches Bonnell,USA,Organic Choco Syrup,2024-07-28,8754,14
+Brien Boise,Canada,Mint Chip Choco,2024-01-28,5476,194
+Kaine Padly,UK,Orange Choco,2024-06-29,2253,196
+Karlen McCaffrey,Australia,70% Dark Bites,2024-06-24,279,332
+Gunar Cockshoot,Canada,Mint Chip Choco,2024-07-01,8937,442
+Roddy Speechley,USA,Peanut Butter Cubes,2024-02-25,2010,144
+Curtice Advani,Canada,Smooth Sliky Salty,2024-08-01,2902,12
+Oby Sorrel,Australia,Milk Bars,2024-06-21,9231,278
+Camilla Castle,New Zealand,Spicy Special Slims,2024-01-25,12745,26
+Gigi Bohling,UK,Milk Bars,2024-05-17,1437,248
+Andria Kimpton,Australia,85% Dark Bars,2024-08-23,4900,254
+Camilla Castle,Australia,Smooth Sliky Salty,2024-03-03,8263,129
+Roddy Speechley,India,Caramel Stuffed Bars,2024-05-30,10140,552
+Karlen McCaffrey,USA,Drinking Coco,2024-06-29,133,243
+Andria Kimpton,Canada,Organic Choco Syrup,2024-01-04,9480,217
+Jehu Rudeforth,Australia,Drinking Coco,2024-01-14,3115,65
+Karlen McCaffrey,USA,Mint Chip Choco,2024-02-15,17866,58
+Curtice Advani,New Zealand,Spicy Special Slims,2024-01-10,4651,494
+Madelene Upcott,USA,White Choc,2024-05-04,14360,218
+Andria Kimpton,USA,Spicy Special Slims,2024-05-23,2596,5
+Barr Faughny,New Zealand,Fruit & Nut Bars,2024-04-26,1853,153
+Oby Sorrel,Canada,Organic Choco Syrup,2024-07-05,1393,70
+Madelene Upcott,UK,Organic Choco Syrup,2024-07-21,7943,174
+Dotty Strutley,USA,Mint Chip Choco,2024-02-21,5553,272
+Kelci Walkden,USA,Orange Choco,2024-02-03,1539,143
+Gigi Bohling,Australia,Caramel Stuffed Bars,2024-07-08,9118,154
+Mallorie Waber,India,50% Dark Bites,2024-05-31,631,140
+Van Tuxwell,New Zealand,Mint Chip Choco,2024-06-27,4486,104
+Van Tuxwell,India,50% Dark Bites,2024-05-13,5591,132
+Van Tuxwell,USA,Manuka Honey Choco,2024-05-31,2663,102
+Wilone O'Kielt,USA,Orange Choco,2024-02-28,7482,38
+Barr Faughny,New Zealand,Eclairs,2024-03-28,7418,31
+Gigi Bohling,USA,After Nines,2024-01-14,1969,235
+Barr Faughny,New Zealand,Mint Chip Choco,2024-02-21,7198,159
+Dennison Crosswaite,Canada,85% Dark Bars,2024-08-01,11719,87
+Beverie Moffet,New Zealand,Smooth Sliky Salty,2024-05-19,2755,63
+Husein Augar,USA,White Choc,2024-07-13,2439,61
+Andria Kimpton,Australia,Peanut Butter Cubes,2024-04-20,7662,144
+Dennison Crosswaite,India,85% Dark Bars,2024-06-30,4886,23
+Curtice Advani,UK,50% Dark Bites,2024-03-08,3572,156
+Gunar Cockshoot,USA,Fruit & Nut Bars,2024-03-09,6938,94
+Oby Sorrel,Canada,Raspberry Choco,2024-06-16,1941,221
+Gigi Bohling,UK,Drinking Coco,2024-06-30,6173,46
+Kelci Walkden,India,Mint Chip Choco,2024-07-28,3105,116
+Karlen McCaffrey,Canada,Peanut Butter Cubes,2024-08-12,3692,154
+Barr Faughny,UK,Mint Chip Choco,2024-07-07,3951,324
+Barr Faughny,USA,85% Dark Bars,2024-08-25,13497,49
+Husein Augar,Canada,Eclairs,2024-01-17,4389,241
+Jan Morforth,Australia,70% Dark Bites,2024-03-04,6311,366
+Marney O'Breen,New Zealand,Fruit & Nut Bars,2024-08-25,9693,4
+Ches Bonnell,UK,Peanut Butter Cubes,2024-04-15,2348,266
+Kaine Padly,USA,Organic Choco Syrup,2024-03-11,2519,24
+Camilla Castle,USA,Raspberry Choco,2024-05-20,3517,17
+Brien Boise,New Zealand,Manuka Honey Choco,2024-06-14,16807,44
+Jehu Rudeforth,New Zealand,After Nines,2024-04-14,1737,70
+Jehu Rudeforth,USA,Smooth Sliky Salty,2024-07-07,7900,168
+Madelene Upcott,India,Mint Chip Choco,2024-08-24,4017,71
+Jehu Rudeforth,India,Eclairs,2024-02-24,9643,140
+Karlen McCaffrey,Canada,Raspberry Choco,2024-05-09,774,217
+Kaine Padly,Australia,70% Dark Bites,2024-02-08,7852,240
+Roddy Speechley,UK,70% Dark Bites,2024-03-24,1650,293
+Rafaelita Blaksland,USA,Drinking Coco,2024-06-20,9333,78
+Mallorie Waber,Canada,Manuka Honey Choco,2024-03-07,1540,117
+Kaine Padly,Australia,Fruit & Nut Bars,2024-06-20,7841,82
+Oby Sorrel,New Zealand,Organic Choco Syrup,2024-02-17,17103,267
+Madelene Upcott,UK,99% Dark & Pure,2024-01-26,11496,49
+Madelene Upcott,Australia,Mint Chip Choco,2024-05-02,3073,166
+Curtice Advani,Canada,99% Dark & Pure,2024-07-07,14991,7
+Rafaelita Blaksland,Australia,Baker's Choco Chips,2024-08-22,3170,49
+Karlen McCaffrey,Australia,After Nines,2024-08-11,2528,67
+Marney O'Breen,UK,99% Dark & Pure,2024-01-13,8552,208
+Gunar Cockshoot,Australia,50% Dark Bites,2024-03-02,13073,119
+Marney O'Breen,Australia,Choco Coated Almonds,2024-07-27,11987,41
+Kelci Walkden,New Zealand,Drinking Coco,2024-03-10,18385,116
+Beverie Moffet,USA,85% Dark Bars,2024-08-23,14028,344
+Roddy Speechley,USA,Eclairs,2024-04-25,4813,169
+Dennison Crosswaite,UK,Milk Bars,2024-03-07,11964,446
+Wilone O'Kielt,UK,Organic Choco Syrup,2024-07-12,5575,52
+Madelene Upcott,USA,Orange Choco,2024-05-16,9205,144
+Gunar Cockshoot,India,Smooth Sliky Salty,2024-03-02,4134,69
+Marney O'Breen,New Zealand,85% Dark Bars,2024-05-30,1312,164
+Marney O'Breen,UK,Manuka Honey Choco,2024-06-10,11736,185
+Brien Boise,USA,99% Dark & Pure,2024-07-25,7651,358
+Beverie Moffet,New Zealand,Mint Chip Choco,2024-06-09,4995,98
+Dennison Crosswaite,USA,Milk Bars,2024-05-12,891,62
+Gunar Cockshoot,USA,Drinking Coco,2024-05-09,4142,5
+Brien Boise,Canada,Manuka Honey Choco,2024-08-09,7308,178
+Van Tuxwell,India,Choco Coated Almonds,2024-04-13,6834,115
+Andria Kimpton,USA,Caramel Stuffed Bars,2024-05-02,8878,47
+Dotty Strutley,USA,99% Dark & Pure,2024-08-09,4135,307
+Camilla Castle,Australia,Raspberry Choco,2024-08-23,6642,188
+Gunar Cockshoot,India,Spicy Special Slims,2024-05-13,7117,174
+Karlen McCaffrey,USA,Manuka Honey Choco,2024-02-01,11816,68
+Camilla Castle,USA,50% Dark Bites,2024-06-23,6963,303
+Madelene Upcott,UK,Choco Coated Almonds,2024-05-24,11786,147
+Jan Morforth,Canada,Mint Chip Choco,2024-04-01,1200,224
+Camilla Castle,Canada,70% Dark Bites,2024-07-27,10791,166
+Ches Bonnell,India,Peanut Butter Cubes,2024-01-27,26171,224
+Jan Morforth,India,Choco Coated Almonds,2024-08-12,2988,136
+Gigi Bohling,Canada,Almond Choco,2024-02-01,11706,47
+Rafaelita Blaksland,India,After Nines,2024-03-02,5256,201
+Kelci Walkden,Australia,99% Dark & Pure,2024-06-30,3794,36
+Dotty Strutley,Australia,Spicy Special Slims,2024-01-17,9655,97
+Brien Boise,USA,Milk Bars,2024-07-07,16002,133
+Mallorie Waber,New Zealand,Mint Chip Choco,2024-01-31,1386,104
+Beverie Moffet,UK,99% Dark & Pure,2024-08-10,3822,122
+Beverie Moffet,USA,Peanut Butter Cubes,2024-08-18,15722,351
+Brien Boise,New Zealand,White Choc,2024-06-15,6287,340
+Marney O'Breen,USA,Baker's Choco Chips,2024-01-26,9832,9
+Kelci Walkden,USA,Spicy Special Slims,2024-04-29,90,73
+Mallorie Waber,Canada,White Choc,2024-03-03,3800,71
+Kaine Padly,Australia,Almond Choco,2024-02-22,4674,422
+Oby Sorrel,USA,Smooth Sliky Salty,2024-03-04,4012,169
+Dennison Crosswaite,India,Smooth Sliky Salty,2024-07-07,3430,9
+Camilla Castle,New Zealand,Caramel Stuffed Bars,2024-06-17,4921,380
+Jan Morforth,Canada,Caramel Stuffed Bars,2024-08-02,10050,118
+Oby Sorrel,USA,Baker's Choco Chips,2024-08-12,8485,120
+Madelene Upcott,New Zealand,Peanut Butter Cubes,2024-01-28,6030,351
+Kelci Walkden,Australia,Orange Choco,2024-04-29,13332,443
+Marney O'Breen,Australia,Manuka Honey Choco,2024-04-05,15246,233
+Kaine Padly,Canada,Manuka Honey Choco,2024-01-18,11619,133
+Jehu Rudeforth,UK,Baker's Choco Chips,2024-05-16,2630,98
+Kelci Walkden,Australia,White Choc,2024-08-24,10089,168
+Curtice Advani,India,85% Dark Bars,2024-01-18,308,402
+Kaine Padly,USA,Eclairs,2024-08-22,7979,10
+Gunar Cockshoot,UK,99% Dark & Pure,2024-03-07,8,84
+Beverie Moffet,UK,Choco Coated Almonds,2024-03-04,3303,73
+Dotty Strutley,Canada,Manuka Honey Choco,2024-04-22,13960,113
+Kaine Padly,Australia,Milk Bars,2024-06-09,4251,91
+Jan Morforth,Canada,Fruit & Nut Bars,2024-07-25,9886,217
+Jan Morforth,India,Smooth Sliky Salty,2024-08-03,12864,93
+Rafaelita Blaksland,Australia,Manuka Honey Choco,2024-08-03,5246,144
+Jehu Rudeforth,UK,Milk Bars,2024-05-03,14346,219
+Husein Augar,Canada,After Nines,2024-01-19,11462,288
+Roddy Speechley,USA,50% Dark Bites,2024-02-11,11668,306
+Van Tuxwell,India,Almond Choco,2024-06-14,7455,383
+Kelci Walkden,USA,50% Dark Bites,2024-03-23,7204,234
+Madelene Upcott,Canada,85% Dark Bars,2024-02-17,8082,105
+Dennison Crosswaite,Canada,Smooth Sliky Salty,2024-03-17,2055,485
+Mallorie Waber,Australia,Spicy Special Slims,2024-06-29,6476,304
+Ches Bonnell,Canada,Choco Coated Almonds,2024-08-24,17490,289
+Gigi Bohling,Canada,Spicy Special Slims,2024-07-04,13644,281
+Roddy Speechley,New Zealand,Almond Choco,2024-03-28,2930,70
+Curtice Advani,India,Smooth Sliky Salty,2024-04-19,22717,143
+Ches Bonnell,New Zealand,Mint Chip Choco,2024-01-18,9472,248
+Van Tuxwell,New Zealand,Fruit & Nut Bars,2024-01-17,3400,92
+Andria Kimpton,New Zealand,Mint Chip Choco,2024-02-15,10696,201
+Andria Kimpton,UK,Milk Bars,2024-02-11,17102,307
+Camilla Castle,USA,Manuka Honey Choco,2024-03-21,18937,180
+Gunar Cockshoot,New Zealand,Almond Choco,2024-01-05,6015,136
+Brien Boise,India,Raspberry Choco,2024-05-30,7624,162
+Jehu Rudeforth,USA,99% Dark & Pure,2024-01-04,2997,227
+Beverie Moffet,Australia,Fruit & Nut Bars,2024-04-22,1719,260
+Gigi Bohling,Canada,Milk Bars,2024-02-10,3523,114
+Dotty Strutley,India,Spicy Special Slims,2024-08-12,1092,209
+Gunar Cockshoot,USA,Organic Choco Syrup,2024-08-10,2496,310
+Kelci Walkden,Australia,Raspberry Choco,2024-06-07,813,58
+Jehu Rudeforth,India,Baker's Choco Chips,2024-06-06,2489,81
+Karlen McCaffrey,New Zealand,Baker's Choco Chips,2024-04-05,5701,201
+Wilone O'Kielt,USA,50% Dark Bites,2024-04-18,5084,126
+Andria Kimpton,India,50% Dark Bites,2024-01-31,15789,16
+Madelene Upcott,USA,Baker's Choco Chips,2024-08-22,6542,141
+Jehu Rudeforth,Australia,99% Dark & Pure,2024-02-25,11409,217
+Jan Morforth,Australia,Mint Chip Choco,2024-02-22,19258,99
+Oby Sorrel,New Zealand,Milk Bars,2024-01-12,5075,201
+Brien Boise,UK,Almond Choco,2024-05-25,116,120
+Kelci Walkden,India,Smooth Sliky Salty,2024-02-01,2797,9
+Rafaelita Blaksland,UK,Eclairs,2024-04-27,1608,75
+Gigi Bohling,USA,Smooth Sliky Salty,2024-07-22,2961,133
+Curtice Advani,New Zealand,Mint Chip Choco,2024-01-26,3704,260
+Curtice Advani,USA,Mint Chip Choco,2024-08-24,5680,285
+Madelene Upcott,New Zealand,Fruit & Nut Bars,2024-01-18,6764,20
+Karlen McCaffrey,India,85% Dark Bars,2024-03-30,1109,87
+Ches Bonnell,Australia,Caramel Stuffed Bars,2024-01-17,9477,160
+Kelci Walkden,USA,Fruit & Nut Bars,2024-02-17,5302,155
+Kelci Walkden,Canada,Peanut Butter Cubes,2024-04-08,8041,43
+Gigi Bohling,Canada,Drinking Coco,2024-07-06,3716,89
+Husein Augar,India,Fruit & Nut Bars,2024-04-04,4592,222
+Jan Morforth,New Zealand,Organic Choco Syrup,2024-03-02,1928,217
+Gigi Bohling,New Zealand,Raspberry Choco,2024-08-09,1225,186
+Dennison Crosswaite,Australia,Milk Bars,2024-06-09,11327,296
+Ches Bonnell,UK,Caramel Stuffed Bars,2024-06-02,3063,301
+Van Tuxwell,USA,Fruit & Nut Bars,2024-07-05,7093,233
+Andria Kimpton,Canada,Eclairs,2024-08-11,337,120
+Madelene Upcott,India,Choco Coated Almonds,2024-02-11,3765,158
+Kelci Walkden,New Zealand,Spicy Special Slims,2024-08-11,695,68
+Roddy Speechley,Australia,Drinking Coco,2024-05-12,14610,111
+Wilone O'Kielt,USA,Milk Bars,2024-07-15,5299,96
+Andria Kimpton,India,Organic Choco Syrup,2024-01-18,4552,132
+Madelene Upcott,UK,Fruit & Nut Bars,2024-01-05,9099,199
+Curtice Advani,Australia,50% Dark Bites,2024-06-29,604,239
+Brien Boise,Canada,Raspberry Choco,2024-06-14,3172,46
+Gunar Cockshoot,India,Mint Chip Choco,2024-08-08,4737,74
+Dennison Crosswaite,India,Mint Chip Choco,2024-03-23,15202,142
+Barr Faughny,India,Caramel Stuffed Bars,2024-01-04,7913,106
+Brien Boise,India,Milk Bars,2024-02-22,14191,269
+Beverie Moffet,UK,Spicy Special Slims,2024-02-17,9327,259
+Barr Faughny,USA,Almond Choco,2024-02-03,434,83
+Van Tuxwell,Canada,Raspberry Choco,2024-03-17,1498,132
+Wilone O'Kielt,Australia,Baker's Choco Chips,2024-01-25,3125,155
+Brien Boise,Australia,Milk Bars,2024-07-27,2356,54
+Husein Augar,Australia,Fruit & Nut Bars,2024-01-28,8548,55
+Madelene Upcott,Australia,Organic Choco Syrup,2024-07-05,12094,52
+Van Tuxwell,India,White Choc,2024-03-15,2119,46
+Gunar Cockshoot,Canada,After Nines,2024-08-04,3038,220
+Jan Morforth,USA,Fruit & Nut Bars,2024-06-27,5188,382
+Jan Morforth,Canada,After Nines,2024-07-13,5385,180
+Barr Faughny,New Zealand,Manuka Honey Choco,2024-02-24,6575,249
+Karlen McCaffrey,New Zealand,85% Dark Bars,2024-06-28,6350,59
+Oby Sorrel,Australia,85% Dark Bars,2024-06-30,7488,28
+Curtice Advani,Canada,Choco Coated Almonds,2024-08-18,6998,7
+Kaine Padly,India,70% Dark Bites,2024-01-24,13082,324
+Beverie Moffet,USA,White Choc,2024-03-11,5965,136
+Ches Bonnell,New Zealand,After Nines,2024-06-23,6651,377
+Husein Augar,India,Spicy Special Slims,2024-08-22,2606,31
+Gunar Cockshoot,Canada,50% Dark Bites,2024-01-04,3616,24
+Curtice Advani,India,Milk Bars,2024-04-05,3658,210
+Beverie Moffet,India,Milk Bars,2024-04-15,1997,314
+Husein Augar,Australia,White Choc,2024-05-11,3619,213
+Andria Kimpton,Canada,Manuka Honey Choco,2024-07-21,5539,492
+Jan Morforth,New Zealand,Orange Choco,2024-02-11,1382,86
+Andria Kimpton,Canada,Smooth Sliky Salty,2024-07-08,1224,81
+Gunar Cockshoot,UK,Raspberry Choco,2024-08-11,8043,344
+Husein Augar,New Zealand,After Nines,2024-08-04,6878,7
+Andria Kimpton,New Zealand,Orange Choco,2024-06-14,9420,94
+Dennison Crosswaite,UK,Baker's Choco Chips,2024-01-17,2516,293
+Jehu Rudeforth,Canada,Orange Choco,2024-06-23,4335,529
+Jehu Rudeforth,UK,Smooth Sliky Salty,2024-08-24,1588,111
+Andria Kimpton,UK,Caramel Stuffed Bars,2024-06-07,8959,271
+Jan Morforth,UK,White Choc,2024-06-22,9409,46
+Dotty Strutley,USA,Fruit & Nut Bars,2024-07-13,3316,268
+Kelci Walkden,UK,Choco Coated Almonds,2024-05-24,10921,210
+Gunar Cockshoot,New Zealand,After Nines,2024-08-09,7606,154
+Kaine Padly,Canada,85% Dark Bars,2024-04-06,1860,33
+Jan Morforth,New Zealand,Manuka Honey Choco,2024-07-28,1744,259
+Gunar Cockshoot,New Zealand,Raspberry Choco,2024-08-24,758,57
+Van Tuxwell,Australia,99% Dark & Pure,2024-01-17,125,138
+Curtice Advani,USA,Drinking Coco,2024-02-07,6171,149
+Brien Boise,Australia,Spicy Special Slims,2024-05-09,6867,273
+Mallorie Waber,New Zealand,85% Dark Bars,2024-06-06,8775,113
+Wilone O'Kielt,USA,Choco Coated Almonds,2024-06-06,10423,6
+Beverie Moffet,New Zealand,Organic Choco Syrup,2024-05-24,7402,231
+Gunar Cockshoot,UK,50% Dark Bites,2024-01-13,2498,129
+Marney O'Breen,USA,Raspberry Choco,2024-05-23,6874,152
+Jehu Rudeforth,UK,White Choc,2024-06-29,2016,304
+Jehu Rudeforth,New Zealand,85% Dark Bars,2024-03-11,8078,95
+Dotty Strutley,USA,85% Dark Bars,2024-04-25,11149,538
+Rafaelita Blaksland,Australia,Smooth Sliky Salty,2024-05-30,4739,236
+Curtice Advani,India,Manuka Honey Choco,2024-05-23,1845,185
+Mallorie Waber,USA,Peanut Butter Cubes,2024-05-23,1264,19
+Van Tuxwell,Canada,Peanut Butter Cubes,2024-06-24,7528,306
+Kelci Walkden,New Zealand,Smooth Sliky Salty,2024-03-11,12265,268
+Rafaelita Blaksland,USA,Smooth Sliky Salty,2024-07-27,17662,230
+Rafaelita Blaksland,USA,White Choc,2024-08-16,5520,120
+Roddy Speechley,Canada,Smooth Sliky Salty,2024-03-07,10713,11
+Curtice Advani,New Zealand,After Nines,2024-04-05,8417,29
+Camilla Castle,India,85% Dark Bars,2024-05-04,9986,54
+Ches Bonnell,USA,Choco Coated Almonds,2024-01-04,15630,89
+Marney O'Breen,Australia,Baker's Choco Chips,2024-01-13,6224,100
+Wilone O'Kielt,New Zealand,Fruit & Nut Bars,2024-07-11,7737,95
+Kaine Padly,Australia,Mint Chip Choco,2024-05-17,4861,162
+Camilla Castle,New Zealand,Peanut Butter Cubes,2024-07-21,1755,62
+Curtice Advani,Canada,Organic Choco Syrup,2024-02-22,897,24
+Jan Morforth,India,99% Dark & Pure,2024-05-23,10607,182
+Rafaelita Blaksland,Canada,Drinking Coco,2024-07-12,10772,192
+Jan Morforth,UK,Orange Choco,2024-06-15,4117,203
+Barr Faughny,New Zealand,50% Dark Bites,2024-06-23,5185,321
+Curtice Advani,Australia,Eclairs,2024-03-25,6975,58
+Jan Morforth,India,Caramel Stuffed Bars,2024-07-04,100,161
+Andria Kimpton,UK,White Choc,2024-05-12,10203,109
+Camilla Castle,New Zealand,Raspberry Choco,2024-04-04,5082,148
+Madelene Upcott,Australia,Orange Choco,2024-04-15,7167,381
+Roddy Speechley,Canada,Eclairs,2024-03-08,7027,95
+Karlen McCaffrey,India,White Choc,2024-01-17,8265,251
+Wilone O'Kielt,India,Mint Chip Choco,2024-08-22,1516,53
+Andria Kimpton,UK,99% Dark & Pure,2024-07-25,1259,72
+Marney O'Breen,UK,50% Dark Bites,2024-06-14,3506,126
+Ches Bonnell,India,Choco Coated Almonds,2024-04-05,10969,83
+Madelene Upcott,UK,Raspberry Choco,2024-08-26,8442,347
+Wilone O'Kielt,Australia,50% Dark Bites,2024-08-03,11001,112
+Gigi Bohling,Canada,White Choc,2024-07-11,6988,4
+Wilone O'Kielt,New Zealand,Eclairs,2024-03-11,3735,21
+Brien Boise,UK,Peanut Butter Cubes,2024-01-10,17347,32
+Roddy Speechley,UK,Baker's Choco Chips,2024-04-04,16517,349
+Karlen McCaffrey,Australia,50% Dark Bites,2024-01-17,7643,778
+Marney O'Breen,New Zealand,Organic Choco Syrup,2024-07-08,10337,49
+Jan Morforth,UK,Organic Choco Syrup,2024-04-12,1367,384
+Rafaelita Blaksland,Canada,Fruit & Nut Bars,2024-08-24,571,191
+Ches Bonnell,UK,Choco Coated Almonds,2024-06-07,2012,259
+Gunar Cockshoot,Canada,Almond Choco,2024-07-28,1469,29
+Husein Augar,USA,99% Dark & Pure,2024-02-21,10020,113
+Dennison Crosswaite,Canada,Mint Chip Choco,2024-04-08,1915,304
+Brien Boise,UK,Manuka Honey Choco,2024-06-28,74,101
+Van Tuxwell,UK,Baker's Choco Chips,2024-03-24,2794,21
+Barr Faughny,Australia,Caramel Stuffed Bars,2024-07-29,3192,54
+Dennison Crosswaite,USA,Eclairs,2024-05-25,2447,98
+Gigi Bohling,Australia,Raspberry Choco,2024-03-30,7696,313
+Dennison Crosswaite,USA,Organic Choco Syrup,2024-07-18,14732,132
+Beverie Moffet,Canada,Orange Choco,2024-05-10,9322,111
+Mallorie Waber,Australia,Choco Coated Almonds,2024-03-18,18474,88
+Ches Bonnell,India,Caramel Stuffed Bars,2024-06-15,7438,54
+Van Tuxwell,Canada,50% Dark Bites,2024-05-12,14581,58
+Kelci Walkden,New Zealand,Baker's Choco Chips,2024-06-23,3390,115
+Beverie Moffet,India,Spicy Special Slims,2024-04-21,3968,182
+Gigi Bohling,Australia,Almond Choco,2024-08-17,1084,120
+Rafaelita Blaksland,New Zealand,Eclairs,2024-02-07,20690,51
+Kelci Walkden,Canada,Smooth Sliky Salty,2024-03-17,8930,121
+Jan Morforth,India,Baker's Choco Chips,2024-08-01,15497,85
+Jehu Rudeforth,Australia,Milk Bars,2024-03-18,9172,30
+Gigi Bohling,Canada,Fruit & Nut Bars,2024-06-14,6094,104
+Beverie Moffet,UK,Eclairs,2024-04-22,9145,156
+Marney O'Breen,New Zealand,Eclairs,2024-01-18,5903,31
+Husein Augar,Australia,99% Dark & Pure,2024-08-26,3277,131
+Gunar Cockshoot,New Zealand,Fruit & Nut Bars,2024-06-10,9760,424
+Curtice Advani,Canada,70% Dark Bites,2024-01-31,2505,7
+Kelci Walkden,New Zealand,Manuka Honey Choco,2024-04-08,1528,107
+Dotty Strutley,Australia,Baker's Choco Chips,2024-06-07,3767,65
+Barr Faughny,Australia,85% Dark Bars,2024-02-10,9452,42
+Beverie Moffet,Australia,50% Dark Bites,2024-05-16,765,441
+Gunar Cockshoot,India,Baker's Choco Chips,2024-03-18,2433,535
+Van Tuxwell,Australia,50% Dark Bites,2024-07-13,779,134
+Oby Sorrel,USA,Manuka Honey Choco,2024-07-25,5051,85
+Van Tuxwell,Canada,Choco Coated Almonds,2024-08-19,2727,293
+Karlen McCaffrey,Canada,70% Dark Bites,2024-06-24,9089,602
+Kelci Walkden,Canada,Fruit & Nut Bars,2024-06-20,881,152
+Camilla Castle,India,99% Dark & Pure,2024-08-02,228,225
+Madelene Upcott,New Zealand,70% Dark Bites,2024-02-22,14194,102
+Mallorie Waber,New Zealand,Orange Choco,2024-02-01,7460,23
+Jan Morforth,Canada,70% Dark Bites,2024-02-14,6579,312
+Kelci Walkden,Australia,Milk Bars,2024-02-24,8975,137
+Dennison Crosswaite,India,Orange Choco,2024-03-18,852,123
+Husein Augar,UK,Eclairs,2024-08-30,1955,250
+Gigi Bohling,USA,Peanut Butter Cubes,2024-05-09,323,72
+Wilone O'Kielt,USA,Smooth Sliky Salty,2024-01-18,542,86
+Curtice Advani,India,White Choc,2024-07-04,7667,347
+Oby Sorrel,New Zealand,Spicy Special Slims,2024-06-03,1826,13
+Beverie Moffet,New Zealand,Peanut Butter Cubes,2024-02-23,11511,30
+Dotty Strutley,New Zealand,99% Dark & Pure,2024-05-09,12264,223
+Kelci Walkden,India,70% Dark Bites,2024-06-06,3879,108
+Kelci Walkden,India,Drinking Coco,2024-07-04,8329,238
+Brien Boise,New Zealand,Drinking Coco,2024-06-06,1666,98
+Dotty Strutley,Australia,Almond Choco,2024-05-13,1754,95
+Wilone O'Kielt,New Zealand,Organic Choco Syrup,2024-01-31,2391,274
+Ches Bonnell,New Zealand,Caramel Stuffed Bars,2024-06-30,8547,41
+Barr Faughny,Canada,Manuka Honey Choco,2024-08-25,4116,274
+Gigi Bohling,New Zealand,Smooth Sliky Salty,2024-01-10,787,95
+Brien Boise,USA,Manuka Honey Choco,2024-08-22,2096,8
+Roddy Speechley,New Zealand,85% Dark Bars,2024-04-14,5221,267
+Oby Sorrel,UK,Smooth Sliky Salty,2024-05-31,11264,340
+Oby Sorrel,UK,Raspberry Choco,2024-04-08,5477,341
+Roddy Speechley,USA,Drinking Coco,2024-02-21,3389,160
+Andria Kimpton,Australia,Manuka Honey Choco,2024-03-30,11560,413
+Mallorie Waber,India,Raspberry Choco,2024-03-02,1677,2
+Jehu Rudeforth,USA,Orange Choco,2024-07-28,437,174
+Kaine Padly,New Zealand,70% Dark Bites,2024-03-24,8488,40
+Curtice Advani,Australia,After Nines,2024-08-11,72,101
+Husein Augar,UK,Almond Choco,2024-05-17,9864,167
+Kaine Padly,Canada,Choco Coated Almonds,2024-05-18,3469,166
+Roddy Speechley,UK,Peanut Butter Cubes,2024-08-17,6770,173
+Ches Bonnell,New Zealand,Eclairs,2024-04-04,564,50
+Brien Boise,India,85% Dark Bars,2024-08-09,21044,210
+Brien Boise,New Zealand,Organic Choco Syrup,2024-01-17,677,327
+Andria Kimpton,Canada,White Choc,2024-02-14,4368,29
+Gigi Bohling,New Zealand,Orange Choco,2024-05-16,9866,306
+Ches Bonnell,Canada,Smooth Sliky Salty,2024-03-16,10724,125
+Husein Augar,Canada,70% Dark Bites,2024-01-31,5443,284
+Barr Faughny,Canada,Organic Choco Syrup,2024-03-10,1312,200
+Oby Sorrel,UK,Organic Choco Syrup,2024-06-30,8472,162
+Van Tuxwell,New Zealand,Eclairs,2024-03-01,5775,178
+Mallorie Waber,UK,Drinking Coco,2024-05-27,3780,97
+Oby Sorrel,UK,Milk Bars,2024-07-11,6831,243
+Karlen McCaffrey,New Zealand,Mint Chip Choco,2024-03-02,4835,63
+Jehu Rudeforth,USA,Raspberry Choco,2024-03-04,8120,143
+Kelci Walkden,UK,85% Dark Bars,2024-06-23,4812,242
+Kelci Walkden,USA,Almond Choco,2024-01-27,5930,252
+Marney O'Breen,Canada,Orange Choco,2024-01-14,3040,426
+Dennison Crosswaite,India,Fruit & Nut Bars,2024-07-29,1127,23
+Brien Boise,Canada,Smooth Sliky Salty,2024-05-13,6052,490
+Barr Faughny,Canada,Baker's Choco Chips,2024-02-03,12279,162
+Brien Boise,India,Smooth Sliky Salty,2024-05-27,7092,28
+Jan Morforth,Australia,Drinking Coco,2024-02-18,3161,25
+Brien Boise,India,Spicy Special Slims,2024-01-28,1408,35
+Van Tuxwell,UK,Eclairs,2024-06-29,5777,114
+Wilone O'Kielt,India,Caramel Stuffed Bars,2024-01-13,4891,274
+Jehu Rudeforth,UK,After Nines,2024-06-27,2048,172
+Barr Faughny,Canada,White Choc,2024-03-29,4590,1
+Gunar Cockshoot,India,Organic Choco Syrup,2024-06-03,8666,162
+Mallorie Waber,Canada,Smooth Sliky Salty,2024-03-21,2202,97
+Mallorie Waber,India,Eclairs,2024-04-12,11720,48
+Rafaelita Blaksland,Australia,Raspberry Choco,2024-01-19,7885,266
+Karlen McCaffrey,UK,50% Dark Bites,2024-04-06,3858,303
+Kaine Padly,Australia,50% Dark Bites,2024-08-02,10124,84
+Gigi Bohling,Australia,Eclairs,2024-04-12,8171,137
+Oby Sorrel,India,Drinking Coco,2024-07-21,19391,141
+Van Tuxwell,New Zealand,Baker's Choco Chips,2024-03-22,10197,24
+Husein Augar,India,Peanut Butter Cubes,2024-05-09,5188,5
+Andria Kimpton,Australia,Baker's Choco Chips,2024-08-09,350,117
+Madelene Upcott,Canada,Choco Coated Almonds,2024-07-20,3766,300
+Brien Boise,India,70% Dark Bites,2024-04-14,4888,435
+Jehu Rudeforth,Canada,White Choc,2024-01-25,5230,142
+Andria Kimpton,Australia,Almond Choco,2024-04-25,3790,168
+Dotty Strutley,Canada,After Nines,2024-01-17,302,233
+Karlen McCaffrey,USA,Eclairs,2024-08-15,1017,123
+Karlen McCaffrey,Canada,Fruit & Nut Bars,2024-06-02,241,17
+Gunar Cockshoot,USA,85% Dark Bars,2024-06-30,8347,138
+Dotty Strutley,New Zealand,Raspberry Choco,2024-02-10,6292,88
+Marney O'Breen,Canada,Caramel Stuffed Bars,2024-02-23,1544,674
+Dennison Crosswaite,India,Organic Choco Syrup,2024-01-27,9745,225
+Camilla Castle,UK,Mint Chip Choco,2024-05-26,5415,325
+Brien Boise,USA,70% Dark Bites,2024-04-14,1898,22
+Madelene Upcott,Australia,99% Dark & Pure,2024-08-01,4911,163
+Mallorie Waber,Australia,Eclairs,2024-08-22,11293,219
+Marney O'Breen,India,99% Dark & Pure,2024-07-22,12398,161
+Husein Augar,USA,Fruit & Nut Bars,2024-04-28,1509,28
+Kelci Walkden,Australia,Almond Choco,2024-05-30,5869,354
+Ches Bonnell,USA,Milk Bars,2024-07-21,2770,159
+Jan Morforth,UK,Caramel Stuffed Bars,2024-08-02,3542,494
+Brien Boise,New Zealand,70% Dark Bites,2024-06-15,7624,139
+Oby Sorrel,India,85% Dark Bars,2024-07-05,9928,130
+Kaine Padly,New Zealand,Smooth Sliky Salty,2024-04-12,8,548
+Gigi Bohling,Australia,70% Dark Bites,2024-08-18,1625,103
+Jan Morforth,UK,50% Dark Bites,2024-01-12,6302,287
+Gunar Cockshoot,Canada,White Choc,2024-08-11,8578,15
+Jehu Rudeforth,Australia,Spicy Special Slims,2024-01-13,5574,372
+Husein Augar,UK,Baker's Choco Chips,2024-04-29,3466,133
+Rafaelita Blaksland,New Zealand,After Nines,2024-07-07,1246,90
+Madelene Upcott,New Zealand,Mint Chip Choco,2024-03-11,8889,4
+Madelene Upcott,UK,70% Dark Bites,2024-02-16,5932,243
+Barr Faughny,Australia,Organic Choco Syrup,2024-01-07,2621,34
+Beverie Moffet,New Zealand,Drinking Coco,2024-01-12,1284,560
+Beverie Moffet,India,Eclairs,2024-06-09,11034,155
+Andria Kimpton,India,Eclairs,2024-05-16,2413,82
+Gigi Bohling,UK,85% Dark Bars,2024-06-23,13136,90
+Roddy Speechley,UK,Raspberry Choco,2024-01-28,14298,211
+Dotty Strutley,UK,Mint Chip Choco,2024-07-14,2838,212
+Barr Faughny,Canada,Drinking Coco,2024-04-18,7496,259
+Oby Sorrel,USA,Milk Bars,2024-06-14,1815,79
+Oby Sorrel,UK,Orange Choco,2024-04-15,8250,228
+Curtice Advani,Canada,Peanut Butter Cubes,2024-05-19,5606,64
+Gigi Bohling,India,White Choc,2024-04-13,1563,179
+Husein Augar,Canada,Choco Coated Almonds,2024-08-15,3997,411
+Wilone O'Kielt,India,Choco Coated Almonds,2024-08-22,3284,230
+Wilone O'Kielt,New Zealand,Baker's Choco Chips,2024-04-22,4610,58
+Kaine Padly,UK,Choco Coated Almonds,2024-08-03,9412,123
+Dennison Crosswaite,New Zealand,Organic Choco Syrup,2024-01-04,427,249
+Kelci Walkden,Canada,After Nines,2024-01-13,19449,204
+Van Tuxwell,Australia,Baker's Choco Chips,2024-05-11,14122,32
+Husein Augar,New Zealand,Peanut Butter Cubes,2024-02-16,2257,231
+Kaine Padly,UK,Caramel Stuffed Bars,2024-05-20,11334,72
+Jehu Rudeforth,UK,Drinking Coco,2024-02-03,7866,436
+Beverie Moffet,India,Manuka Honey Choco,2024-05-06,11462,172
+Gunar Cockshoot,UK,Choco Coated Almonds,2024-06-30,6155,132
+Gunar Cockshoot,UK,Smooth Sliky Salty,2024-03-22,868,143
+Camilla Castle,Canada,Orange Choco,2024-02-17,9056,58
+Jehu Rudeforth,UK,85% Dark Bars,2024-07-07,6569,66
+Oby Sorrel,UK,70% Dark Bites,2024-03-16,7431,180
+Kelci Walkden,UK,99% Dark & Pure,2024-08-12,3673,124
+Gigi Bohling,New Zealand,After Nines,2024-01-21,6465,189
+Oby Sorrel,Australia,50% Dark Bites,2024-05-06,814,163
+Oby Sorrel,Canada,50% Dark Bites,2024-06-24,7302,134
+Barr Faughny,USA,White Choc,2024-05-05,8523,171
+Rafaelita Blaksland,New Zealand,99% Dark & Pure,2024-03-25,3823,85
+Curtice Advani,Australia,Caramel Stuffed Bars,2024-02-14,10219,139
+Curtice Advani,New Zealand,85% Dark Bars,2024-05-12,5798,206
+Barr Faughny,New Zealand,Smooth Sliky Salty,2024-01-25,4487,184
+Ches Bonnell,UK,85% Dark Bars,2024-06-28,17238,13
+Dennison Crosswaite,Australia,Drinking Coco,2024-07-13,7497,184
+Roddy Speechley,USA,Milk Bars,2024-05-16,3034,245
+Jan Morforth,India,After Nines,2024-03-14,6795,177
+Gunar Cockshoot,USA,After Nines,2024-08-15,4273,280
+Ches Bonnell,India,Orange Choco,2024-02-16,1413,278
+Mallorie Waber,UK,Manuka Honey Choco,2024-06-15,9853,43
+Barr Faughny,Australia,Raspberry Choco,2024-05-27,10744,105
+Wilone O'Kielt,USA,Drinking Coco,2024-06-14,1214,101
+Wilone O'Kielt,India,Eclairs,2024-02-25,4264,80
+Wilone O'Kielt,India,After Nines,2024-08-04,13808,270
+Kelci Walkden,India,99% Dark & Pure,2024-06-28,2412,248
+Gunar Cockshoot,Canada,Spicy Special Slims,2024-04-05,14603,12
+Madelene Upcott,Canada,Peanut Butter Cubes,2024-07-05,17814,120
+Kaine Padly,New Zealand,Eclairs,2024-01-20,14346,48
+Ches Bonnell,New Zealand,Drinking Coco,2024-02-16,10010,144
+Curtice Advani,UK,Drinking Coco,2024-07-12,494,186
+Kelci Walkden,India,Raspberry Choco,2024-06-16,9119,253
+Dotty Strutley,Australia,Choco Coated Almonds,2024-04-13,1751,293
+Kaine Padly,UK,50% Dark Bites,2024-02-21,3402,69
+Roddy Speechley,Canada,Choco Coated Almonds,2024-05-11,6841,237
+Ches Bonnell,India,50% Dark Bites,2024-04-15,12584,328
+Oby Sorrel,Canada,Peanut Butter Cubes,2024-06-07,14291,179
+Oby Sorrel,UK,White Choc,2024-06-27,1998,303
+Barr Faughny,India,After Nines,2024-07-29,9558,117
+Wilone O'Kielt,Canada,Smooth Sliky Salty,2024-06-02,5595,174
+Rafaelita Blaksland,India,Mint Chip Choco,2024-01-26,16521,84
+Rafaelita Blaksland,Canada,99% Dark & Pure,2024-03-02,5546,139
+Van Tuxwell,Australia,70% Dark Bites,2024-01-10,8261,108
+Beverie Moffet,USA,70% Dark Bites,2024-06-27,2636,110
+Barr Faughny,Canada,Orange Choco,2024-06-30,8285,18
+Roddy Speechley,Australia,85% Dark Bars,2024-07-08,4590,78
+Oby Sorrel,India,Spicy Special Slims,2024-06-08,13189,95
+Jan Morforth,UK,Manuka Honey Choco,2024-08-18,3768,212
+Kaine Padly,Australia,After Nines,2024-04-08,7963,293
+Wilone O'Kielt,Canada,Fruit & Nut Bars,2024-08-08,3665,191
+Wilone O'Kielt,UK,Milk Bars,2024-08-26,335,66
+Oby Sorrel,Canada,Fruit & Nut Bars,2024-01-14,2188,159
+Dennison Crosswaite,USA,Baker's Choco Chips,2024-08-11,18482,295
+Madelene Upcott,USA,Almond Choco,2024-05-31,11864,24
+Van Tuxwell,New Zealand,50% Dark Bites,2024-07-11,4332,10
+Karlen McCaffrey,Canada,Caramel Stuffed Bars,2024-03-02,3653,327
+Madelene Upcott,Australia,Raspberry Choco,2024-07-13,7024,89
+Rafaelita Blaksland,UK,Spicy Special Slims,2024-08-03,10002,132
+Curtice Advani,UK,Peanut Butter Cubes,2024-03-01,16461,171
+Kelci Walkden,New Zealand,White Choc,2024-04-13,8575,165
+Beverie Moffet,Canada,Fruit & Nut Bars,2024-02-14,12191,177
+Mallorie Waber,India,White Choc,2024-07-26,969,233
+Brien Boise,UK,Drinking Coco,2024-01-27,6499,143
+Jehu Rudeforth,India,Peanut Butter Cubes,2024-04-14,34,487
+Oby Sorrel,USA,Almond Choco,2024-05-19,7641,154
+Husein Augar,India,Eclairs,2024-02-09,5597,62
+Brien Boise,UK,Spicy Special Slims,2024-05-25,2640,59
+Oby Sorrel,Australia,Manuka Honey Choco,2024-01-26,4627,78
+Beverie Moffet,India,White Choc,2024-07-04,1900,297
+Ches Bonnell,India,Almond Choco,2024-04-13,13315,72
+Gigi Bohling,Australia,Smooth Sliky Salty,2024-01-25,6359,121
+Camilla Castle,USA,85% Dark Bars,2024-04-25,2645,83
+Camilla Castle,USA,Eclairs,2024-06-10,4880,427
+Madelene Upcott,New Zealand,White Choc,2024-08-22,11573,51
+Van Tuxwell,India,After Nines,2024-06-27,15627,225
+Husein Augar,India,Orange Choco,2024-06-30,4781,38
+Jehu Rudeforth,India,Almond Choco,2024-08-30,11793,101
+Karlen McCaffrey,Australia,Raspberry Choco,2024-08-23,1061,58
+Camilla Castle,New Zealand,99% Dark & Pure,2024-08-26,2500,44
+Gigi Bohling,Australia,Orange Choco,2024-03-09,676,158
+Kelci Walkden,UK,Drinking Coco,2024-04-20,1886,23
+Mallorie Waber,Canada,Caramel Stuffed Bars,2024-06-10,5094,524
+Husein Augar,Australia,Organic Choco Syrup,2024-02-08,1019,157
+Brien Boise,Australia,White Choc,2024-08-25,5617,23
+Dotty Strutley,India,Peanut Butter Cubes,2024-02-16,10462,78
+Dennison Crosswaite,UK,99% Dark & Pure,2024-05-30,12842,26
+Gigi Bohling,New Zealand,50% Dark Bites,2024-06-29,6723,67
+Gigi Bohling,USA,Milk Bars,2024-06-16,521,127
+Brien Boise,UK,Caramel Stuffed Bars,2024-03-04,3106,159
+Curtice Advani,New Zealand,Peanut Butter Cubes,2024-03-15,1684,419
+Curtice Advani,New Zealand,50% Dark Bites,2024-01-27,11226,84
+Beverie Moffet,Canada,Drinking Coco,2024-07-05,1173,124
+Barr Faughny,USA,Caramel Stuffed Bars,2024-03-29,3917,287
+Mallorie Waber,Canada,Almond Choco,2024-05-12,4871,33
+Oby Sorrel,USA,Drinking Coco,2024-03-11,9307,48
+Brien Boise,New Zealand,Eclairs,2024-07-11,5270,323
+Gunar Cockshoot,New Zealand,Choco Coated Almonds,2024-08-01,14722,61
+Gunar Cockshoot,UK,Spicy Special Slims,2024-02-16,13445,197
+Curtice Advani,USA,After Nines,2024-04-13,14886,248
+Oby Sorrel,India,Choco Coated Almonds,2024-02-14,53,371
+Ches Bonnell,Australia,Peanut Butter Cubes,2024-03-14,11768,68
+Oby Sorrel,Australia,Spicy Special Slims,2024-04-26,12898,25
+Jehu Rudeforth,Canada,Manuka Honey Choco,2024-04-05,3868,214
+Camilla Castle,Canada,Drinking Coco,2024-03-03,13524,253
+Kaine Padly,USA,Spicy Special Slims,2024-06-13,2319,189
+Marney O'Breen,New Zealand,70% Dark Bites,2024-02-14,9037,377
+Roddy Speechley,New Zealand,99% Dark & Pure,2024-04-18,8906,201
+Oby Sorrel,New Zealand,85% Dark Bars,2024-02-01,4041,423
+Dotty Strutley,New Zealand,Orange Choco,2024-08-04,2204,145
+Andria Kimpton,New Zealand,Almond Choco,2024-04-05,7037,172
+Karlen McCaffrey,Australia,99% Dark & Pure,2024-01-26,12285,175
+Kaine Padly,UK,After Nines,2024-01-21,21813,183
+Kaine Padly,Canada,After Nines,2024-08-22,6708,187
+Kaine Padly,UK,Drinking Coco,2024-01-27,2514,226
+Rafaelita Blaksland,UK,50% Dark Bites,2024-02-16,11491,71
+Dotty Strutley,USA,Raspberry Choco,2024-01-03,3763,49
+Karlen McCaffrey,USA,White Choc,2024-08-24,5158,2
+Oby Sorrel,USA,Spicy Special Slims,2024-02-07,6661,418
+Mallorie Waber,Australia,Smooth Sliky Salty,2024-02-11,4786,107
+Kaine Padly,Canada,Organic Choco Syrup,2024-03-29,6798,82
+Marney O'Breen,USA,Peanut Butter Cubes,2024-06-15,782,348
+Dennison Crosswaite,UK,Smooth Sliky Salty,2024-04-26,653,136
+Brien Boise,Australia,Organic Choco Syrup,2024-07-15,4769,281
+Beverie Moffet,India,Organic Choco Syrup,2024-06-23,1124,19
+Dennison Crosswaite,Australia,Baker's Choco Chips,2024-01-11,16435,425
+Beverie Moffet,UK,50% Dark Bites,2024-02-09,2922,289
+Van Tuxwell,UK,Almond Choco,2024-06-06,12124,222
+Dotty Strutley,UK,Caramel Stuffed Bars,2024-08-10,6449,244
+Wilone O'Kielt,Australia,Smooth Sliky Salty,2024-01-04,2588,44
+Andria Kimpton,Canada,70% Dark Bites,2024-04-08,12109,16
+Barr Faughny,UK,Milk Bars,2024-03-02,4482,467
+Van Tuxwell,Canada,Drinking Coco,2024-06-15,5295,679
+Jehu Rudeforth,Australia,After Nines,2024-02-14,5513,46
+Husein Augar,UK,After Nines,2024-07-05,3707,392
+Barr Faughny,India,Mint Chip Choco,2024-01-12,7899,461
+Curtice Advani,India,Mint Chip Choco,2024-03-03,9813,100
+Jehu Rudeforth,New Zealand,Milk Bars,2024-05-18,2846,197
+Gunar Cockshoot,India,Caramel Stuffed Bars,2024-07-28,2942,220
+Curtice Advani,UK,Manuka Honey Choco,2024-02-07,1970,114
+Andria Kimpton,India,Orange Choco,2024-05-30,340,452
+Mallorie Waber,Australia,Raspberry Choco,2024-04-25,8818,29
+Beverie Moffet,Canada,85% Dark Bars,2024-02-16,6830,46
+Kelci Walkden,Australia,Drinking Coco,2024-05-04,1370,58
+Van Tuxwell,Canada,70% Dark Bites,2024-06-02,7731,77
+Dennison Crosswaite,USA,Caramel Stuffed Bars,2024-07-11,2757,463
+Beverie Moffet,New Zealand,Spicy Special Slims,2024-06-07,70,63
+Jan Morforth,UK,Almond Choco,2024-07-06,10817,151
+Husein Augar,India,Raspberry Choco,2024-06-15,11595,153
+Dotty Strutley,India,Mint Chip Choco,2024-04-14,1375,231
+Camilla Castle,India,Drinking Coco,2024-08-08,504,167
+Marney O'Breen,UK,Drinking Coco,2024-03-29,1135,27
+Roddy Speechley,Australia,Organic Choco Syrup,2024-07-04,4375,79
+Ches Bonnell,India,99% Dark & Pure,2024-02-16,537,102
+Rafaelita Blaksland,Canada,Spicy Special Slims,2024-05-02,2702,164
+Van Tuxwell,India,Eclairs,2024-07-21,11064,104
+Gunar Cockshoot,Australia,99% Dark & Pure,2024-08-18,8862,226
+Kaine Padly,USA,85% Dark Bars,2024-06-22,565,256
+Camilla Castle,UK,Peanut Butter Cubes,2024-07-19,5268,120
+Madelene Upcott,UK,Peanut Butter Cubes,2024-08-12,8698,89
+Madelene Upcott,USA,Choco Coated Almonds,2024-06-07,6026,137
+Marney O'Breen,Canada,Peanut Butter Cubes,2024-03-08,7033,87
+Ches Bonnell,Australia,Choco Coated Almonds,2024-04-08,1573,176
+Curtice Advani,Canada,Eclairs,2024-05-06,857,197
+Roddy Speechley,India,Drinking Coco,2024-05-31,4899,11
+Van Tuxwell,Australia,Mint Chip Choco,2024-01-13,2924,295
+Dennison Crosswaite,USA,70% Dark Bites,2024-03-15,730,78
+Andria Kimpton,Canada,Peanut Butter Cubes,2024-02-16,1348,332
+Gigi Bohling,USA,70% Dark Bites,2024-01-14,8562,204
+Rafaelita Blaksland,Australia,White Choc,2024-03-21,7327,102
+Roddy Speechley,Canada,Drinking Coco,2024-05-17,8197,340
+Camilla Castle,New Zealand,85% Dark Bars,2024-08-08,17842,53
+Madelene Upcott,Canada,Milk Bars,2024-04-26,4285,87
+Madelene Upcott,Australia,70% Dark Bites,2024-04-15,4196,256
+Oby Sorrel,Canada,Eclairs,2024-05-19,6409,621
+Dennison Crosswaite,Canada,Drinking Coco,2024-01-10,3010,24
+Mallorie Waber,New Zealand,After Nines,2024-05-04,568,225
+Roddy Speechley,Canada,White Choc,2024-04-05,6949,292
+Andria Kimpton,India,After Nines,2024-01-17,1009,69
+Roddy Speechley,India,Spicy Special Slims,2024-03-22,12049,180
+Dotty Strutley,Australia,White Choc,2024-07-05,6969,102
+Oby Sorrel,Canada,Orange Choco,2024-04-27,10258,328
+Kaine Padly,Canada,Almond Choco,2024-08-12,7220,71
+Jan Morforth,UK,Baker's Choco Chips,2024-03-11,783,273
+Jehu Rudeforth,UK,Fruit & Nut Bars,2024-05-13,9434,221
+Dennison Crosswaite,USA,Smooth Sliky Salty,2024-05-12,12756,99
+Brien Boise,USA,Raspberry Choco,2024-01-12,807,198
+Madelene Upcott,New Zealand,Milk Bars,2024-03-29,13541,434
+Roddy Speechley,India,50% Dark Bites,2024-03-14,9976,12
+Barr Faughny,New Zealand,99% Dark & Pure,2024-05-24,9153,208
+Dennison Crosswaite,Canada,Organic Choco Syrup,2024-01-28,9251,79
+Beverie Moffet,India,Almond Choco,2024-05-24,3634,100
+Brien Boise,Australia,Peanut Butter Cubes,2024-08-19,353,196
+Karlen McCaffrey,Australia,Spicy Special Slims,2024-05-17,5304,354
+Jehu Rudeforth,USA,White Choc,2024-06-07,7339,121
+Ches Bonnell,Canada,Organic Choco Syrup,2024-07-26,616,238
+Dotty Strutley,India,Eclairs,2024-07-28,2505,397
+Karlen McCaffrey,India,70% Dark Bites,2024-05-23,5916,355
