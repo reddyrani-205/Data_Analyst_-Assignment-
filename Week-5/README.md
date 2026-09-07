@@ -149,10 +149,3 @@ The final dashboard ("HR Analytics Dashboard") includes:
 1. **Address overtime policy:** Given overtime workers attrite at ~3x the rate of others, HR should review workload distribution, staffing levels, and overtime compensation in high-overtime teams (especially R&D and Sales) to reduce burnout-driven exits.
 2. **Target retention programs at early-career, high-turnover roles:** Focus retention efforts (mentorship, career pathing, competitive pay review) on employees aged 25–34 and on Laboratory Technician / Sales Executive roles, since this segment drives the majority of attrition and is typically the most cost-effective group to retain.
 
----
-
-## Submission Contents (Option 1: GitHub Repository)
-- `HR_Analytics_Dashboard.pbix` — Power BI file
-- `HR_Employee_Attrition_Cleaned.xlsx` — dataset
-- Supporting files (any exported query steps / screenshots)
-- `README.md` — this documentation
